@@ -144,7 +144,6 @@ Here are some of the technologies I work with:
 
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocornelsen&layout=compact&hide=html,css&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF" /> 
 
-</div> 
 </p>
 
 
