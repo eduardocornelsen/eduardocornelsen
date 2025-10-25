@@ -149,10 +149,15 @@ Here are some of the technologies I work with:
 
 ## 📌 Pinned Projects
 
+- [<b>Project 1 - Strategic Revenue Analysis of Megaline's Mobile Plans: A Comparative Study </b><br><i>#revenueanalysis #telecom #productanalytics #hypothesistest #eda #python #pandas #seaborn</i>](https://eduardocornelsen.github.io/megaline-revenue-analysis/)
+
+
+
 ## 📝 Recent Blog Posts
 
+
 ## Contact Information
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at eduardo.cornelsen@gmail.com edu@torusagency.com.br or connect with me on LinkedIn at Tushar Aggarwal.
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [eduardo.cornelsen@gmail.com](mailto:eduardo.cornelsen@gmail.com) [edu@torusagency.com.br](edu@torusagency.com.br) or connect with me on LinkedIn at [Eduardo Cornelsen](www.linkedin.com).
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
