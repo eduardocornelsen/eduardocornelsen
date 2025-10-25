@@ -1,6 +1,6 @@
 <div align='center'>
 
-![Data Science Cover](assets/data-science-cover.png)
+![Data Science Cover](https://raw.githubusercontent.com/eduardocornelsen/eduardocornelsen/main/assets/data-science-cover.png)
 
 # Eduardo Cornelsen's Applied Data Science Portfolio
 
