@@ -146,15 +146,6 @@ Here are some of the technologies I work with:
 </div> 
 </p>
 
-## 📊 GitHub Stats
-<p align="center"> 
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eduardocornelsen&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF"/> 
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=eduardocornelsen&theme=taiga&hide_border=true&ring=00EB93" /> 
-    <br/>
-    
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocornelsen&layout=compact&hide=html,css&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF" /> 
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=eduardocornelsen&layout=compact&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF" />
-</p>
 
 ## 📌 Pinned Projects
 
