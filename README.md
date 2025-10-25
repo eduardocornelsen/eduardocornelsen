@@ -57,6 +57,9 @@ Here are some of the technologies I work with:
 </table>
 
 
+<details>
+<summary><b><u>View All Skills</u></b></summary>
+
 ### **Core Data Science & ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -117,7 +120,6 @@ Here are some of the technologies I work with:
 [![Business Management - Insper](https://img.shields.io/badge/BUSINESS%20MANAGEMENT-INSPER-CC0000?style=for-the-badge&logo=googleforms&logoColor=white)](YOUR_INSPER_LINK)
 <br>[![LSS Green Belt Falconi Insper](https://img.shields.io/badge/LSS%206%CF%83%20GREEN%20BELT-FALCONI%20/%20INSPER-7b7423?style=for-the-badge&logo=lean-six-sigma&logoColor=white)](YOUR_LSS_VERIFICATION_LINK)
 [![Revenue Operations](https://img.shields.io/badge/REVENUE%20OPERATIONS-GAMA%20ACADEMY-009900?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_GAMA_ACADEMY_LINK)
-</div>
 
 ### **Other Technologies & Tools**
 
@@ -130,6 +132,10 @@ Here are some of the technologies I work with:
 * **Design:** Adobe CC, Figma, Canva, Framer
 * **Productivity:** Excel, Google Sheets, PowerPoint, Word, Notion, Discord, Slack, Trello
 * **Other:** Markdown, JSON, Windows Terminal
+
+</div>
+
+</details>
 
 <br>
 
