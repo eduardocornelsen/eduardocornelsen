@@ -149,7 +149,7 @@ Here are some of the technologies I work with:
 
 ## 📌 Pinned Projects
 
-- [<b>Project 1 - Strategic Revenue Analysis of Megaline's Mobile Plans: A Comparative Study </b><br><i>#revenueanalysis #telecom #productanalytics #hypothesistest #eda #python #pandas #seaborn</i>](https://eduardocornelsen.github.io/megaline-revenue-analysis/)
+  [<img src="https://raw.githubusercontent.com/eduardocornelsen/megaline-revenue-analysis/main/assets/images/banner-megaline-analysis.png" alt="Megaline Revenue Analysis Banner"><br><b>Project 1 - Strategic Revenue Analysis of Megaline's Mobile Plans: A Comparative Study </b><br><i>#revenueanalysis #telecom #productanalytics #hypothesistest #eda #python #pandas #seaborn</i>](https://eduardocornelsen.github.io/megaline-revenue-analysis/)
 
 
 
