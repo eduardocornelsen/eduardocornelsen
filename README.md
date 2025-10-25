@@ -5,7 +5,7 @@
 # Eduardo Cornelsen's Applied Data Science Portfolio
 
 <a href="[Link to your LinkedIn]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href="[Your Portfolio/Website URL]"><img src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logo=internetexplorer&logoColor=black" height=25></a>
+<a href="[Your Portfolio/Website URL]"><img src="https://img.shields.io/badge/Portfolio-4a2360?style=for-the-badge&logo=internetexplorer&logoColor=black" height=25></a>
 <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 </div>
