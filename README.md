@@ -1,6 +1,6 @@
 <div align='center'>
-
-![Data Science Cover](https://raw.githubusercontent.com/eduardocornelsen/eduardocornelsen/main/assets/data-science-cover.png)
+  
+![Data Science Cover](https://github.com/user-attachments/assets/360ce14c-4591-4825-a7b8-7af4c7e8f515)
 
 # Eduardo Cornelsen's Applied Data Science Portfolio
 
@@ -18,6 +18,13 @@ I am a **Business Management** graduate and aspiring Data Scientist specializing
 - 👯 Seeking collaborations at the intersection of **Finance (Fintech)**, **SaaS Revenue Operations (RevOps)**, and **AI for Social Impact**.
 - 🔗 Connect with me on [Your LinkedIn URL] or email me at [edu@torusagency.com.br](mailto:edu@torusagency.com.br)
 
+<br>
+
+<div align='center'>
+  
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+
+</div>
 
 ## 🛠️ Skills & Toolbelt
 Here are some of the technologies I work with:
@@ -155,15 +162,43 @@ Here are some of the technologies I work with:
 
 ## 📌 Pinned Projects
 
-  [<img src="https://raw.githubusercontent.com/eduardocornelsen/megaline-revenue-analysis/main/assets/images/banner-megaline-analysis.png" alt="Megaline Revenue Analysis Banner"><br><b>Project 1 - Strategic Revenue Analysis of Megaline's Mobile Plans: A Comparative Study </b><br><i>#revenueanalysis #telecom #productanalytics #hypothesistest #eda #python #pandas #seaborn</i>](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+<div align='center'>
+  
+### 🚀 **Project 1:<br>Strategic Revenue Analysis of Megaline's Mobile Plans:<br>A Comparative Study**
 
+[![banner-megaline-analysis-400px](https://github.com/user-attachments/assets/aca96a1c-a9ce-4609-ad26-0ed0c1e0091b)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
 
+**Description:**<br>This project provides a **detailed, comparative revenue analysis** of Megaline's 'Surf' and 'Ultimate' mobile plans, identifying key user behaviors to inform targeted marketing and **optimize the company's financial strategy**.<br>
+**Technologies:**<br><br>Python, Pandas, Matplotlib, Streamlit, Jupyter Notebook
+
+[![View Project](https://img.shields.io/badge/View%20Project-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://example.com) [![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF)](https://colab.research.google.com/drive/1Sy64mFffPI-nRyfE1DZvz-5qeMy58dj2?usp=sharing) [![View Source](https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/megaline_revenue_analysis_story)
+
+[View Repository](https://github.com/your-username/project-a) | [Live Demo](https://live-demo.com/a)
+
+***
+
+### ⚙️ Project B: Simple Utility Script
+
+**Description:** A small script to automate task M.
+**Technologies:** JavaScript, Node.js
+[View Repository](https://github.com/your-username/project-b)
+
+</div>
 
 ## 📝 Recent Blog Posts
 
 
 ## Contact Information
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [eduardo.cornelsen@gmail.com](mailto:eduardo.cornelsen@gmail.com) [edu@torusagency.com.br](edu@torusagency.com.br) or connect with me on LinkedIn at [Eduardo Cornelsen](www.linkedin.com).
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. 
+You can contact me via email at [edu@torusagency.com.br](edu@torusagency.com.br) or connect with me on LinkedIn at [Eduardo Cornelsen](www.linkedin.com).
+
+<div align='center'>
+
+[![My Contact (LinkedIn)](https://img.shields.io/badge/👋%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/eduardocornelsen) [![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edu@torusagency.com.br)
+
+</div>
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
