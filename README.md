@@ -190,7 +190,7 @@ Here are some of the technologies I work with:
 ## 📝 Recent Blog Posts
 
 
-## Contact Information
+## 👤 Contact Information
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. 
 You can contact me via email at [edu@torusagency.com.br](edu@torusagency.com.br) or connect with me on LinkedIn at [Eduardo Cornelsen](www.linkedin.com).
 
