@@ -168,18 +168,14 @@ Here are some of the technologies I work with:
 
 [![banner-megaline-analysis-400px](https://github.com/user-attachments/assets/aca96a1c-a9ce-4609-ad26-0ed0c1e0091b)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
 
-**Description:**<br>This project provides a **detailed, comparative revenue analysis** of Megaline's 'Surf' and 'Ultimate' mobile plans, identifying key user behaviors to inform targeted marketing and **optimize the company's financial strategy**.<br>
-**Technologies:**<br><br>Python, Pandas, Matplotlib, Streamlit, Jupyter Notebook
+**Description:** <br>This project provides a **detailed, comparative revenue analysis** of Megaline's 'Surf' and 'Ultimate' mobile plans, identifying key user behaviors to inform targeted marketing and **optimize the company's financial strategy**.<br><br>
+**Technologies:** <br>Python, Pandas, Matplotlib, Streamlit, Jupyter Notebook
 
 [![View Project](https://img.shields.io/badge/View%20Project-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
 
-[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://example.com) [![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF)](https://colab.research.google.com/drive/1Sy64mFffPI-nRyfE1DZvz-5qeMy58dj2?usp=sharing) [![View Source](https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/megaline_revenue_analysis_story)
-
-[View Repository](https://github.com/your-username/project-a) | [Live Demo](https://live-demo.com/a)
-
 ***
 
-### ⚙️ Project B: Simple Utility Script
+### ⚙️ Project 2: Simple Utility Script
 
 **Description:** A small script to automate task M.
 **Technologies:** JavaScript, Node.js
