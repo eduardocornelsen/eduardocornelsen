@@ -11,18 +11,30 @@
 </div>
 
 ## About Me
-I am a **Business Management** graduate and aspiring Data Scientist specializing in **data-driven process optimization** and **business value creation**. Leveraging a background in **SaaS Sales (ERP/CRM)** and **Entrepreneurship**, I understand the full lifecycle of a business problem—from lead generation to sustained efficiency (validated by my **Lean Six Sigma Green Belt** certification). I am passionate about translating raw data into impactful business strategies.
+HI 👋 I'm Eduardo Cornelsen.<br><br>I help businesses make smarter decisions by finding the story hidden within their data.
 
-- 🔭 I’m currently developing a **Time Series Forecasting model** to optimize inventory levels, applying my **Lean Six Sigma** methodology to the project scope.
-- 🌱 **Upskilling** in Data Science, Machine Learning, and Cloud Fundamentals via **TripleTen's bootcamp** (Graduating [Month, Year]).
-- 👯 Seeking collaborations at the intersection of **Finance (Fintech)**, **SaaS Revenue Operations (RevOps)**, and **AI for Social Impact**.
-- 🔗 Connect with me on [Your LinkedIn URL] or email me at [edu@torusagency.com.br](mailto:edu@torusagency.com.br)
+My approach combines technical data science with a practical, business-first mindset. Grounded in a **Business Management** degree from **INSPER** and professional experience in **SaaS Sales (ERP/CRM)**, backed by an **Inside Sales certification**, I use my **Lean Six Sigma Green Belt** framework to focus on identifying the *right* problems to solve and ensuring data projects deliver clear, measurable value.
+
+My core technical stack includes:
+* **ML/DL:** Python, Scikit-learn, TensorFlow, PyTorch
+* **Data Engineering:** SQL, Apache Airflow, Kafka
+* **Cloud & MLOps:** AWS, Azure, GCP
+* **BI & Visualization:** Power BI (inc. complex DAX), Tableau, Streamlit
+* **LLMs & AI:** LangChain, OpenAI API, Google Gemini API
+
+As a recent **TripleTen Data Science** graduate (March, 2026), I'm now applying these principles to build intelligent applications. 
+
+I'm actively seeking opportunities to bring this business-focused, clarity-driven approach to data science challenges, particularly in **Fintech**, **RevOps**, and **AI for Social Impact**.
+
+Explore my projects below to see how I turn data into understanding.
 
 <br>
 
 <div align='center'>
   
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+
+- 🔗 Connect with me on ![LinkedIn] or email me at [edu@torusagency.com.br](mailto:edu@torusagency.com.br) 
 
 </div>
 
