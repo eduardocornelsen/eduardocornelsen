@@ -10,17 +10,26 @@
 
 </div>
 
-## About Me
-Hello! 👋 I'm Eduardo Cornelsen.<br><br>I help businesses make smarter decisions by finding the story hidden within their data.
+<details open>
+
+<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
+  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+    <strong>Hello! 👋 I'm Eduardo Cornelsen.</strong>
+  </h2>
+  <hr style="margin-top: 0px;">
+</summary>
+
+
+I help businesses make smarter decisions by finding the story hidden within their data.
 
 My approach combines technical data science with a practical, business-first mindset. Grounded in a **Business Management** degree from **INSPER** and professional experience in **SaaS Sales (ERP/CRM)**, backed by an **Inside Sales certification**, I use my **Lean Six Sigma Green Belt** framework to focus on identifying the *right* problems to solve and ensuring data projects deliver clear, measurable value.
 
 My core technical stack includes:
-* **ML/DL:** Python, Scikit-learn, TensorFlow, PyTorch
-* **Data Engineering:** SQL, Apache Airflow, Kafka
-* **Cloud & MLOps:** AWS, Azure, GCP
-* **BI & Visualization:** Power BI (inc. complex DAX), Tableau, Streamlit
-* **LLMs & AI:** LangChain, OpenAI API, Google Gemini API
+> * **ML/DL:** Python, Scikit-learn, TensorFlow, PyTorch
+> * **Data Engineering:** SQL, Apache Airflow, Kafka
+> * **Cloud & MLOps:** AWS, Azure, GCP
+> * **BI & Visualization:** Power BI (inc. complex DAX), Tableau, Streamlit
+>* **LLMs & AI:** LangChain, OpenAI API, Google Gemini API
 
 As a recent **TripleTen Data Science** graduate (March, 2026), I'm now applying these principles to build intelligent applications. 
 
@@ -29,7 +38,23 @@ I'm actively seeking opportunities to bring this business-focused, clarity-drive
 Explore my projects below to see how I turn data into understanding.
 
 
-## 🧠 Core Competencies & Methodologies
+  <div align='center'>
+<br>
+
+  [![View My Full Portfolio (EN/PT)](https://img.shields.io/badge/View_My_Full_Portfolio_(EN/PT)-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+  </div>
+
+</details>
+
+<details open>
+
+<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
+  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+    <strong>🧠 Core Competencies & Methodologies</strong>
+  </h2>
+  <hr style="margin-top: 0px;">
+</summary>
+
 
 As a data scientist, my focus is on translating complex business questions into actionable, data-driven solutions. My process is built on a foundation of rigorous scientific and business methods.
 
@@ -46,8 +71,26 @@ As a data scientist, my focus is on translating complex business questions into 
     * (Optional: Add this if you want to highlight it)
     * Writing testable, maintainable code (using `pytest`) and versioning data pipelines (`DVC`) to ensure reproducible and reliable results.
 
+  <br>
 
-## 🛠️ Skills & Toolbelt
+  <div align='center'>
+  
+  [![View My Full Portfolio (EN/PT)](https://img.shields.io/badge/View_My_Full_Portfolio_(EN/PT)-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+  </div>
+
+
+</details>
+
+
+<details open>
+
+<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
+  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+    <strong>🛠️ Skills & Toolbelt</strong>
+  </h2>
+  <hr style="margin-top: 0px;">
+</summary>
+
 Here are some of the technologies I work with:
 
 <div align='center'>
@@ -89,7 +132,7 @@ Here are some of the technologies I work with:
 <summary>
   <h2 style="display: inline-block;">
     <strong>🔽 View All Skills 🔽</strong>
-  </h3>
+  </h2>
 </summary>
 
 
@@ -191,11 +234,11 @@ Here are some of the technologies I work with:
 
 <br>
 
-<div align='center'>
+
+## ✨ **My Polished Project Showcase (EN/PT)**
 
 <div align='center'>
 
-## ✨ My Polished Project Showcase (EN/PT)
 
 [![View My Full Portfolio (EN/PT)](https://img.shields.io/badge/View_My_Full_Portfolio_(EN/PT)-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
 
@@ -203,8 +246,16 @@ Here are some of the technologies I work with:
 
 ---
 
-## 📌 Pinned GitHub Projects
+<details open>
+<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
+  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+    <strong>📌 Pinned GitHub Projects</strong>
+  </h2>
+  <hr style="margin-top: 0px;">
+</summary>
 
+
+<div align='center'>
 
 ### 🚀 Project 1:<br>**Strategic Revenue Analysis of Megaline's Mobile Plans:**<br>A Comparative Study
 
@@ -230,10 +281,20 @@ Here are some of the technologies I work with:
 
 </div>
 
+</details>
+
 
 <br>
 
-## 📊 GitHub Stats
+<details open>
+
+<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
+  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+    <strong>📊 GitHub Stats</strong>
+  </h2>
+  <hr style="margin-top: 0px;">
+</summary>
+
 
 <div align="center"> 
 
@@ -246,7 +307,7 @@ Here are some of the technologies I work with:
 
 </div>
 
-
+</details>
 
 
 ## 👤 Contact Information
