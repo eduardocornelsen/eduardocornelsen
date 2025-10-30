@@ -11,7 +11,7 @@
 </div>
 
 ## About Me
-HI 👋 I'm Eduardo Cornelsen.<br><br>I help businesses make smarter decisions by finding the story hidden within their data.
+Hello! 👋 I'm Eduardo Cornelsen.<br><br>I help businesses make smarter decisions by finding the story hidden within their data.
 
 My approach combines technical data science with a practical, business-first mindset. Grounded in a **Business Management** degree from **INSPER** and professional experience in **SaaS Sales (ERP/CRM)**, backed by an **Inside Sales certification**, I use my **Lean Six Sigma Green Belt** framework to focus on identifying the *right* problems to solve and ensuring data projects deliver clear, measurable value.
 
@@ -104,16 +104,6 @@ Here are some of the technologies I work with:
 </summary>
 
 
-### **Core Data Science & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0060A0?style=for-the-badge&logo=xgboost&logoColor=white)
-
-
 ### **Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -124,6 +114,17 @@ Here are some of the technologies I work with:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1A5F9E?style=for-the-badge&logo=stata&logoColor=white)
+
+
+### **Core Data Science & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0060A0?style=for-the-badge&logo=xgboost&logoColor=white)
+
 
 ### **Databases & Big Data**
 
@@ -176,7 +177,7 @@ Here are some of the technologies I work with:
 ![Zsh](https://img.shields.io/badge/Zsh-grey?style=for-the-badge&logo=zsh&logoColor=white)
 
 
-### **Certifications & Methodologies** 🏆
+### **Certifications** 🏆
 
 [![Data Scientist - TripleTen](https://img.shields.io/badge/DATA%20SCIENTIST-TRIPLETEN-0077B5?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_TRIPLETEN_LINK)
 [![Business Management - Insper](https://img.shields.io/badge/BUSINESS%20MANAGEMENT-INSPER-CC0000?style=for-the-badge&logo=googleforms&logoColor=white)](YOUR_INSPER_LINK)
@@ -203,7 +204,7 @@ Here are some of the technologies I work with:
 
 ## 📊 GitHub Stats
 
-<p align="center"> 
+<div align="center"> 
 
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=eduardocornelsen&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF&cache_seconds=3600"/> 
 
@@ -212,7 +213,7 @@ Here are some of the technologies I work with:
 
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocornelsen&layout=compact&hide=html,css&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF&cache_seconds=3600" /> 
 
-</p>
+</div>
 
 
 ## 📌 Pinned Projects
@@ -242,12 +243,10 @@ Here are some of the technologies I work with:
 
 </div>
 
-## 📝 Recent Blog Posts
-
 
 ## 👤 Contact Information
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. 
-You can contact me via email at [edu@torusagency.com.br](edu@torusagency.com.br) or connect with me on LinkedIn at [Eduardo Cornelsen](www.linkedin.com).
+
 
 <div align='center'>
 
