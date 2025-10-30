@@ -49,7 +49,7 @@ Explore my projects below to see how I turn data into understanding.
 
 <details open>
 
-<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
+<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; margin-top: 30px; margin-bottom: 20px">
   <strong>🧠 Core Competencies & Methodologies</strong>
 </summary>
 
@@ -197,6 +197,7 @@ Here are some of the technologies I work with:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-grey?style=for-the-badge&logo=zsh&logoColor=white)
 
+<br><br>
 
 </div>
 </details>
@@ -304,7 +305,7 @@ Here are some of the technologies I work with:
 </details>
 
 <details open>
-<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px; margin-top: 30px;">
+<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
     <strong>👤 Contact Information</strong>
 </summary>
 
@@ -321,10 +322,12 @@ If you have any questions, feedback, or collaboration opportunities, please feel
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
-<div align='center'>
 <br>
 </details>
 
 ---
+<div align='center'>
+
 *&copy; 2025 Eduardo Cornelsen. All Rights Reserved.*
+
 </div>
