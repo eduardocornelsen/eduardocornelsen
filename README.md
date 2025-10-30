@@ -11,11 +11,8 @@
 
 <details open>
 
-<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
-  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
     <strong>👋 Hello! I'm Eduardo Cornelsen.</strong>
-  </h2>
-  <hr style="margin-top: 0px;">
 </summary>
 
 
@@ -52,11 +49,8 @@ Explore my projects below to see how I turn data into understanding.
 
 <details open>
 
-<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
-  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
-    <strong>🧠 Core Competencies & Methodologies</strong>
-  </h2>
-  <hr style="margin-top: 0px;">
+<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
+  <strong>🧠 Core Competencies & Methodologies</strong>
 </summary>
 
 
@@ -82,11 +76,8 @@ As a data scientist, my focus is on translating complex business questions into 
 
 <details open>
 
-<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
-  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
     <strong>🛠️ Skills & Toolbelt</strong>
-  </h2>
-  <hr style="margin-top: 0px;">
 </summary>
 
 Here are some of the technologies I work with:
@@ -212,11 +203,8 @@ Here are some of the technologies I work with:
 
 <details open>
 
-<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
-  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
     <strong>🏆 Certifications</strong>
-  </h2>
-  <hr style="margin-top: 0px;">
 </summary>
 
 <div align='center'>
@@ -234,11 +222,8 @@ Here are some of the technologies I work with:
 
 <details open>
 
-<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
-  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
     <strong>⚙️ Business Platforms & Productivity Tools</strong>
-  </h2>
-  <hr style="margin-top: 0px;">
 </summary>
 
 
@@ -257,11 +242,8 @@ Here are some of the technologies I work with:
 
 
 <details open>
-<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
-  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
     <strong>📌 Pinned GitHub Projects</strong>
-  </h2>
-  <hr style="margin-top: 0px;">
 </summary>
 
 
@@ -290,24 +272,21 @@ Here are some of the technologies I work with:
   <a href="https://eduardocornelsen.github.io/megaline_revenue_analysis_story/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/View%20Project%20_(EN/PT)-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF" 
         alt="View Project" 
-        style="border: none; height: 35px; margin-top:20px; margin-bottom: 50px;">
+        style="border: none; height: 35px; margin-top:20px; margin-bottom: 35px;">
   </a>
 </div>
 
 
 ***
-
+<br>
 
 </details>
 
 
 <details open>
 
-<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
-  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
     <strong>📊 GitHub Stats</strong>
-  </h2>
-  <hr style="margin-top: 0px;">
 </summary>
 
 
@@ -324,8 +303,11 @@ Here are some of the technologies I work with:
 
 </details>
 
+<details open>
+<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px; margin-top: 30px;">
+    <strong>👤 Contact Information</strong>
+</summary>
 
-## 👤 **Contact Information**
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. 
 
 
@@ -341,6 +323,7 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 
 <div align='center'>
 <br>
+</details>
 
 ---
 *&copy; 2025 Eduardo Cornelsen. All Rights Reserved.*
