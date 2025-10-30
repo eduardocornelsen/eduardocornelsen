@@ -24,11 +24,11 @@ I help businesses make smarter decisions by finding the story hidden within thei
 My approach combines technical data science with a practical, business-first mindset. Grounded in a **Business Management** degree from **INSPER** and professional experience in **SaaS Sales (ERP/CRM)**, backed by an **Inside Sales certification**, I use my **Lean Six Sigma Green Belt** framework to focus on identifying the *right* problems to solve and ensuring data projects deliver clear, measurable value.
 
 My core technical stack includes:
-> * **ML/DL:** Python, Scikit-learn, TensorFlow, PyTorch
-> * **Data Engineering:** SQL, Apache Airflow, Kafka
-> * **Cloud & MLOps:** AWS, Azure, GCP
-> * **BI & Visualization:** Power BI (inc. complex DAX), Tableau, Streamlit
->* **LLMs & AI:** LangChain, OpenAI API, Google Gemini API
+* **ML/DL:** Python, Scikit-learn, TensorFlow, PyTorch
+* **Data Engineering:** SQL, Apache Airflow, Kafka
+* **Cloud & MLOps:** AWS, Azure, GCP
+* **BI & Visualization:** Power BI (inc. complex DAX), Tableau, Streamlit
+* **LLMs & AI:** LangChain, OpenAI API, Google Gemini API
 
 As a recent **TripleTen Data Science** graduate (graduating March, 2026), I'm now applying these principles to build intelligent applications. 
 
