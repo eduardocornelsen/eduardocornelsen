@@ -28,13 +28,33 @@ I'm actively seeking opportunities to bring this business-focused, clarity-drive
 
 Explore my projects below to see how I turn data into understanding.
 
-<br>
+
+## 🧠 Core Competencies & Methodologies
+
+As a data scientist, my focus is on translating complex business questions into actionable, data-driven solutions. My process is built on a foundation of rigorous scientific and business methods.
+
+* **Statistical Analysis & Experimentation:**
+    * Designing and analyzing **A/B Tests** to measure product impact.
+    * Applying **Hypothesis Testing** (t-tests, chi-squared) to validate assumptions.
+    * Exploring **Causal Inference** to understand true cause-and-effect relationships.
+
+* **Business Acumen & Storytelling:**
+    * **Problem Formulation:** Collaborating with stakeholders to define vague problems into clear, testable data science questions.
+    * **Data Storytelling:** Communicating complex findings to non-technical audiences using dashboards and narratives that drive decision-making.
+
+* **MLOps & Production-Ready Code:**
+    * (Optional: Add this if you want to highlight it)
+    * Writing testable, maintainable code (using `pytest`) and versioning data pipelines (`DVC`) to ensure reproducible and reliable results.
+
+<br><br>
 
 <div align='center'>
   
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
 
-- 🔗 Connect with me on ![LinkedIn] or email me at [edu@torusagency.com.br](mailto:edu@torusagency.com.br) 
+<br>
+
+🔗 Connect with me on [LinkedIn](https://linkedin.com) or email me at [edu@torusagency.com.br](mailto:edu@torusagency.com.br) 
 
 </div>
 
@@ -77,22 +97,33 @@ Here are some of the technologies I work with:
 
 
 <details>
-<summary><b><u>View All Skills</u></b></summary>
+<summary>
+  <h3 style="display: inline-block;">
+    <strong>🔽 View All Skills 🔽</strong>
+  </h3>
+</summary>
+
 
 ### **Core Data Science & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0060A0?style=for-the-badge&logo=xgboost&logoColor=white)
+
+
+### **Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-<br>![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0060A0?style=for-the-badge&logo=xgboost&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1A5F9E?style=for-the-badge&logo=stata&logoColor=white)
-
 
 ### **Databases & Big Data**
 
@@ -100,6 +131,9 @@ Here are some of the technologies I work with:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 ### **Cloud & MLOps**
@@ -108,8 +142,17 @@ Here are some of the technologies I work with:
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-3D48CC?style=for-the-badge&logo=amazonsagemaker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+
+### **MLOps & Data Versioning**
+
+![MLFlow](https://img.shields.io/badge/MLFlow-000000?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-8E33F7?style=for-the-badge&logo=dvc&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6351?style=for-the-badge&logo=greatexpectations&logoColor=white)
 
 
 ### **BI & Visualization**
@@ -118,7 +161,7 @@ Here are some of the technologies I work with:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-6C43E0?style=for-the-badge&logo=looker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-<br>![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
@@ -140,17 +183,17 @@ Here are some of the technologies I work with:
 <br>[![LSS Green Belt Falconi Insper](https://img.shields.io/badge/LSS%206%CF%83%20GREEN%20BELT-FALCONI%20/%20INSPER-7b7423?style=for-the-badge&logo=lean-six-sigma&logoColor=white)](YOUR_LSS_VERIFICATION_LINK)
 [![Revenue Operations](https://img.shields.io/badge/REVENUE%20OPERATIONS-GAMA%20ACADEMY-009900?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_GAMA_ACADEMY_LINK)
 
-### **Other Technologies & Tools**
 
-* **Web/CMS:** HTML, CSS, TypeScript, WordPress, Elementor, Shopify, GitHub Pages
-* **Databases:** MongoDB, Supabase
-* **Data Engineering/Automation:** Apache Kafka, N8N
-* **AI Platforms:** Google Gemini, Ollama, Perplexity, Hugging Face
-* **Cloud Services:** Amazon S3, Amazon EC2, Render
-* **Marketing Analytics:** Google Analytics, Google Ads, Google Tag Manager, Meta Ads, SEMrush, Qualtrics, HubSpot, Salesforce, Microsoft Advertising
-* **Design:** Adobe CC, Figma, Canva, Framer
-* **Productivity:** Excel, Google Sheets, PowerPoint, Word, Notion, Discord, Slack, Trello
-* **Other:** Markdown, JSON, Windows Terminal
+### ⚙️ Business Platforms & Productivity Tools
+
+| Category | Tools |
+| :--- | :--- |
+| **CMS/Web** | WordPress, Elementor, GitHub Pages |
+| **Ecommerce & ERP** | Shopify, WooCommerce, Wix, NuvemShop, Loja Integrada, Omie ERP |
+| **Marketing/Analytics** | Google Analytics, Google Ads, GTM, Meta Ads, SEMrush, Qualtrics, HubSpot, Salesforce |
+| **Design & Prototyping** | Adobe CC, Figma, Canva, Framer |
+| **Productivity** | Excel, Google Sheets, PowerPoint, Word, Notion, Discord, Slack, Trello |
+| **Automation** | N8N |
 
 </div>
 
@@ -175,15 +218,19 @@ Here are some of the technologies I work with:
 ## 📌 Pinned Projects
 
 <div align='center'>
-  
-### 🚀 **Project 1:<br>Strategic Revenue Analysis of Megaline's Mobile Plans:<br>A Comparative Study**
+
+### 🚀 Project 1:<br>**Strategic Revenue Analysis of Megaline's Mobile Plans:**<br>A Comparative Study
+
 
 [![banner-megaline-analysis-400px](https://github.com/user-attachments/assets/aca96a1c-a9ce-4609-ad26-0ed0c1e0091b)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
 
+![Status Badge: Completed](https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge&logo=wakatime)
+
 **Description:** <br>This project provides a **detailed, comparative revenue analysis** of Megaline's 'Surf' and 'Ultimate' mobile plans, identifying key user behaviors to inform targeted marketing and **optimize the company's financial strategy**.<br><br>
-**Technologies:** <br>Python, Pandas, Matplotlib, Streamlit, Jupyter Notebook
+**The Tools We Used:**<br>Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Streamlit, and Jupyter Notebook.
 
 [![View Project](https://img.shields.io/badge/View%20Project-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+<br><br>
 
 ***
 
@@ -210,3 +257,9 @@ You can contact me via email at [edu@torusagency.com.br](edu@torusagency.com.br)
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
+<div align='center'>
+<br>
+
+---
+*&copy; 2025 Eduardo Cornelsen. All Rights Reserved.*
+</div>
