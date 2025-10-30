@@ -4,9 +4,9 @@
 
 # Eduardo Cornelsen's Applied Data Science Portfolio
 
-<a href="[Your WhatsApp Link, e.g., https://wa.me/55119...]"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/educornelsen"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href="mailto:[edu@torusagency.com.br]"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="[Your WhatsApp Link, e.g., https://wa.me/55119...]"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=30></a>
+<a href="https://www.linkedin.com/educornelsen"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
+<a href="mailto:[edu@torusagency.com.br]"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 </div>
 
 <details open>
@@ -37,11 +37,16 @@ I'm actively seeking opportunities to bring this business-focused, clarity-drive
 Explore my projects below to see how I turn data into understanding.
 
 
-  <div align='center'>
+ <div align='center'>
 <br>
 
-  [![View My Full Portfolio (EN/PT)](https://img.shields.io/badge/View_My_Full_Portfolio_(EN/PT)-4a2360?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
-  </div>
+ <a href="https://eduardocornelsen.github.io/megaline_revenue_analysis_story/" style="text-decoration: none;">
+   <img src="https://img.shields.io/badge/View_My_Full_Portfolio_(EN/PT)-4a2360?style=for-the-badge&logo=rocket&logoColor=FFFFFF" 
+         alt="View My Full Portfolio (EN/PT)" 
+         style="border: none; height: 35px; margin-bottom: 30px">
+ </a>
+
+</div>
 
 </details>
 
@@ -260,9 +265,13 @@ Here are some of the technologies I work with:
 
 <div align='center'>
 
+<img src="https://img.shields.io/badge/📌%20Project%201-a53825?style=for-the-badge" alt="Project 1" height="35px" style="margin-bottom: 10px; margin-top: 10px;">
 
-
-### 🚀 Project 1:<br>**Strategic Revenue Analysis of Megaline's Mobile Plans:**<br>A Comparative Study
+<h3 style="margin-top: 0px; margin-bottom: 15px; line-height: 1.4;">
+  <strong>Strategic Revenue Analysis of Megaline's Mobile Plans:</strong>
+  <br>
+  A Comparative Study
+</h3>
 
 
 [![banner-megaline-analysis-400px](https://github.com/user-attachments/assets/aca96a1c-a9ce-4609-ad26-0ed0c1e0091b)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
@@ -272,8 +281,11 @@ Here are some of the technologies I work with:
 **Description:** <br>This project provides a **detailed, comparative revenue analysis** of Megaline's 'Surf' and 'Ultimate' mobile plans, identifying key user behaviors to inform targeted marketing and **optimize the company's financial strategy**.<br><br>
 **The Tools We Used:**<br>Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Streamlit, and Jupyter Notebook.
 
-[![View Project](https://img.shields.io/badge/View%20Project-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
-<br><br>
+<a href="https://eduardocornelsen.github.io/megaline_revenue_analysis_story/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/View%20Project-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF" 
+       alt="View Project" 
+       style="border: none; height: 35px; margin-top:20px; margin-bottom: 50px;">
+</a>
 
 ***
 
@@ -321,7 +333,9 @@ If you have any questions, feedback, or collaboration opportunities, please feel
 
 <div align='center'>
 
-[![My Contact (LinkedIn)](https://img.shields.io/badge/👋%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/eduardocornelsen) [![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edu@torusagency.com.br)
+<a href="https://linkedin.com/eduardocornelsen"><img src="https://img.shields.io/badge/👋%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
+<a href="[Your WhatsApp Link, e.g., https://wa.me/55119...]"><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=30></a>
+<a href="mailto:edu@torusagency.com.br"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 
 </div>
 
