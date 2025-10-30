@@ -10,7 +10,7 @@
 </div>
 
 
-## 👋 Hello! I'm Eduardo Cornelsen.
+## 👋 **Hello! I'm Eduardo Cornelsen.**
 
 <details open>
 
@@ -50,7 +50,7 @@ Explore my projects below to see how I turn data into understanding.
 
 <br>
 
-## 🧠 Core Competencies & Methodologies
+## 🧠 **Core Competencies & Methodologies**
 
 <details open>
 <summary><i>Hide details...</i></summary>
@@ -73,9 +73,7 @@ As a data scientist, my focus is on translating complex business questions into 
 
 </details>
 
-<br>
-
-## 🛠️ Skills & Toolbelt
+## 🛠️ **Skills & Toolbelt**
 
 Here are some of the technologies I work with:
 
@@ -193,6 +191,7 @@ Here are some of the technologies I work with:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-grey?style=for-the-badge&logo=zsh&logoColor=white)
 
+
 <br><br>
 
 </div>
@@ -201,7 +200,7 @@ Here are some of the technologies I work with:
 <br>
 
 
-## 🏆 Certifications
+## 🏆 **Certifications**
 
 <div align='center'>
 
