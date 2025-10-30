@@ -77,10 +77,6 @@ As a data scientist, my focus is on translating complex business questions into 
 
 ## 🛠️ Skills & Toolbelt
 
-<details open>
-<summary><i>Hide details...</i></summary>
-<br>
-
 Here are some of the technologies I work with:
 
 <div align='center'>
@@ -118,7 +114,6 @@ Here are some of the technologies I work with:
 </table>
 
 
-<details>
 <summary>
   <h2 style="display: inline-block;">
     <strong>🔽 View All Skills 🔽</strong>
