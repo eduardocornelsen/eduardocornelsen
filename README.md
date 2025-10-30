@@ -4,17 +4,16 @@
 
 # Eduardo Cornelsen's Applied Data Science Portfolio
 
-<a href="[Link to your LinkedIn]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href="[Your Portfolio/Website URL]"><img src="https://img.shields.io/badge/Portfolio-4a2360?style=for-the-badge&logo=internetexplorer&logoColor=black" height=25></a>
-<a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-
+<a href="[Your WhatsApp Link, e.g., https://wa.me/55119...]"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/educornelsen"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="mailto:[edu@torusagency.com.br]"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </div>
 
 <details open>
 
 <summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
   <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
-    <strong>Hello! 👋 I'm Eduardo Cornelsen.</strong>
+    <strong>👋 Hello! I'm Eduardo Cornelsen.</strong>
   </h2>
   <hr style="margin-top: 0px;">
 </summary>
@@ -31,7 +30,7 @@ My core technical stack includes:
 > * **BI & Visualization:** Power BI (inc. complex DAX), Tableau, Streamlit
 >* **LLMs & AI:** LangChain, OpenAI API, Google Gemini API
 
-As a recent **TripleTen Data Science** graduate (March, 2026), I'm now applying these principles to build intelligent applications. 
+As a recent **TripleTen Data Science** graduate (graduating March, 2026), I'm now applying these principles to build intelligent applications. 
 
 I'm actively seeking opportunities to bring this business-focused, clarity-driven approach to data science challenges, particularly in **Fintech**, **RevOps**, and **AI for Social Impact**.
 
@@ -41,7 +40,7 @@ Explore my projects below to see how I turn data into understanding.
   <div align='center'>
 <br>
 
-  [![View My Full Portfolio (EN/PT)](https://img.shields.io/badge/View_My_Full_Portfolio_(EN/PT)-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+  [![View My Full Portfolio (EN/PT)](https://img.shields.io/badge/View_My_Full_Portfolio_(EN/PT)-4a2360?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
   </div>
 
 </details>
@@ -68,15 +67,9 @@ As a data scientist, my focus is on translating complex business questions into 
     * **Data Storytelling:** Communicating complex findings to non-technical audiences using dashboards and narratives that drive decision-making.
 
 * **MLOps & Production-Ready Code:**
-    * (Optional: Add this if you want to highlight it)
     * Writing testable, maintainable code (using `pytest`) and versioning data pipelines (`DVC`) to ensure reproducible and reliable results.
 
-  <br>
 
-  <div align='center'>
-  
-  [![View My Full Portfolio (EN/PT)](https://img.shields.io/badge/View_My_Full_Portfolio_(EN/PT)-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
-  </div>
 
 
 </details>
@@ -209,15 +202,38 @@ Here are some of the technologies I work with:
 ![Zsh](https://img.shields.io/badge/Zsh-grey?style=for-the-badge&logo=zsh&logoColor=white)
 
 
-### **Certifications** 🏆
+</div>
+</details>
+
+<details open>
+
+<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
+  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+    <strong>🏆 Certifications</strong>
+  </h2>
+  <hr style="margin-top: 0px;">
+</summary>
+
+<div align='center'>
 
 [![Data Scientist - TripleTen](https://img.shields.io/badge/DATA%20SCIENTIST-TRIPLETEN-0077B5?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_TRIPLETEN_LINK)
 [![Business Management - Insper](https://img.shields.io/badge/BUSINESS%20MANAGEMENT-INSPER-CC0000?style=for-the-badge&logo=googleforms&logoColor=white)](YOUR_INSPER_LINK)
-<br>[![LSS Green Belt Falconi Insper](https://img.shields.io/badge/LSS%206%CF%83%20GREEN%20BELT-FALCONI%20/%20INSPER-7b7423?style=for-the-badge&logo=lean-six-sigma&logoColor=white)](YOUR_LSS_VERIFICATION_LINK)
+[![LSS Green Belt Falconi Insper](https://img.shields.io/badge/LSS%206%CF%83%20GREEN%20BELT-FALCONI%20/%20INSPER-7b7423?style=for-the-badge&logo=lean-six-sigma&logoColor=white)](YOUR_LSS_VERIFICATION_LINK)
 [![Revenue Operations](https://img.shields.io/badge/REVENUE%20OPERATIONS-GAMA%20ACADEMY-009900?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_GAMA_ACADEMY_LINK)
 
+</div>
+</details>
 
-### ⚙️ Business Platforms & Productivity Tools
+
+<details open>
+
+<summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
+  <h2 style="display: inline-block; border-bottom: none; margin-bottom: 0px;">
+    <strong>⚙️ Business Platforms & Productivity Tools</strong>
+  </h2>
+  <hr style="margin-top: 0px;">
+</summary>
+
 
 | Category | Tools |
 | :--- | :--- |
@@ -228,23 +244,10 @@ Here are some of the technologies I work with:
 | **Productivity** | Excel, Google Sheets, PowerPoint, Word, Notion, Discord, Slack, Trello |
 | **Automation** | N8N |
 
-</div>
+---
 
 </details>
 
-<br>
-
-
-## ✨ **My Polished Project Showcase (EN/PT)**
-
-<div align='center'>
-
-
-[![View My Full Portfolio (EN/PT)](https://img.shields.io/badge/View_My_Full_Portfolio_(EN/PT)-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
-
-</div>
-
----
 
 <details open>
 <summary style="border-bottom: 2px solid black; padding-bottom: 5px;">
@@ -256,6 +259,8 @@ Here are some of the technologies I work with:
 
 
 <div align='center'>
+
+
 
 ### 🚀 Project 1:<br>**Strategic Revenue Analysis of Megaline's Mobile Plans:**<br>A Comparative Study
 
@@ -281,10 +286,10 @@ Here are some of the technologies I work with:
 
 </div>
 
+***
+
 </details>
 
-
-<br>
 
 <details open>
 
@@ -310,7 +315,7 @@ Here are some of the technologies I work with:
 </details>
 
 
-## 👤 Contact Information
+## 👤 **Contact Information**
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. 
 
 
