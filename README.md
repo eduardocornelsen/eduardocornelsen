@@ -48,6 +48,7 @@ Explore my projects below to see how I turn data into understanding.
 
 </details>
 
+<br>
 
 ## 🧠 Core Competencies & Methodologies
 
@@ -72,6 +73,7 @@ As a data scientist, my focus is on translating complex business questions into 
 
 </details>
 
+<br>
 
 ## 🛠️ Skills & Toolbelt
 
@@ -201,6 +203,8 @@ Here are some of the technologies I work with:
 </div>
 </details>
 
+<br>
+
 
 ## 🏆 Certifications
 
@@ -213,6 +217,8 @@ Here are some of the technologies I work with:
 [![Revenue Operations](https://img.shields.io/badge/REVENUE%20OPERATIONS-GAMA%20ACADEMY-009900?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_GAMA_ACADEMY_LINK)
 
 </div>
+
+<br>
 
 ## ⚙️ **Business Platforms & Productivity Tools**
 
@@ -234,6 +240,7 @@ Here are some of the technologies I work with:
 
 </details>
 
+<br>
 
 ## 📌 Pinned GitHub Projects
 
