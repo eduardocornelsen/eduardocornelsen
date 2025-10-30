@@ -221,6 +221,8 @@ Here are some of the technologies I work with:
 
 <div align='center'>
 
+<br>
+
 [![Data Scientist - TripleTen](https://img.shields.io/badge/DATA%20SCIENTIST-TRIPLETEN-0077B5?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_TRIPLETEN_LINK)
 [![Business Management - Insper](https://img.shields.io/badge/BUSINESS%20MANAGEMENT-INSPER-CC0000?style=for-the-badge&logo=googleforms&logoColor=white)](YOUR_INSPER_LINK)
 [![LSS Green Belt Falconi Insper](https://img.shields.io/badge/LSS%206%CF%83%20GREEN%20BELT-FALCONI%20/%20INSPER-7b7423?style=for-the-badge&logo=lean-six-sigma&logoColor=white)](YOUR_LSS_VERIFICATION_LINK)
@@ -265,6 +267,7 @@ Here are some of the technologies I work with:
 
 <div align='center'>
 
+
 <img src="https://img.shields.io/badge/📌%20Project%201-a53825?style=for-the-badge" alt="Project 1" height="35px" style="margin-bottom: 10px; margin-top: 10px;">
 
 <h3 style="margin-top: 0px; margin-bottom: 15px; line-height: 1.4;">
@@ -278,27 +281,22 @@ Here are some of the technologies I work with:
 
 ![Status Badge: Completed](https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge&logo=wakatime)
 
+</div>
+
 **Description:** <br>This project provides a **detailed, comparative revenue analysis** of Megaline's 'Surf' and 'Ultimate' mobile plans, identifying key user behaviors to inform targeted marketing and **optimize the company's financial strategy**.<br><br>
 **The Tools We Used:**<br>Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Streamlit, and Jupyter Notebook.
 
-<a href="https://eduardocornelsen.github.io/megaline_revenue_analysis_story/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/View%20Project-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF" 
-       alt="View Project" 
-       style="border: none; height: 35px; margin-top:20px; margin-bottom: 50px;">
-</a>
-
-***
-
-### ⚙️ Project 2: Simple Utility Script
-
-**Description:** A small script to automate task M.
-**Technologies:** JavaScript, Node.js
-[View Repository](https://github.com/your-username/project-b)
-
-
+<div align='center'>
+  <a href="https://eduardocornelsen.github.io/megaline_revenue_analysis_story/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View%20Project%20_(EN/PT)-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF" 
+        alt="View Project" 
+        style="border: none; height: 35px; margin-top:20px; margin-bottom: 50px;">
+  </a>
 </div>
 
+
 ***
+
 
 </details>
 
