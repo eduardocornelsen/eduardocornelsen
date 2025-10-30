@@ -46,17 +46,6 @@ As a data scientist, my focus is on translating complex business questions into 
     * (Optional: Add this if you want to highlight it)
     * Writing testable, maintainable code (using `pytest`) and versioning data pipelines (`DVC`) to ensure reproducible and reliable results.
 
-<br><br>
-
-<div align='center'>
-  
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
-
-<br>
-
-🔗 Connect with me on [LinkedIn](https://linkedin.com) or email me at [edu@torusagency.com.br](mailto:edu@torusagency.com.br) 
-
-</div>
 
 ## 🛠️ Skills & Toolbelt
 Here are some of the technologies I work with:
@@ -98,7 +87,7 @@ Here are some of the technologies I work with:
 
 <details>
 <summary>
-  <h3 style="display: inline-block;">
+  <h2 style="display: inline-block;">
     <strong>🔽 View All Skills 🔽</strong>
   </h3>
 </summary>
@@ -202,23 +191,20 @@ Here are some of the technologies I work with:
 
 <br>
 
-## 📊 GitHub Stats
+<div align='center'>
 
-<div align="center"> 
+<div align='center'>
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=eduardocornelsen&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF&cache_seconds=3600"/> 
+## ✨ My Polished Project Showcase (EN/PT)
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardocornelsen&theme=taiga&hide_border=true&ring=00EB93&cache_seconds=3600" /> 
-
-
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocornelsen&layout=compact&hide=html,css&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF&cache_seconds=3600" /> 
+[![View My Full Portfolio (EN/PT)](https://img.shields.io/badge/View_My_Full_Portfolio_(EN/PT)-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
 
 </div>
 
+---
 
-## 📌 Pinned Projects
+## 📌 Pinned GitHub Projects
 
-<div align='center'>
 
 ### 🚀 Project 1:<br>**Strategic Revenue Analysis of Megaline's Mobile Plans:**<br>A Comparative Study
 
@@ -241,7 +227,26 @@ Here are some of the technologies I work with:
 **Technologies:** JavaScript, Node.js
 [View Repository](https://github.com/your-username/project-b)
 
+
 </div>
+
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center"> 
+
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=eduardocornelsen&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF&cache_seconds=3600"/> 
+
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardocornelsen&theme=taiga&hide_border=true&ring=00EB93&cache_seconds=3600" /> 
+
+
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocornelsen&layout=compact&hide=html,css&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF&cache_seconds=3600" /> 
+
+</div>
+
+
 
 
 ## 👤 Contact Information
