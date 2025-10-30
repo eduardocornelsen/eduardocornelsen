@@ -9,12 +9,12 @@
 <a href="mailto:[edu@torusagency.com.br]"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 </div>
 
+
+## 👋 Hello! I'm Eduardo Cornelsen.
+
 <details open>
 
-<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
-    <strong>👋 Hello! I'm Eduardo Cornelsen.</strong>
-</summary>
-
+<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
 
 I help businesses make smarter decisions by finding the story hidden within their data.
 
@@ -47,12 +47,11 @@ Explore my projects below to see how I turn data into understanding.
 
 </details>
 
+
+## 🧠 Core Competencies & Methodologies
+
 <details open>
-
-<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; margin-top: 30px; margin-bottom: 20px">
-  <strong>🧠 Core Competencies & Methodologies</strong>
-</summary>
-
+<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
 
 As a data scientist, my focus is on translating complex business questions into actionable, data-driven solutions. My process is built on a foundation of rigorous scientific and business methods.
 
@@ -69,16 +68,13 @@ As a data scientist, my focus is on translating complex business questions into 
     * Writing testable, maintainable code (using `pytest`) and versioning data pipelines (`DVC`) to ensure reproducible and reliable results.
 
 
-
-
 </details>
 
 
-<details open>
+## 🛠️ Skills & Toolbelt
 
-<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
-    <strong>🛠️ Skills & Toolbelt</strong>
-</summary>
+<details open>
+<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
 
 Here are some of the technologies I work with:
 
@@ -202,15 +198,11 @@ Here are some of the technologies I work with:
 </div>
 </details>
 
-<details open>
 
-<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
-    <strong>🏆 Certifications</strong>
-</summary>
+## 🏆 Certifications
 
 <div align='center'>
 
-<br>
 
 [![Data Scientist - TripleTen](https://img.shields.io/badge/DATA%20SCIENTIST-TRIPLETEN-0077B5?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_TRIPLETEN_LINK)
 [![Business Management - Insper](https://img.shields.io/badge/BUSINESS%20MANAGEMENT-INSPER-CC0000?style=for-the-badge&logo=googleforms&logoColor=white)](YOUR_INSPER_LINK)
@@ -218,14 +210,13 @@ Here are some of the technologies I work with:
 [![Revenue Operations](https://img.shields.io/badge/REVENUE%20OPERATIONS-GAMA%20ACADEMY-009900?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_GAMA_ACADEMY_LINK)
 
 </div>
-</details>
 
+## ⚙️ **Business Platforms & Productivity Tools**
 
 <details open>
+<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
 
-<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
-    <strong>⚙️ Business Platforms & Productivity Tools</strong>
-</summary>
+
 
 
 | Category | Tools |
@@ -242,10 +233,11 @@ Here are some of the technologies I work with:
 </details>
 
 
+## 📌 Pinned GitHub Projects
+
 <details open>
-<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
-    <strong>📌 Pinned GitHub Projects</strong>
-</summary>
+<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
+
 
 
 <div align='center'>
@@ -284,11 +276,12 @@ Here are some of the technologies I work with:
 </details>
 
 
-<details open>
 
-<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
-    <strong>📊 GitHub Stats</strong>
-</summary>
+## 📊 GitHub Stats
+
+<details open>
+<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
+
 
 
 <div align="center"> 
@@ -304,10 +297,7 @@ Here are some of the technologies I work with:
 
 </details>
 
-<details open>
-<summary style="border-bottom: 1px solid #cccccc; padding-bottom: 5px; font-size: 1.5em; font-weight: 600; margin-bottom: 20px;">
-    <strong>👤 Contact Information</strong>
-</summary>
+## 👤 Contact Information
 
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. 
 
@@ -323,7 +313,6 @@ If you have any questions, feedback, or collaboration opportunities, please feel
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
 <br>
-</details>
 
 ---
 <div align='center'>
