@@ -14,7 +14,8 @@
 
 <details open>
 
-<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
+<summary><i>Hide details...</i></summary>
+<br>
 
 I help businesses make smarter decisions by finding the story hidden within their data.
 
@@ -51,7 +52,8 @@ Explore my projects below to see how I turn data into understanding.
 ## 🧠 Core Competencies & Methodologies
 
 <details open>
-<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
+<summary><i>Hide details...</i></summary>
+<br>
 
 As a data scientist, my focus is on translating complex business questions into actionable, data-driven solutions. My process is built on a foundation of rigorous scientific and business methods.
 
@@ -74,7 +76,8 @@ As a data scientist, my focus is on translating complex business questions into 
 ## 🛠️ Skills & Toolbelt
 
 <details open>
-<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
+<summary><i>Hide details...</i></summary>
+<br>
 
 Here are some of the technologies I work with:
 
@@ -214,9 +217,8 @@ Here are some of the technologies I work with:
 ## ⚙️ **Business Platforms & Productivity Tools**
 
 <details open>
-<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
-
-
+<summary><i>Hide details...</i></summary>
+<br>
 
 
 | Category | Tools |
@@ -236,7 +238,8 @@ Here are some of the technologies I work with:
 ## 📌 Pinned GitHub Projects
 
 <details open>
-<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
+<summary><i>Hide details...</i></summary>
+<br>
 
 
 
@@ -280,8 +283,8 @@ Here are some of the technologies I work with:
 ## 📊 GitHub Stats
 
 <details open>
-<summary style="margin-bottom: 15px;"><i>Hide details...</i></summary>
-
+<summary><i>Hide details...</i></summary>
+<br>
 
 
 <div align="center"> 
