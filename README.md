@@ -87,7 +87,7 @@ Here are some of the technologies I work with:
       <br> Python
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="icon" width="65" height="65" />
       <br> SQL
     </td>
     <td align="center" width="96">
@@ -113,7 +113,7 @@ Here are some of the technologies I work with:
   </tr>
 </table>
 
-
+<details>
 <summary>
   <h2 style="display: inline-block;">
     <strong>🔽 View All Skills 🔽</strong>
