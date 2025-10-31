@@ -19,7 +19,7 @@
 
 I help businesses make smarter decisions by finding the story hidden within their data.
 
-My approach combines technical data science with a practical, business-first mindset. Grounded in a **Business Management** degree from **INSPER** and professional experience in **SaaS Sales (ERP/CRM)**, backed by an **Inside Sales certification**, I use my **Lean Six Sigma Green Belt** framework to focus on identifying the *right* problems to solve and ensuring data projects deliver clear, measurable value.
+My approach combines technical data science with a practical, business-first mindset. Grounded in a **Business Management** degree from **INSPER** and professional experience in **SaaS Sales (ERP/CRM)**, backed by an **Inside Sales certification**, I use my **Lean Six Sigma Green Belt** framework (DMAIC/PDCA) to focus on identifying the *right* problems to solve and ensuring data projects deliver clear, measurable value.
 
 My core technical stack includes:
 * **ML/DL:** Python, Scikit-learn, TensorFlow, PyTorch
