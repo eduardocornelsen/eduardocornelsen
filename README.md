@@ -248,7 +248,10 @@ Here are some of the technologies I work with:
 <div align='center'>
 
 
-<img src="https://img.shields.io/badge/📌%20Project%201-a53825?style=for-the-badge" alt="Project 1" height="35px" style="margin-bottom: 10px; margin-top: 10px;">
+<img src="https://img.shields.io/badge/📌%20Project%201-a53825?style=for-the-badge" 
+  alt="Project 1" 
+  height="35px" 
+  style="border: none; height: 35px; margin-top:20px; margin-bottom: 35px;">
 
 <h3 style="margin-top: 0px; margin-bottom: 15px; line-height: 1.4;">
   <strong>Strategic Revenue Analysis of Megaline's Mobile Plans:</strong>
@@ -274,6 +277,37 @@ Here are some of the technologies I work with:
   </a>
 </div>
 
+***
+
+<br>
+<div align='center'>
+<img src="https://img.shields.io/badge/📌%20Project%202-a53825?style=for-the-badge" 
+ alt="Project 2" 
+ height="35px" 
+ style="border: none; height: 35px; margin-top:20px; margin-bottom: 35px;">
+
+<h3 style="margin-top: 0px; margin-bottom: 15px; line-height: 1.4;">
+  <strong>Coin Toss Simulation:</strong>
+  <br>
+  Demonstrating the Law of Large Numbers with Streamlit
+</h3>
+
+![cover-400px](https://github.com/user-attachments/assets/398f02d3-e512-4497-84e1-d1b24cc1f11c)
+
+![Status Badge: Completed](https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge&logo=wakatime)
+
+</div>
+
+**Description:** <br>This project implements an interactive simulation of an unbiased coin toss ($P=0.5$). It is designed to visually and mathematically demonstrate the **Law of Large Numbers**, showing how the observed proportion of Heads converges toward $0.5$ as the user increases the number of trials via an interactive slider.<br><br>
+**The Tools We Used:**<br>Python, Streamlit, SciPy, Pandas, Altair, **Jupyter Notebook**, and Render.
+
+<div align='center'>
+  <a href="https://github.com/eduardocornelsen/coin-toss-simulator" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View%20Project%20_(EN/PT)-a53825?style=for-the-badge&logo=rocket&logoColor=FFFFFF" 
+        alt="View Project" 
+        style="border: none; height: 35px; margin-top:20px; margin-bottom: 35px;">
+  </a>
+</div>
 
 ***
 <br>
