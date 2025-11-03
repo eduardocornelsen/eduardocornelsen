@@ -292,7 +292,7 @@ Here are some of the technologies I work with:
   Demonstrating the Law of Large Numbers with Streamlit
 </h3>
 
-![cover-400px](https://github.com/user-attachments/assets/398f02d3-e512-4497-84e1-d1b24cc1f11c)
+![cover-cut-400px](https://github.com/user-attachments/assets/5ed12c23-1ff4-4f1c-ad3b-e9ea0ed7a1ff)
 
 ![Status Badge: Completed](https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge&logo=wakatime)
 
