@@ -115,7 +115,7 @@ Here are some of the technologies I work with:
   </tr>
 </table>
 
-<details>
+<details open>
 <summary>
   <h2 style="display: inline-block;">
     <strong>🔽 View All Skills 🔽</strong>
