@@ -364,8 +364,7 @@ Here are some of the technologies I work with:
 
 ![Status Badge: In Progress](https://img.shields.io/badge/Status-In%20Progress-007bff?style=for-the-badge&logo=wakatime)
 
-
-<img src="httpsD://via.placeholder.com/400x150/252a33/a53825.png?text=Project+Banner+Placeholder" alt="Project 3 Banner" style="width: 400px; margin-bottom: 15px;">
+![project4-ds-jobs-cover-cut](https://github.com/user-attachments/assets/dc2024ce-c8b6-4d72-8c82-fc8e628271b5)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-5A6268?style=for-the-badge&logoColor=white) ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Regex](https://img.shields.io/badge/Regex-5A6268?style=for-the-badge&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 
@@ -404,7 +403,7 @@ Here are some of the technologies I work with:
 
 ![Status Badge: In Progress](https://img.shields.io/badge/Status-In%20Progress-007bff?style=for-the-badge&logo=wakatime)
 
-<img src="https://via.placeholder.com/400x150/252a33/a53825.png?text=GenAI+Financial+Chatbot" alt="Project 4 Banner" style="width: 400px; margin-bottom: 15px;">
+![meu-conselheiro-cover-cut](https://github.com/user-attachments/assets/47a23aca-9ce0-4c92-ad9e-19d1d072f187)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-4289d3?style=for-the-badge&logo=google-gemini&logoColor=white)
  ![FAISS](https://img.shields.io/badge/FAISS-3B5998?style=for-the-badge&logo=meta&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
