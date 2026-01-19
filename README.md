@@ -8,9 +8,14 @@
 <a href="https://www.linkedin.com/in/eduardo-cornelsen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
 <a href="mailto:eduardo.cornelsen@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 
+---
+
+<!-- NAVIGATION & CONTACTS -->
+<a href="#en-version"><img src="https://img.shields.io/badge/🇺🇸_ENGLISH_VERSION-003366?style=for-the-badge" height=30></a>
+<a href="#pt-version"><img src="https://img.shields.io/badge/🇧🇷_VERSÃO_EM_PORTUGUÊS-009c3b?style=for-the-badge" height=30></a>
+
 </div>
 
----
 
 <!-- ENGLISH VERSION ANCHOR -->
 <a name="en-version"></a>
