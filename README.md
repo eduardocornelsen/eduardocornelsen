@@ -68,6 +68,7 @@ As a **TripleTen Data Science Resident (700h+)**, I bridge the gap between strat
 
 | Category | Project Name | Tech Stack |
 | :---: | :--- | :--- |
+| **Strategy / UXR** | [**Epic Games Store Ecosystem Intelligence: Strategic Market Audit**](#p0) | Python, K-Means, NLP |
 | **GenAI / BI** | [**Conversational BI & Generative Analytics (Music Trends)**](#p3) | Streamlit, LLMs, LangChain |
 | **Auto / Market** | [**Automotive Market Intelligence & AI Agent**](#p4) | Python, Gemini AI, Plotly |
 | **Gaming / Strategy** | [**Global Gaming Market Strategy & Sales Prediction**](#p5) | Python, Stats, EDA |
@@ -75,6 +76,38 @@ As a **TripleTen Data Science Resident (700h+)**, I bridge the gap between strat
 | **Stats / Edu** | [**Coin Toss Simulation (Law of Large Numbers)**](#p2) | Streamlit, SciPy |
 
 ---
+
+<br>
+
+<!-- PROJECT 0: EPIC GAMES (NEW FLAGSHIP) -->
+<div align="center" id="p0">
+<img src="https://img.shields.io/badge/⚡%20Flagship%20Project-Product%20Strategy%20%26%20UXR-ff00ff?style=for-the-badge">
+
+<h2 style="margin-top: 10px;">⚡ EGS Ecosystem Intelligence: Strategic Market Audit</h2>
+<h3><i>Using Machine Learning & NLP to Identify UX Friction & "Hidden Gem" Revenue Streams</i></h3>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![NLP](https://img.shields.io/badge/NLP_Sentiment-00ffcc?style=for-the-badge&logo=openai&logoColor=black)
+
+</div>
+
+**Business Context:**  
+A strategic audit for the Epic Games Store to bridge the gap between raw metadata and user experience. Using **K-Means Clustering** and **Random Forest Regression**, we identified a "Hardware Wall" causing churn and discovered a "Niche Premium" segment that maximizes ROI with low specs.
+
+**Key Features:**
+*   **Market Taxonomy:** Segmented the store into 4 distinct "Product Personas" (e.g., *The Optimization Risk* vs. *The Niche Aristocracy*).
+*   **Predictive Modeling:** Achieved **R² = 0.39**, proving ~40% of success is tied to specs/price, validating the need for qualitative UXR.
+*   **Cyberpunk Visuals:** Custom-built visualization suite for executive reporting.
+
+<div align='center'>
+  <a href="https://github.com/eduardocornelsen/epic-store-analysis">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb">
+    <img src="https://img.shields.io/badge/View_Notebook-ff00ff?style=for-the-badge&logo=jupyter&logoColor=white">
+  </a>
+</div>
+
+***
 
 <br>
 
@@ -275,6 +308,7 @@ Como residente técnico em Ciência de Dados pela **TripleTen (700h+)**, atuo na
 
 | Categoria | Projeto | Stack |
 | :---: | :--- | :--- |
+| **Estratégia / UXR** | [**Epic Games Store Ecosystem Intelligence: Auditoria Estratégica**](#p0-pt) | Python, K-Means, NLP |
 | **GenAI / BI** | [**Conversational BI & Generative Analytics (Spotify)**](#p3-pt) | Streamlit, LLMs, LangChain |
 | **Auto / Mercado** | [**Inteligência de Mercado Automotivo & Agente IA**](#p4-pt) | Python, Gemini AI, Plotly |
 | **Games / Estratégia** | [**Estratégia de Mercado de Games Global**](#p5-pt) | Python, Estatística, EDA |
@@ -282,6 +316,38 @@ Como residente técnico em Ciência de Dados pela **TripleTen (700h+)**, atuo na
 | **Estatística / Edu** | [**Simulação Coin Toss (Lei dos Grandes Números)**](#p2-pt) | Streamlit, SciPy |
 
 ---
+
+<br>
+
+<!-- PROJECT 0 PT: EPIC GAMES -->
+<div align="center" id="p0-pt">
+<img src="https://img.shields.io/badge/⚡%20Flagship%20Project-Estratégia%20de%20Produto%20%26%20UXR-ff00ff?style=for-the-badge">
+
+<h2 style="margin-top: 10px;">⚡ EGS Ecosystem Intelligence: Auditoria Estratégica</h2>
+<h3><i>Machine Learning e NLP aplicados para identificar Atrito de UX e Oportunidades de Receita</i></h3>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![NLP](https://img.shields.io/badge/NLP_Sentiment-00ffcc?style=for-the-badge&logo=openai&logoColor=black)
+
+</div>
+
+**Contexto de Negócio:**  
+Uma auditoria estratégica para a Epic Games Store unindo dados brutos e experiência do usuário. Utilizando **Clusterização K-Means** e **Regressão Random Forest**, identificamos uma "Barreira de Hardware" que gera churn e descobrimos o segmento "Niche Premium", que maximiza ROI com baixos requisitos de sistema.
+
+**Destaques:**
+*   **Taxonomia de Mercado:** Segmentação da loja em 4 "Personas de Produto" (ex: *Risco de Otimização* vs. *Aristocracia de Nicho*).
+*   **Modelagem Preditiva:** **R² = 0.39**, provando que ~40% do sucesso está atrelado a specs/preço, validando a necessidade de UXR qualitativo.
+*   **Visualização Cyberpunk:** Suite gráfica customizada para report executivo.
+
+<div align='center'>
+  <a href="https://github.com/eduardocornelsen/epic-store-analysis">
+    <img src="https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb">
+    <img src="https://img.shields.io/badge/Ver_Notebook-ff00ff?style=for-the-badge&logo=jupyter&logoColor=white">
+  </a>
+</div>
+
+***
 
 <br>
 
