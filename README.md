@@ -27,7 +27,7 @@
 
 > **Quantitative UXR | Data Analyst | SQL, Python | Qualtrics & Tableau | GenAI & Automation**
 
-**Data Professional with a Product & User DNA.** My background combines executive experience (**Insper**, **Omie**) with technical proficiency in **Data Science & UX Research** (Python, SQL, Qualtrics).
+**Data Professional with a Product & User DNA.** My background combines executive experience (**Insper**, **Omie**, **Mandalah**) with technical proficiency in **Data Science & UX Research** (Python, SQL, Qualtrics).
 
 Unlike purely technical analysts, I focus on the **human behavior behind the metrics.** I specialize in bridging the gap between **Big Data** (Telemetry/Sales) and **User Sentiment** - whether by analyzing player churn clusters, automating survey insights with **GenAI Agents**, or building strategic dashboards in **Tableau/Looker Studio**.
 
