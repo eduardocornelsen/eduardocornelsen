@@ -99,11 +99,11 @@ A strategic audit for the Epic Games Store to bridge the gap between raw metadat
 *   **Cyberpunk Visuals:** Custom-built visualization suite for executive reporting.
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/epic-store-analysis">
-    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/eduardocornelsen/epic-store-analysis"><img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb">
-    <img src="https://img.shields.io/badge/View_Notebook-ff00ff?style=for-the-badge&logo=jupyter&logoColor=white">
+  <a href="https://github.com/eduardocornelsen/epic-store-analysis/blob/main/reports/UXR_Executive_Presentation_EGS.pdf"><img src="https://img.shields.io/badge/EXECUTIVE_SLIDES-000000?style=for-the-badge&logo=slideshare&logoColor=00ffcc">
+  </a>
+  <a href="https://github.com/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb"><img src="https://img.shields.io/badge/TECHNICAL_NOTEBOOK-000000?style=for-the-badge&logo=jupyter&logoColor=ff00ff">
   </a>
 </div>
 
@@ -338,11 +338,11 @@ Uma auditoria estratégica para a Epic Games Store unindo dados brutos e experi�
 *   **Visualização Cyberpunk:** Suite gráfica customizada para report executivo.
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/epic-store-analysis">
-    <img src="https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/eduardocornelsen/epic-store-analysis"><img src="https://img.shields.io/badge/VER_REPOSITÓRIO-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb">
-    <img src="https://img.shields.io/badge/Ver_Notebook-ff00ff?style=for-the-badge&logo=jupyter&logoColor=white">
+  <a href="https://github.com/eduardocornelsen/epic-store-analysis/blob/main/reports/UXR_Executive_Presentation_EGS.pdf"><img src="https://img.shields.io/badge/SLIDES_EXECUTIVOS-000000?style=for-the-badge&logo=slideshare&logoColor=00ffcc">
+  </a>
+  <a href="https://github.com/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb"><img src="https://img.shields.io/badge/NOTEBOOK_TÉCNICO-000000?style=for-the-badge&logo=jupyter&logoColor=ff00ff">
   </a>
 </div>
 
