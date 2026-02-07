@@ -25,16 +25,16 @@
 
 ## 👋 **About Me**
 
-> **Data Analyst | Sales Ops & Strategy | SQL, Python | Tableau & Looker Studio | GenAI & Automation**
+> **Quantitative UXR | Data Analyst | SQL, Python | Qualtrics & Tableau | GenAI & Automation**
 
-**Data Professional with a Business DNA.** My background combines executive experience (**Insper**, **Omie**, Consulting) with technical proficiency in **Data Analysis & Data Science** (Python, SQL, GenAI).
+**Data Professional with a Product & User DNA.** My background combines executive experience (**Insper**, **Omie**) with technical proficiency in **Data Science & UX Research** (Python, SQL, Qualtrics).
 
-Unlike purely technical analysts, I understand the business pain points before writing a single line of code. I specialize in translating complex **Sales, P&L, and Operations** needs into scalable data solutions — whether by automating processes with **AI Agents**, building strategic dashboards in **Tableau/Looker Studio**, or optimizing conversion funnels (**Sales Ops**).
+Unlike purely technical analysts, I focus on the **human behavior behind the metrics.** I specialize in bridging the gap between **Big Data** (Telemetry/Sales) and **User Sentiment** - whether by analyzing player churn clusters, automating survey insights with **GenAI Agents**, or building strategic dashboards in **Tableau/Looker Studio**.
 
-*   **Tech Stack:** Python (Pandas/Automations), SQL, Tableau, Looker Studio, GenAI (LLMs & AI Agents).
-*   **Business Stack:** Sales Ops & Strategy, P&L Analysis, Green Belt (Continuous Improvement), CRM Intelligence.
+- **Tech Stack:** Python (Pandas/Scikit-Learn), SQL, Qualtrics (Survey Analysis), Tableau, GenAI.
+- **Business Stack:** Quantitative UXR, Product Strategy, Player Segmentation, Sales Ops.
 
-As a **TripleTen Data Science Resident (700h+)**, I bridge the gap between strategy and execution.
+As a **TripleTen Data Science Resident (700h+)**, I translate raw data into actionable product strategy.
 
 ---
 
@@ -42,11 +42,11 @@ As a **TripleTen Data Science Resident (700h+)**, I bridge the gap between strat
 
 <div align='center'>
 
-### 🧠 Strategic Capabilities
+### 🧠 Strategic & Research Capabilities
+![User Research](https://img.shields.io/badge/Quantitative_UXR-FF0055?style=for-the-badge&logo=microstrategy&logoColor=white)
 ![Sales Ops](https://img.shields.io/badge/Sales_Operations-000000?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-6C43E0?style=for-the-badge&logo=openai&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![P&L Analysis](https://img.shields.io/badge/P%26L_Analysis-28a745?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ### 💻 Data Engineering & Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,11 +54,11 @@ As a **TripleTen Data Science Resident (700h+)**, I bridge the gap between strat
 ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 
-### 📊 Visualization & Tools
+### 📊 Visualization & Research Tools
+![Qualtrics](https://img.shields.io/badge/Qualtrics_XM-00B4EF?style=for-the-badge&logo=qualtrics&logoColor=white)
+![SurveyMonkey](https://img.shields.io/badge/SurveyMonkey-00BF6F?style=for-the-badge&logo=surveymonkey&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -291,16 +291,15 @@ A comparative revenue analysis of mobile plans to identify user behaviors, infor
 
 ## 👋 **Sobre Mim**
 
-> **Data Analyst | Sales Ops & Strategy | SQL, Python | Tableau & Looker Studio | GenAI & Automation**
+> **Quantitative UXR | Data Analyst | SQL, Python | Qualtrics & Tableau**
 
-**Profissional de Dados com DNA de Negócios.** Minha trajetória combina a vivência executiva (**Insper**, **Omie**, Consultoria) com a capacidade técnica de **Análise e Ciência de Dados** (Python, SQL, GenAI).
+**Profissional de Dados com DNA de Produto e Usuário.** Minha trajetória combina a vivência executiva (**Insper, Omie, Mandalah**) com a capacidade técnica em **Data Science e UX Research** (Python, SQL, Qualtrics).
 
-Diferente de analistas puramente técnicos, eu entendo a dor do negócio antes de escrever o código. Minha especialidade é traduzir necessidades complexas de **Vendas, P&L e Operações** em soluções escaláveis — seja automatizando processos com **Agentes de IA**, criando dashboards estratégicos em **Tableau/Looker Studio** ou otimizando funis de conversão (**Sales Ops**).
+Diferente de analistas puramente técnicos, eu foco no **comportamento humano por trás das métricas.** Minha especialidade é unir **Big Data** (Telemetria/Vendas) com **Sentimento do Usuário** - seja identificando clusters de churn, automatizando insights de pesquisas com **Agentes de IA**, ou criando dashboards estratégicos.
+- **Tech Stack:** Python, SQL, Qualtrics, Tableau, GenAI.
+- **Business Stack:** UXR Quantitativo, Estratégia de Produto, Segmentação de Players, Sales Ops.
 
-*   **Tech Stack:** Python (Pandas/Automations), SQL, Tableau, Looker Studio, GenAI (LLMs & AI Agents).
-*   **Business Stack:** Sales Ops & Strategy, P&L Analysis, Green Belt (Melhoria Contínua), CRM Intelligence.
-
-Como residente técnico em Ciência de Dados pela **TripleTen (700h+)**, atuo na ponte entre a estratégia de negócio e a execução técnica.
+Como residente técnico em **Ciência de Dados pela TripleTen (700h+)**, eu traduzo dados brutos em estratégia acionável de produto.
 
 ---
 
