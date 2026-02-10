@@ -5,7 +5,9 @@
 # Eduardo Cornelsen's Applied Data Portfolio
 
 <a href="https://wa.me/5541996610326"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=30></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/eduardo-cornelsen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
+&nbsp;
 <a href="mailto:eduardo.cornelsen@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 
 <a href="https://wakatime.com/@4eb9be1d-cffd-4db6-a3b4-a831bb910af1">
@@ -16,6 +18,7 @@
 
 <!-- NAVIGATION & CONTACTS -->
 <a href="#en-version"><img src="https://img.shields.io/badge/🇺🇸_ENGLISH_VERSION-003366?style=for-the-badge" height=30></a>
+&nbsp;
 <a href="#pt-version"><img src="https://img.shields.io/badge/🇧🇷_VERSÃO_EM_PORTUGUÊS-009c3b?style=for-the-badge" height=30></a>
 
 </div>
