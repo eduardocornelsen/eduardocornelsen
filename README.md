@@ -8,6 +8,10 @@
 <a href="https://www.linkedin.com/in/eduardo-cornelsen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
 <a href="mailto:eduardo.cornelsen@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 
+<a href="https://wakatime.com/@4eb9be1d-cffd-4db6-a3b4-a831bb910af1">
+    <img src="https://wakatime.com/badge/user/4eb9be1d-cffd-4db6-a3b4-a831bb910af1.svg" alt="Total Time Coded" />
+  </a>
+  
 ---
 
 <!-- NAVIGATION & CONTACTS -->
