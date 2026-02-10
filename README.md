@@ -91,12 +91,10 @@ As a **TripleTen Data Science Resident (700h+)**, I translate raw data into acti
 <img src="https://img.shields.io/badge/⚡%20Flagship%20Project-Product%20Strategy%20%26%20UXR-ff00ff?style=for-the-badge">
 
 <h2 style="margin-top: 10px;">⚡ Epic Games Store Ecosystem Intelligence: Strategic Market Audit (2026)</h2>
-<h3><i>Bridging the gap between Raw Metadata, User Experience, and Business Strategy.</i></h3>
 
-<a href="https://github.com/eduardocornelsen/epic-store-analysis">
-  <img src="https://raw.githubusercontent.com/eduardocornelsen/epic-store-analysis/main/images/cover/Cover-H-16-9-EpicGames-UXResearch-low.jpg" width="100%" alt="Epic Games Store Strategic Audit Cover" style="border-radius: 8px;">
-</a>
-<br><br>
+[![Epic Games Store Strategic Audit Cover](https://raw.githubusercontent.com/eduardocornelsen/epic-store-analysis/main/images/cover/Cover-H-16-9-EpicGames-UXResearch-low.jpg)](https://github.com/eduardocornelsen/epic-store-analysis)
+
+<h3><i>Bridging the gap between Raw Metadata, User Experience, and Business Strategy.</i></h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
