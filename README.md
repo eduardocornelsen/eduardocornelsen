@@ -119,6 +119,8 @@ A strategic audit transitioning the Epic Games Store from a digital storefront t
 
 [ ![View Dashboard](https://img.shields.io/badge/View_Interactive_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ](https://epic-store-analysis.streamlit.app/)
 
+[ ![View Project Repo](https://img.shields.io/badge/View_Project_Repo-181717?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/eduardocornelsen/epic-store-analysis)
+
 [ ![View Notebook](https://img.shields.io/badge/View_Technical_Notebook-159279?style=for-the-badge&logo=googlecolab&logoColor=white) ](https://colab.research.google.com/github/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb)
 
 </div>
@@ -364,9 +366,11 @@ Uma auditoria estratégica para transformar a Epic Games Store de uma vitrine di
 
 <div align='center'>
   
-[ ![Ver Slides](https://img.shields.io/badge/Ver_Slides_Executivos-ff00ff?style=for-the-badge&logo=googledrive&logoColor=white) ](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
+[ ![Ver Slides](https://img.shields.io/badge/Ver_Apresentação_UXR-ff00ff?style=for-the-badge&logo=googledrive&logoColor=white) ](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
 
-[ ![Ver Dashboard](https://img.shields.io/badge/Ver_Dashboard_Interativo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ](https://epic-store-analysis.streamlit.app/)
+[ ![Ver Dashboard](https://img.shields.io/badge/Acessar_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ](https://epic-store-analysis.streamlit.app/)
+
+[ ![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/eduardocornelsen/epic-store-analysis)
 
 [ ![Ver Notebook](https://img.shields.io/badge/Ver_Notebook_Técnico-159279?style=for-the-badge&logo=googlecolab&logoColor=white) ](https://colab.research.google.com/github/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb)
 
