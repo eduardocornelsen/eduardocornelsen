@@ -541,8 +541,8 @@ Análise comparativa de planos móveis para maximizar o **ARPU (Receita Média p
 ***
 
 ## ⚡ Neural Link Activity
-<!--WAKATIME_START-->
-<!--WAKATIME_END-->
+<!-- WAKATIME_START -->
+<!-- WAKATIME_END -->
 
 ***
 
