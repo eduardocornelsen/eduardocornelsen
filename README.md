@@ -83,8 +83,13 @@ As a **TripleTen Data Science Resident (700h+)**, I translate raw data into acti
 <div align="center" id="p0">
 <img src="https://img.shields.io/badge/⚡%20Flagship%20Project-Product%20Strategy%20%26%20UXR-ff00ff?style=for-the-badge">
 
-<h2 style="margin-top: 10px;">⚡ EGS Ecosystem Intelligence: Strategic Market Audit (2026)</h2>
+<h2 style="margin-top: 10px;">⚡ Epic Games Store Ecosystem Intelligence: Strategic Market Audit (2026)</h2>
 <h3><i>Bridging the gap between Raw Metadata, User Experience, and Business Strategy.</i></h3>
+
+<a href="https://github.com/eduardocornelsen/epic-store-analysis">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/epic-store-analysis/main/images/cover/Cover-H-16-9-EpicGames-UXResearch-low.jpg" width="100%" alt="Epic Games Store Strategic Audit Cover" style="border-radius: 8px;">
+</a>
+<br><br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -102,12 +107,13 @@ A strategic audit transitioning the Epic Games Store from a digital storefront t
 *   **Multi-Modal Delivery:** Includes an interactive **Streamlit Dashboard** and AI-generated **Audio Briefings (NotebookLM)** for stakeholders.
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/epic-store-analysis"><img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://epic-store-analysis.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DASHBOARD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  </a>
-  <a href="https://github.com/eduardocornelsen/epic-store-analysis/blob/main/reports/UXR_Executive_Presentation_EGS.pdf"><img src="https://img.shields.io/badge/EXECUTIVE_SLIDES-000000?style=for-the-badge&logo=slideshare&logoColor=00ffcc">
-  </a>
+  
+[ ![View Slides](https://img.shields.io/badge/View_UXR_Presentation-ff00ff?style=for-the-badge&logo=googledrive&logoColor=white) ](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
+
+[ ![View Dashboard](https://img.shields.io/badge/View_Interactive_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ](https://epic-store-analysis.streamlit.app/)
+
+[ ![View Notebook](https://img.shields.io/badge/View_Technical_Notebook-159279?style=for-the-badge&logo=googlecolab&logoColor=white) ](https://colab.research.google.com/github/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb)
+
 </div>
 
 ***
@@ -325,8 +331,14 @@ Como residente técnico em **Ciência de Dados pela TripleTen (700h+)**, eu trad
 <div align="center" id="p0">
 <img src="https://img.shields.io/badge/⚡%20Projeto%20Flagship-Estratégia%20de%20Produto%20%26%20UXR-ff00ff?style=for-the-badge">
 
-<h2 style="margin-top: 10px;">⚡ EGS Ecosystem Intelligence: Auditoria Estratégica (2026)</h2>
+<h2 style="margin-top: 10px;">⚡ Epic Games Store Ecosystem Intelligence: Auditoria Estratégica (2026)</h2>
 <h3><i>Conectando Metadados Brutos, Experiência do Usuário (UX) e Estratégia de Negócios.</i></h3>
+
+<!-- COVER IMAGE -->
+<a href="https://github.com/eduardocornelsen/epic-store-analysis">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/epic-store-analysis/main/images/cover/Cover-H-16-9-EpicGames-UXResearch-low.jpg" width="100%" alt="Epic Games Store Strategic Audit Cover" style="border-radius: 8px;">
+</a>
+<br><br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -344,12 +356,13 @@ Uma auditoria estratégica para transformar a Epic Games Store de uma vitrine di
 *   **Entrega Multi-Modal:** Inclui um **Dashboard Interativo (Streamlit)** e **Briefings de Áudio (IA)** gerados via NotebookLM para stakeholders.
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/epic-store-analysis"><img src="https://img.shields.io/badge/VER_REPOSITÓRIO-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://epic-store-analysis.streamlit.app/"><img src="https://img.shields.io/badge/DASHBOARD_AO_VIVO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  </a>
-  <a href="https://github.com/eduardocornelsen/epic-store-analysis/blob/main/reports/UXR_Executive_Presentation_EGS.pdf"><img src="https://img.shields.io/badge/SLIDES_EXECUTIVOS-000000?style=for-the-badge&logo=slideshare&logoColor=00ffcc">
-  </a>
+  
+[ ![Ver Slides](https://img.shields.io/badge/Ver_Slides_Executivos-ff00ff?style=for-the-badge&logo=googledrive&logoColor=white) ](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
+
+[ ![Ver Dashboard](https://img.shields.io/badge/Ver_Dashboard_Interativo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ](https://epic-store-analysis.streamlit.app/)
+
+[ ![Ver Notebook](https://img.shields.io/badge/Ver_Notebook_Técnico-159279?style=for-the-badge&logo=googlecolab&logoColor=white) ](https://colab.research.google.com/github/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb)
+
 </div>
 
 ***
