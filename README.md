@@ -551,17 +551,17 @@ Análise comparativa de planos móveis para maximizar o **ARPU (Receita Média p
 
 <br>
 
-
 <div align="center"> 
+  <!-- General Stats -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eduardocornelsen&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF" /> 
+  
+  <!-- Streak Stats -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardocornelsen&theme=taiga&hide_border=true&ring=00EB93" /> 
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=eduardocornelsen&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF&cache_seconds=3600"/> 
-
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardocornelsen&theme=taiga&hide_border=true&ring=00EB93&cache_seconds=3600" /> 
-
-
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocornelsen&layout=compact&hide=html,css&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF&cache_seconds=3600" /> 
-
-<br><br>
+  <!-- Top Languages -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocornelsen&layout=compact&hide=html,css&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF" /> 
+</div>
+<br>
 
 ---
 
