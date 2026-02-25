@@ -30,16 +30,16 @@
 
 ## 👋 **About Me**
 
-> **Quantitative UXR | Data Analyst | SQL, Python | Qualtrics & Tableau | GenAI & Automation**
+> **Data Analyst | Revenue Operations (RevOps) | SQL · Python · Tableau · Looker Studio · Databricks | GenAI & Automation**
 
-**Data Professional with a Product & User DNA.** My background combines executive experience (**Insper**, **Omie**, **Mandalah**) with technical proficiency in **Data Science & UX Research** (Python, SQL, Qualtrics).
+**Data Analyst with 10+ years across Sales Operations, Consulting, and Analytics.** I pinpoint revenue and retention leakage with SQL/Python and ship the RevOps and Product analytics systems to fix it — from closing deals at **Omie** (Brazil's leading cloud ERP) to consulting at **Mandalah** and **Insper** to building data infrastructure that captures lost revenue for SaaS, Ecommerce, and Fintech firms.
 
-Unlike purely technical analysts, I focus on the **human behavior behind the metrics.** I specialize in bridging the gap between **Big Data** (Telemetry/Sales) and **User Sentiment** - whether by analyzing player churn clusters, automating survey insights with **GenAI Agents**, or building strategic dashboards in **Tableau/Looker Studio**.
+I've sat in the revenue meetings. I know what the VP of Sales needs by Monday morning, and I build the analytics to answer it before they ask.
 
-- **Tech Stack:** Python (Pandas/Scikit-Learn), SQL, Qualtrics (Survey Analysis), Tableau, GenAI.
-- **Business Stack:** Quantitative UXR, Product Strategy, Player Segmentation, Sales Ops.
+- **Tech Stack:** Python (Polars, Pandas, Scikit-Learn, FastAPI) · SQL · ETL Pipelines · Databricks · Looker Studio · Tableau · Streamlit
+- **Business Stack:** Revenue Operations (RevOps), Product Analytics, BI Architecture, Sales Ops, SaaS Metrics (CAC, LTV, MRR, Churn)
 
-As a **TripleTen Data Science Resident (700h+)**, I translate raw data into actionable product strategy.
+As a **TripleTen Data Science Resident (700h+)** and **Six Sigma Green Belt**, I translate raw data into revenue-driving decisions.
 
 ---
 
@@ -47,23 +47,32 @@ As a **TripleTen Data Science Resident (700h+)**, I translate raw data into acti
 
 <div align='center'>
 
-### 🧠 Strategic & Research Capabilities
-![User Research](https://img.shields.io/badge/Quantitative_UXR-FF0055?style=for-the-badge&logo=microstrategy&logoColor=white)
+### 🧠 Strategic & Business Capabilities
+![RevOps](https://img.shields.io/badge/Revenue_Operations-1e3a8a?style=for-the-badge&logo=salesforce&logoColor=white)
+![Product Analytics](https://img.shields.io/badge/Product_Analytics-FF0055?style=for-the-badge&logo=mixpanel&logoColor=white)
 ![Sales Ops](https://img.shields.io/badge/Sales_Operations-000000?style=for-the-badge&logo=salesforce&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-6C43E0?style=for-the-badge&logo=openai&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 💻 Data Engineering & Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Advanced-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-### 📊 Visualization & Research Tools
-![Qualtrics](https://img.shields.io/badge/Qualtrics_XM-00B4EF?style=for-the-badge&logo=qualtrics&logoColor=white)
-![SurveyMonkey](https://img.shields.io/badge/SurveyMonkey-00BF6F?style=for-the-badge&logo=surveymonkey&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### 📊 BI & Visualization
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🤖 AI & Automation
+![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6C43E0?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -71,16 +80,59 @@ As a **TripleTen Data Science Resident (700h+)**, I translate raw data into acti
 
 ## 🚀 **Featured Projects (Portfolio)**
 
-| Category | Project Name | Tech Stack |
-| :---: | :--- | :--- |
-| **Product Strategy / UXR** | [**Epic Games Store: 2026 Ecosystem Intelligence Audit**](#p0) | Python, Streamlit, GenAI |
-| **GenAI / BI** | [**Conversational BI & Generative Analytics (Music Trends)**](#p3) | Streamlit, LLMs, LangChain |
-| **Auto / Market** | [**Automotive Market Intelligence & AI Agent**](#p4) | Python, Gemini AI, Plotly |
-| **Gaming / Strategy** | [**Global Gaming Market Strategy & Sales Prediction**](#p5) | Python, Stats, EDA |
-| **Sales / Strategy** | [**Strategic Revenue & Churn Analysis (Telecom)**](#p1) | Python, Stats, Business Logic |
-| **Stats / Edu** | [**Coin Toss Simulation (Law of Large Numbers)**](#p2) | Streamlit, SciPy |
+|          Category          | Project Name                                                       | Tech Stack                          |
+| :------------------------: | :----------------------------------------------------------------- | :---------------------------------- |
+|      **RevOps / AI**       | [**RevOps Lead Engine: AI-Powered B2B Command Center**](#prevops)  | Python, Streamlit, Plotly, Pydantic |
+| **Product Strategy / UXR** | [**Epic Games Store: 2026 Ecosystem Intelligence Audit**](#p0)     | Python, Streamlit, GenAI            |
+|       **GenAI / BI**       | [**Conversational BI & Generative Analytics (Music Trends)**](#p3) | Streamlit, LLMs, LangChain          |
+|     **Auto / Market**      | [**Automotive Market Intelligence & AI Agent**](#p4)               | Python, Gemini AI, Plotly           |
+|   **Gaming / Strategy**    | [**Global Gaming Market Strategy & Sales Prediction**](#p5)        | Python, Stats, EDA                  |
+|    **Sales / Strategy**    | [**Strategic Revenue & Churn Analysis (Telecom)**](#p1)            | Python, Stats, Business Logic       |
+|      **Stats / Edu**       | [**Coin Toss Simulation (Law of Large Numbers)**](#p2)             | Streamlit, SciPy                    |
 
 ---
+
+<br>
+
+<!-- PROJECT REVOPS: B2B LEAD ENGINE -->
+<div align="center" id="prevops">
+<img src="https://img.shields.io/badge/🚀%20NEW%20Flagship-RevOps%20%26%20AI-1e3a8a?style=for-the-badge">
+
+<h2 style="margin-top: 10px;">🚀 RevOps Lead Engine: AI-Powered B2B Command Center</h2>
+
+<h3><i>Full-cycle autonomous lead generation · Predictive scenario modeling · Post-sales retention analytics</i></h3>
+
+<a href="https://revops-lead-engine.streamlit.app/">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/revops_lead_engine/main/docs/images/cover-small.jpg" width="100%" alt="RevOps Lead Engine Dashboard" style="border-radius: 8px;">
+</a>
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+</div>
+
+**Business Context:**  
+Most B2B sales teams burn 60–70% of SDR time on manual prospecting. This project builds a **fully autonomous RevOps platform** — from ICP-driven lead discovery to AI-powered scoring, predictive revenue modeling, and post-sales retention tracking.
+
+**Key Features:**
+*   **AI RevOps Copilot:** Natural-language chat interface for pipeline risk analysis and quota pacing.
+*   **Revenue Scenario Modeler:** Adjust 4 levers (Volume, Win Rate, ACV, Cycle Time) to project 90-day S-curve revenue trajectories with AI insights.
+*   **Post-Sales NDR Module:** Net Dollar Retention tracking, Account Health scoring, and ARR Waterfall charts.
+*   **Explainable AI (XAI):** Every lead score includes transparent reasoning — no black-box models.
+*   **10 Integrated Modules:** Revenue Dashboard, Lead Intelligence, Sales Navigator, Pipeline Analytics, Outreach, CRM, and more.
+
+<div align='center'>
+
+[ ![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Click_to_Launch-ff4b4b?style=for-the-badge&logoColor=white) ](https://revops-lead-engine.streamlit.app/)
+
+[ ![View Project Repo](https://img.shields.io/badge/View_Project_Repo-181717?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/eduardocornelsen/revops_lead_engine)
+
+</div>
+
+***
 
 <br>
 
@@ -305,30 +357,74 @@ A comparative revenue analysis of mobile plans to identify user behaviors, infor
 
 ## 👋 **Sobre Mim**
 
-> **Quantitative UXR | Data Analyst | SQL, Python | Qualtrics & Tableau**
+> **Data Analyst | Revenue Operations (RevOps) | SQL · Python · Tableau · Looker Studio · Databricks | GenAI & Automação**
 
-**Profissional de Dados com DNA de Produto e Usuário.** Minha trajetória combina a vivência executiva (**Insper, Omie, Mandalah**) com a capacidade técnica em **Data Science e UX Research** (Python, SQL, Qualtrics).
+**Data Analyst com 10+ anos em Operações de Vendas, Consultoria e Analytics.** Identifico vazamentos de receita e retenção com SQL/Python e construo os sistemas de RevOps e Product Analytics para corrigi-los — de fechar negócios na **Omie** (líder em ERP cloud no Brasil) a consultoria na **Mandalah** e **Insper** até construir infraestrutura de dados que captura receita perdida para empresas SaaS, Ecommerce e Fintech.
 
-Diferente de analistas puramente técnicos, eu foco no **comportamento humano por trás das métricas.** Minha especialidade é unir **Big Data** (Telemetria/Vendas) com **Sentimento do Usuário** - seja identificando clusters de churn, automatizando insights de pesquisas com **Agentes de IA**, ou criando dashboards estratégicos.
-- **Tech Stack:** Python, SQL, Qualtrics, Tableau, GenAI.
-- **Business Stack:** UXR Quantitativo, Estratégia de Produto, Segmentação de Players, Sales Ops.
+Já estive nas reuniões de receita. Sei o que o VP de Vendas precisa até segunda de manhã, e construo o analytics para responder antes que perguntem.
 
-Como residente técnico em **Ciência de Dados pela TripleTen (700h+)**, eu traduzo dados brutos em estratégia acionável de produto.
+- **Tech Stack:** Python (Polars, Pandas, Scikit-Learn, FastAPI) · SQL · ETL Pipelines · Databricks · Looker Studio · Tableau · Streamlit
+- **Business Stack:** Revenue Operations (RevOps), Product Analytics, Arquitetura de BI, Sales Ops, Métricas SaaS (CAC, LTV, MRR, Churn)
+
+Como residente técnico em **Ciência de Dados pela TripleTen (700h+)** e certificado **Six Sigma Green Belt**, eu traduzo dados brutos em decisões que geram receita.
 
 ---
 
 ## 🚀 **Projetos em Destaque (Portfólio)**
 
-| Categoria | Nome do Projeto | Stack Tecnológico |
-| :---: | :--- | :--- |
-| **Estratégia de Produto /UXR** | [**Epic Games Store: Auditoria de Inteligência de Ecossistema (2026)**](#p0) | Python, Streamlit, GenAI |
-| **GenAI / BI** | [**BI Conversacional & Analytics Generativo (Music Trends)**](#p3) | Streamlit, LLMs, LangChain |
-| **Auto / IA** | [**Inteligência de Mercado Automotivo & Agente de IA**](#p4) | Python, Gemini AI, Plotly |
-| **Gaming / Estratégia** | [**Estratégia de Mercado Global de Jogos & Previsão de Vendas**](#p5) | Python, Stats, EDA |
-| **Vendas / Estratégia** | [**Análise Estratégica de Receita & Churn (Telecom)**](#p1) | Python, Stats, Lógica de Negócios |
-| **Stats / Edu** | [**Simulação de Moeda (Lei dos Grandes Números)**](#p2) | Streamlit, SciPy |
+|           Categoria            | Nome do Projeto                                                              | Stack Tecnológico                   |
+| :----------------------------: | :--------------------------------------------------------------------------- | :---------------------------------- |
+|        **RevOps / IA**         | [**RevOps Lead Engine: Central de Comando B2B com IA**](#prevops-pt)         | Python, Streamlit, Plotly, Pydantic |
+| **Estratégia de Produto /UXR** | [**Epic Games Store: Auditoria de Inteligência de Ecossistema (2026)**](#p0) | Python, Streamlit, GenAI            |
+|         **GenAI / BI**         | [**BI Conversacional & Analytics Generativo (Music Trends)**](#p3)           | Streamlit, LLMs, LangChain          |
+|         **Auto / IA**          | [**Inteligência de Mercado Automotivo & Agente de IA**](#p4)                 | Python, Gemini AI, Plotly           |
+|    **Gaming / Estratégia**     | [**Estratégia de Mercado Global de Jogos & Previsão de Vendas**](#p5)        | Python, Stats, EDA                  |
+|    **Vendas / Estratégia**     | [**Análise Estratégica de Receita & Churn (Telecom)**](#p1)                  | Python, Stats, Lógica de Negócios   |
+|        **Stats / Edu**         | [**Simulação de Moeda (Lei dos Grandes Números)**](#p2)                      | Streamlit, SciPy                    |
 
 ---
+
+<br>
+
+<!-- PROJECT REVOPS PT: B2B LEAD ENGINE -->
+<div align="center" id="prevops-pt">
+<img src="https://img.shields.io/badge/🚀%20NOVO%20Flagship-RevOps%20%26%20IA-1e3a8a?style=for-the-badge">
+
+<h2 style="margin-top: 10px;">🚀 RevOps Lead Engine: Central de Comando B2B com IA</h2>
+
+<h3><i>Geração autônoma de leads · Modelagem preditiva de receita · Análise de retenção pós-venda</i></h3>
+
+<a href="https://revops-lead-engine.streamlit.app/">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/revops_lead_engine/main/docs/images/cover-small.jpg" width="100%" alt="RevOps Lead Engine Dashboard" style="border-radius: 8px;">
+</a>
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+</div>
+
+**Contexto de Negócio:**  
+A maioria das equipes de vendas B2B gasta 60–70% do tempo de SDR em prospecção manual. Este projeto constrói uma **plataforma RevOps totalmente autônoma** — desde a descoberta de leads orientada por ICP até scoring com IA, modelagem preditiva de receita e rastreamento de retenção pós-venda.
+
+**Principais Funcionalidades:**
+*   **Copilot RevOps com IA:** Interface de chat em linguagem natural para análise de risco de pipeline e acompanhamento de quota.
+*   **Modelador de Cenários de Receita:** Ajuste 4 alavancas (Volume, Win Rate, ACV, Ciclo) para projetar trajetórias de receita em curva S de 90 dias com insights de IA.
+*   **Módulo Post-Sales (NDR):** Rastreamento de Retenção Líquida, Health Score de contas e gráficos Waterfall de ARR.
+*   **IA Explicável (XAI):** Cada score de lead inclui raciocínio transparente — sem modelos caixa-preta.
+*   **10 Módulos Integrados:** Dashboard de Receita, Inteligência de Leads, Sales Navigator, Analytics de Pipeline, Outreach, CRM e mais.
+
+<div align='center'>
+
+[ ![Demo ao Vivo](https://img.shields.io/badge/🚀_DEMO_AO_VIVO-Acessar_Agora-ff4b4b?style=for-the-badge&logoColor=white) ](https://revops-lead-engine.streamlit.app/)
+
+[ ![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/eduardocornelsen/revops_lead_engine)
+
+</div>
+
+***
 
 <br>
 
