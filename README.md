@@ -648,15 +648,15 @@ Análise comparativa de planos móveis para maximizar o **ARPU (Receita Média p
 <!--START_SECTION:wakatime-->
 
 ```python
-From: 24 October 2025 - To: 16 March 2026
+From: 24 October 2025 - To: 17 March 2026
 
-Total Time: 299 hrs 59 mins
+Total Time: 305 hrs 57 mins
 
-Python                     241 hrs 55 mins       ████████████████████░░░░░   79.39 %
-Markdown                   32 hrs 40 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-HTML                       10 hrs 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Other                      4 hrs 43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Text                       3 hrs 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Python                     242 hrs 54 mins       ███████████████████▓░░░░░   78.18 %
+Markdown                   35 hrs 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+HTML                       10 hrs 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Other                      4 hrs 44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Text                       3 hrs 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:wakatime-->
