@@ -10,15 +10,14 @@
 &nbsp;
 <a href="https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=portfolio_badge"><img src="https://img.shields.io/badge/Live_Portfolio-673086.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=30></a>
 &nbsp;
-<a href="mailto:eduardo@eduardocornelsen.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
+<a href="mailto:eduardo.cornelsen@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 
 <a href="https://wakatime.com/@4eb9be1d-cffd-4db6-a3b4-a831bb910af1">
-    <img src="https://wakatime.com/badge/user/4eb9be1d-cffd-4db6-a3b4-a831bb910af1.svg" alt="Total Time Coded" />
-  </a>
-  
+  <img src="https://wakatime.com/badge/user/4eb9be1d-cffd-4db6-a3b4-a831bb910af1.svg" alt="Total Time Coded" />
+</a>
+
 ---
 
-<!-- NAVIGATION & CONTACTS -->
 <a href="#en-version"><img src="https://img.shields.io/badge/🇺🇸_ENGLISH_VERSION-003366?style=for-the-badge" height=30></a>
 &nbsp;
 <a href="#pt-version"><img src="https://img.shields.io/badge/🇧🇷_VERSÃO_EM_PORTUGUÊS-009c3b?style=for-the-badge" height=30></a>
@@ -26,45 +25,52 @@
 </div>
 
 
-<!-- ENGLISH VERSION ANCHOR -->
 <a name="en-version"></a>
 
 <details open>
 <summary><h1>🇺🇸 English Version</h1></summary>
 
-## 👋 **About Me**
+## 👋 About Me
 
-> **Data Analyst | Revenue Operations (RevOps) | SQL · Python · Tableau · Looker Studio · Databricks | GenAI & Automation**
+> **Analytics Engineer & Data Analyst | Revenue Operations (RevOps) · AI & Agentic BI | SQL · Python · dbt · BigQuery · MCP**
 
-**Data Analyst with 10+ years across Sales Operations, Consulting, and Analytics.** I pinpoint revenue and retention leakage with SQL/Python and ship the RevOps and Product analytics systems to fix it — from closing deals at **Omie** (Brazil's leading cloud ERP) to consulting at **Mandalah** and **Insper** to building data infrastructure that captures lost revenue for SaaS, Ecommerce, and Fintech firms.
+**Analytics Engineer & Data Analyst with 10+ years across consultative ERP sales (Omie — Brazil's leading cloud ERP), business consulting, and analytics.** I diagnose where SaaS, Ecommerce, and Fintech companies lose revenue and build the governed AI pipelines to capture it.
 
-I've sat in the revenue meetings. I know what the VP of Sales needs by Monday morning, and I build the analytics to answer it before they ask.
+I've sat in the revenue meetings. I know what the VP of Sales needs by Monday morning — and I build the analytics to answer it before they ask.
 
-- **Tech Stack:** Python (Polars, Pandas, Scikit-Learn, FastAPI) · SQL · ETL Pipelines · Databricks · Looker Studio · Tableau · Streamlit
-- **Business Stack:** Revenue Operations (RevOps), Product Analytics, BI Architecture, Sales Ops, SaaS Metrics (CAC, LTV, MRR, Churn)
+### 🛠️ Tech Stack
+`Python` `SQL` `dbt` `ELT Pipelines` `BigQuery` `Databricks` `MCP Servers` `LangChain` `Claude/Gemini APIs` `FastAPI` `Looker Studio` `Streamlit` `React/NextJS`
 
-As a **TripleTen Data Science Resident (700h+)** and **Six Sigma Green Belt**, I translate raw data into revenue-driving decisions.
+### 🧠 AI & Agentic BI
+Building governed AI analytics systems where natural language queries return deterministic, dbt-governed insights in 15 seconds — no hallucinations, no metric drift.
+
+### 📊 Business Stack
+BI Architecture · Revenue Analytics · Marketing & Funnel Analytics · SaaS Unit Economics (CAC, LTV, MRR, Churn, ROAS) · Financial Modeling · ELT Architecture
+
+🎓 TripleTen Data Science Resident (700h+) · Six Sigma Green Belt · Final-round candidate — Epic Games 2026
 
 ---
 
-## 🛠️ **Tech & Business Stack**
+## 🛠️ Full Tech & Business Stack
 
 <div align='center'>
 
-### 🧠 Strategic & Business Capabilities
-![RevOps](https://img.shields.io/badge/Revenue_Operations-1e3a8a?style=for-the-badge&logo=salesforce&logoColor=white)
-![Product Analytics](https://img.shields.io/badge/Product_Analytics-FF0055?style=for-the-badge&logo=mixpanel&logoColor=white)
-![Sales Ops](https://img.shields.io/badge/Sales_Operations-000000?style=for-the-badge&logo=salesforce&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 🧠 AI & Agentic BI
+![MCP](https://img.shields.io/badge/MCP_Servers-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6C43E0?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 💻 Data Engineering & Science
+### 💻 Data Engineering & Analytics Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Advanced-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![ELT Pipelines](https://img.shields.io/badge/ELT_Pipelines-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### 📊 BI & Visualization
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
@@ -72,35 +78,92 @@ As a **TripleTen Data Science Resident (700h+)** and **Six Sigma Green Belt**, I
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🤖 AI & Automation
-![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-6C43E0?style=for-the-badge&logo=openai&logoColor=white)
+### 🏢 Business Stack
+![RevOps](https://img.shields.io/badge/Revenue_Operations-1e3a8a?style=for-the-badge&logo=salesforce&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Product Analytics](https://img.shields.io/badge/Product_Analytics-FF0055?style=for-the-badge&logo=mixpanel&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects (Portfolio)**
+## 🚀 Featured Projects
 
-|          Category          | Project Name                                                       | Tech Stack                          |
-| :------------------------: | :----------------------------------------------------------------- | :---------------------------------- |
-|      **RevOps / AI**       | [**RevOps Lead Engine: AI-Powered B2B Command Center**](#prevops)  | Python, Streamlit, Plotly, Pydantic |
-| **Product Strategy / UXR** | [**Epic Games Store: 2026 Ecosystem Intelligence Audit**](#p0)     | Python, Streamlit, GenAI            |
-|       **GenAI / BI**       | [**Conversational BI & Generative Analytics (Music Trends)**](#p3) | Streamlit, LLMs, LangChain          |
-|     **Auto / Market**      | [**Automotive Market Intelligence & AI Agent**](#p4)               | Python, Gemini AI, Plotly           |
-|   **Gaming / Strategy**    | [**Global Gaming Market Strategy & Sales Prediction**](#p5)        | Python, Stats, EDA                  |
-|    **Sales / Strategy**    | [**Strategic Revenue & Churn Analysis (Telecom)**](#p1)            | Python, Stats, Business Logic       |
-|      **Stats / Edu**       | [**Coin Toss Simulation (Law of Large Numbers)**](#p2)             | Streamlit, SciPy                    |
+|          Category          | Project                                                                             | Stack                                           |
+| :------------------------: | :---------------------------------------------------------------------------------- | :---------------------------------------------- |
+|   **🏆 AI / Analytics Eng** | [**Full-Funnel AI Analytics Platform**](#p-fullfunnel)                              | dbt · MCP · BigQuery · XGBoost · Claude/Gemini  |
+|      **RevOps / AI**       | [**RevOps Lead Engine: AI-Powered B2B Command Center**](#prevops)                   | Python · Streamlit · Plotly · XAI               |
+| **Product Strategy / UXR** | [**Epic Games Store: 2026 Ecosystem Intelligence Audit**](#p0)                      | Python · Streamlit · Random Forest · NLP        |
+|       **GenAI / BI**       | [**Conversational BI & Generative Analytics (Music Trends)**](#p3)                  | Streamlit · LLMs · LangChain                    |
+|     **Auto / Market**      | [**Automotive Market Intelligence & AI Agent**](#p4)                                | Python · Gemini AI · Plotly                     |
+|    **Sales / Strategy**    | [**Strategic Revenue & Churn Analysis (Telecom)**](#p1)                             | Python · Stats · Business Logic                 |
+|    **Gaming / Strategy**   | [**Global Gaming Market Strategy**](#p5)                                            | Python · Stats · EDA                            |
+|      **Stats / Edu**       | [**PunkSQL — Mobile SQL Learning Platform**](#p-punksql)                            | Next.js · SQLite/WASM · Vercel · Google OAuth   |
 
 ---
 
 <br>
 
+<!-- PROJECT: FULL-FUNNEL AI ANALYTICS PLATFORM -->
+<div align="center" id="p-fullfunnel">
+<img src="https://img.shields.io/badge/🏆%20FLAGSHIP-Full--Funnel%20AI%20Analytics%20Platform-1a2441?style=for-the-badge">
+
+<h2 style="margin-top: 10px;">🏆 Full-Funnel AI Marketing Analytics Platform</h2>
+
+<h3><i>Natural language queries · dbt Semantic Layer · 7 MCP Servers · ML Lead Scoring · $0/month base cost</i></h3>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+</div>
+
+<a href="https://github.com/eduardocornelsen/full-funnel-ai-analytics">
+  <img src="https://github.com/eduardocornelsen/full-funnel-ai-analytics/raw/main/demo/videos/open-query.gif" width="100%" alt="Full-Funnel AI Analytics — /marketing command live demo">
+</a>
+<br><br>
+
+**Business Context:**
+Companies run ads across Google, Meta, and organic channels. Marketing claims leads. Sales says they're low quality. The CEO asks: *"Where should we spend next quarter?"*
+
+Answering this requires joining data from 5+ platforms, building attribution models, scoring leads, and making it all accessible to non-technical stakeholders. This project builds the production system — at $0/month base cost.
+
+**Architecture: Three Heads, One Spine**
+- **AI Layer** — 7 MCP servers + Claude Desktop, OpenCode, Gemini CLI, Antigravity. Ask questions in plain English, get production-grade React dashboards in 15 seconds.
+- **BI Layer** — Looker Studio + Streamlit + Claude React artifacts. Same governed metrics across every output.
+- **ML Layer** — XGBoost trained on 93K rows + FastAPI `/score` endpoint + n8n auto-routing. Hot leads bypass the queue instantly.
+
+**Key Numbers:**
+- **29 dbt models** — full Medallion Architecture (Bronze → Silver → Gold)
+- **2.2M+ rows** of real Olist ecommerce data + synthetic marketing data
+- **7 MCP servers** — Google Ads, Meta Ads, GA4, HubSpot, Salesforce, BigQuery, dbt Semantic Layer
+- **4 attribution models** — First-Touch, Last-Touch, Linear, Time-Decay
+- **5 warehouses** — BigQuery, DuckDB, Snowflake, Databricks, Supabase
+- **4 AI clients** — Claude Desktop, OpenCode, Gemini CLI, Antigravity
+- **$0/month** base infrastructure cost
+
+**The Core Insight — Why Governance Matters:**
+Most AI-to-SQL tools fail because they lack a source of truth. This project solves that with the **dbt Semantic Layer (MetricFlow)**: define "ROAS" once in YAML, and every AI client, dashboard, and ML pipeline consumes the exact same definition — forever. No hallucinations. No metric drift.
+
+<div align='center'>
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/full-funnel-ai-analytics)
+[![Architecture Demo](https://img.shields.io/badge/Architecture_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cAWI6h1_6L0)
+[![Live Demo](https://img.shields.io/badge/Live_Demo_/_marketing_command-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=d29Lf2hdUkw&list=PLhSiQdI2GrpaJ2QW9k4M3lW7sS1LYNmUw)
+
+</div>
+
+***
+
+<br>
+
 <!-- PROJECT REVOPS: B2B LEAD ENGINE -->
 <div align="center" id="prevops">
-<img src="https://img.shields.io/badge/🚀%20NEW%20Flagship-RevOps%20%26%20AI-1e3a8a?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀%20RevOps%20%26%20AI-B2B%20Command%20Center-1e3a8a?style=for-the-badge">
 
 <h2 style="margin-top: 10px;">🚀 RevOps Lead Engine: AI-Powered B2B Command Center</h2>
 
@@ -118,21 +181,20 @@ As a **TripleTen Data Science Resident (700h+)** and **Six Sigma Green Belt**, I
 
 </div>
 
-**Business Context:**  
+**Business Context:**
 Most B2B sales teams burn 60–70% of SDR time on manual prospecting. This project builds a **fully autonomous RevOps platform** — from ICP-driven lead discovery to AI-powered scoring, predictive revenue modeling, and post-sales retention tracking.
 
 **Key Features:**
-*   **AI RevOps Copilot:** Natural-language chat interface for pipeline risk analysis and quota pacing.
-*   **Revenue Scenario Modeler:** Adjust 4 levers (Volume, Win Rate, ACV, Cycle Time) to project 90-day S-curve revenue trajectories with AI insights.
-*   **Post-Sales NDR Module:** Net Dollar Retention tracking, Account Health scoring, and ARR Waterfall charts.
-*   **Explainable AI (XAI):** Every lead score includes transparent reasoning — no black-box models.
-*   **10 Integrated Modules:** Revenue Dashboard, Lead Intelligence, Sales Navigator, Pipeline Analytics, Outreach, CRM, and more.
+- **AI RevOps Copilot:** Natural-language chat for pipeline risk analysis and quota pacing
+- **Revenue Scenario Modeler:** 4 levers (Volume, Win Rate, ACV, Cycle Time) → 90-day S-curve revenue projections
+- **Post-Sales NDR Module:** Net Dollar Retention, Account Health scoring, ARR Waterfall charts
+- **Explainable AI (XAI):** Every lead score includes transparent reasoning — no black-box models
+- **10 Integrated Modules:** Revenue Dashboard, Lead Intelligence, Sales Navigator, Pipeline Analytics, and more
 
 <div align='center'>
 
-[ ![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Click_to_Launch-ff4b4b?style=for-the-badge&logoColor=white) ](https://revops-lead-engine.streamlit.app/)
-
-[ ![View Project Repo](https://img.shields.io/badge/View_Project_Repo-181717?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/eduardocornelsen/revops_lead_engine)
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Click_to_Launch-ff4b4b?style=for-the-badge&logoColor=white)](https://revops-lead-engine.streamlit.app/)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/revops_lead_engine)
 
 </div>
 
@@ -140,40 +202,75 @@ Most B2B sales teams burn 60–70% of SDR time on manual prospecting. This proje
 
 <br>
 
-<!-- PROJECT 0: EPIC GAMES (NEW FLAGSHIP) -->
+<!-- PROJECT 0: EPIC GAMES -->
 <div align="center" id="p0">
-<img src="https://img.shields.io/badge/⚡%20Flagship%20Project-Product%20Strategy%20%26%20UXR-ff00ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/⚡%20Product%20Strategy%20%26%20UXR-Epic%20Games%20Ecosystem-ff00ff?style=for-the-badge">
 
-<h2 style="margin-top: 10px;">⚡ Epic Games Store Ecosystem Intelligence: Strategic Market Audit (2026)</h2>
+<h2 style="margin-top: 10px;">⚡ Epic Games Store Ecosystem Intelligence: Strategic Audit (2026)</h2>
 
-[![Epic Games Store Strategic Audit Cover](https://raw.githubusercontent.com/eduardocornelsen/epic-store-analysis/main/images/cover/Cover-H-16-9-EpicGames-UXResearch-low.jpg)](https://github.com/eduardocornelsen/epic-store-analysis)
+<a href="https://github.com/eduardocornelsen/epic-store-analysis">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/epic-store-analysis/main/images/cover/Cover-H-16-9-EpicGames-UXResearch-low.jpg" width="100%" alt="Epic Games Store Strategic Audit Cover" style="border-radius: 8px;">
+</a>
+<br><br>
 
-<h3><i>Bridging the gap between Raw Metadata, User Experience, and Business Strategy.</i></h3>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![GenAI](https://img.shields.io/badge/NotebookLM-Audio_Briefing-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
-**Business Context:**  
-A strategic audit transitioning the Epic Games Store from a digital storefront to an "Ecosystem of Intelligence." We utilized **Random Forest Regression ($R^2=0.39$)** and **K-Means Clustering** to decode the "UX Alpha"—proving that 60% of player satisfaction is driven by intangible factors beyond price and specs.
+**Business Context:**
+A strategic audit transitioning the Epic Games Store from a digital storefront to an "Ecosystem of Intelligence." **Random Forest Regression (R²=0.39)** and **K-Means Clustering** decode the "UX Alpha" — proving 60% of player satisfaction is driven by intangible factors beyond price and specs.
 
-**Key Features:**
-*   **The "Hardware Wall":** Identified a critical churn zone where high system requirements negatively correlate (-0.13) with user ratings.
-*   **Behavioral Segmentation:** Mapped 4 "Product Personas" to identify the "Premium Friction" risk in high-cost Indie titles.
-*   **Multi-Modal Delivery:** Includes an interactive **Streamlit Dashboard** and AI-generated **Audio Briefings (NotebookLM)** for stakeholders.
+**Key Findings:**
+- **The "Hardware Wall":** High system requirements correlate negatively (-0.133) with user ratings — a critical churn zone
+- **Behavioral Segmentation:** 4 Product Personas mapping the "Premium Friction" risk in high-cost Indie titles
+- **Final-round candidate for Epic Games Data Analyst role (2026)**
 
 <div align='center'>
-  
-[ ![View Slides](https://img.shields.io/badge/View_UXR_Presentation-ff00ff?style=for-the-badge&logo=googledrive&logoColor=white) ](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
 
-[ ![View Dashboard](https://img.shields.io/badge/View_Interactive_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ](https://epic-store-analysis.streamlit.app/)
+[![View UXR Slides](https://img.shields.io/badge/View_UXR_Presentation-ff00ff?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
+[![View Dashboard](https://img.shields.io/badge/View_Interactive_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://epic-store-analysis.streamlit.app/)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/epic-store-analysis)
+[![View Notebook](https://img.shields.io/badge/View_Technical_Notebook-159279?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb)
 
-[ ![View Project Repo](https://img.shields.io/badge/View_Project_Repo-181717?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/eduardocornelsen/epic-store-analysis)
+</div>
 
-[ ![View Notebook](https://img.shields.io/badge/View_Technical_Notebook-159279?style=for-the-badge&logo=googlecolab&logoColor=white) ](https://colab.research.google.com/github/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb)
+***
+
+<br>
+
+<!-- PROJECT: PUNKSQL -->
+<div align="center" id="p-punksql">
+<img src="https://img.shields.io/badge/🎮%20SQL%20Learning-PunkSQL%20Platform-00F0FF?style=for-the-badge">
+
+<h2 style="margin-top: 10px;">>_ PunkSQL — Mobile SQL Learning Platform</h2>
+
+<h3><i>Duolingo meets LeetCode · 80 challenges · Real in-browser SQL execution · Cyberpunk CLI aesthetic</i></h3>
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
+![SQLite](https://img.shields.io/badge/SQLite-WASM-003B57?style=for-the-badge&logo=sqlite)
+![Supabase](https://img.shields.io/badge/Supabase-Google_OAuth-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)
+
+</div>
+
+**What it is:**
+A mobile-first SQL learning platform with a cyberpunk terminal aesthetic. Write real SQL queries that execute in your browser using SQLite compiled to WebAssembly. No backend, no signup required to play.
+
+**Key Features:**
+- **80 SQL challenges** across 8 modules — SELECT → CTEs, sequential unlocking
+- **Real SQLite execution** via WASM — queries validated against expected output
+- **Gamified** — 20 levels, XP system, 10 achievements, sound effects
+- **Google OAuth** — persistent progress across sessions
+- **Bilingual** — full EN/PT-BR support
+- **$0/month** infrastructure — fully client-side
+
+<div align='center'>
+
+[![Play Now](https://img.shields.io/badge/▶_Play_Now-00F0FF?style=for-the-badge)](https://punksql.vercel.app)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/punksql)
 
 </div>
 
@@ -183,248 +280,211 @@ A strategic audit transitioning the Epic Games Store from a digital storefront t
 
 <!-- PROJECT 3: SPOTIFY GENAI -->
 <div align="center" id="p3">
-<img src="https://img.shields.io/badge/🔥%20Star%20Project-GenAI%20&%20BI-6C43E0?style=for-the-badge">
+<img src="https://img.shields.io/badge/🔥%20GenAI%20&%20BI-Conversational%20Analytics-6C43E0?style=for-the-badge">
 
 <h2 style="margin-top: 10px;">🎵 Conversational BI & Generative Analytics</h2>
-<h3><i>"Chat with Data" Agent applied to 100 Years of Music History</i></h3>
+<h3><i>"Chat with Data" Agent — 100 Years of Music History</i></h3>
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spotify-music-insights-ai.streamlit.app/)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
-**Business Context:**  
-Stakeholders often need quick answers ("What was the most popular genre in the 80s?") but lack SQL skills. This project solves that by integrating a **Large Language Model (LLM)** directly into the dashboard.
-
-**Key Features:**
-*   **AI Consultant:** A chatbot that interprets natural language and queries the dataset to provide instant insights.
-*   **Deep Analysis:** Analysis of 170k+ tracks spanning 100 years.
-*   **Interactive Dashboards:** 17 dynamic views for trend analysis.
+**Business Context:**
+Stakeholders need quick answers but lack SQL skills. This solves that by integrating an **LLM directly into the dashboard** — ask *"What was the most popular genre in the 80s?"* and get an instant data-backed answer. Analysis of 170k+ tracks spanning 100 years.
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/spotify-music-insights-ai">
-    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://spotify-music-insights-ai.streamlit.app/">
-    <img src="https://img.shields.io/badge/Launch_App-6C43E0?style=for-the-badge&logo=streamlit&logoColor=white">
-  </a>
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/spotify-music-insights-ai)
+[![Launch App](https://img.shields.io/badge/Launch_App-6C43E0?style=for-the-badge&logo=streamlit&logoColor=white)](https://spotify-music-insights-ai.streamlit.app/)
+
 </div>
 
 ***
 
 <!-- PROJECT 4: CAR SALES AI -->
 <div align="center" id="p4">
-<img src="https://img.shields.io/badge/🚗%20Strategic%20Project-Automotive%20Market-E97627?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚗%20Automotive%20Market-AI%20Agent-E97627?style=for-the-badge">
 
 <h2 style="margin-top: 10px;">🚗 Automotive Market Intelligence & AI Agent</h2>
 <h3><i>Advanced EDA with Tool-Calling AI for Market Trends</i></h3>
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://car-sales-analyst-ai.streamlit.app/)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
 
-**Business Context:**  
-Designed for the **Automotive & Sales Ops** sector (relevant to *ExitLag/Monks*). This tool allows users to understand vehicle depreciation, market saturation, and pricing trends using an autonomous agent.
-
-**Key Features:**
-*   **Tool Calling Agent:** Uses Google Gemini 2.5 Flash to write and execute Python code on the fly to answer complex questions about the dataframe.
-*   **Market Trends:** Visual analysis of price distribution, condition vs. year, and model popularity.
+**Business Context:**
+Tool-Calling AI Agent using Gemini 2.5 Flash that writes and executes Python code in real-time to answer complex questions about vehicle depreciation, market saturation, and pricing trends.
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/car-sales-analyst-ai">
-    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://car-sales-analyst-ai.streamlit.app/">
-    <img src="https://img.shields.io/badge/Launch_App-E97627?style=for-the-badge&logo=streamlit&logoColor=white">
-  </a>
-</div>
 
-***
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/car-sales-analyst-ai)
+[![Launch App](https://img.shields.io/badge/Launch_App-E97627?style=for-the-badge&logo=streamlit&logoColor=white)](https://car-sales-analyst-ai.streamlit.app/)
 
-<!-- PROJECT 5: VIDEOGAMES -->
-<div align="center" id="p5">
-<img src="https://img.shields.io/badge/🎮%20ExitLag%20Focus-Gaming%20Strategy-7289da?style=for-the-badge">
-
-<h2 style="margin-top: 10px;">🎮 Global Gaming Market Strategy</h2>
-<h3><i>Predicting Sales Success to Mitigate Launch Risks</i></h3>
-
-![Status Badge: In Analysis](https://img.shields.io/badge/Status-Deep_Dive_Analysis_(Raw)-orange?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Stats](https://img.shields.io/badge/Hypothesis_Testing-003366?style=for-the-badge) ![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-gold?style=for-the-badge)
-
-</div>
-
-**Business Context:**  
-Developed to identify success drivers in the console/PC gaming industry. By analyzing global historical sales, this project builds a predictive framework to support Go-To-Market strategies.
-
-> **⚠️ Note:** This project is currently in the **active analysis phase**. The link below provides access to the **technical notebook (code & charts)** while the Executive PDF Report is being finalized.
-
-<div align='center'>
-  <a href="https://github.com/eduardocornelsen/videogames-revenue-analysis">
-    <img src="https://img.shields.io/badge/View_Analysis_(Notebook)-7289da?style=for-the-badge&logo=jupyter&logoColor=white">
-  </a>
 </div>
 
 ***
 
 <!-- PROJECT 1: MEGALINE -->
 <div align="center" id="p1">
-<img src="https://img.shields.io/badge/📈%20Strategy%20Project-Revenue%20%26%20Churn-28a745?style=for-the-badge">
+<img src="https://img.shields.io/badge/📈%20Revenue%20%26%20Churn-Telecom%20Analytics-28a745?style=for-the-badge">
 
 <h2 style="margin-top: 10px;">📈 Strategic Revenue Optimization (Telecom)</h2>
 <h3><i>Statistical Analysis for Plan Profitability & Churn</i></h3>
 
-![Status Badge: Completed](https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Stats](https://img.shields.io/badge/Hypothesis_Testing-003366?style=for-the-badge) ![Business Logic](https://img.shields.io/badge/Business_Logic-gold?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Stats](https://img.shields.io/badge/Hypothesis_Testing-003366?style=for-the-badge)
 
 </div>
 
-**Business Context:**  
-A comparative revenue analysis of mobile plans to identify user behaviors, inform marketing budget allocation, and **maximize Average Revenue Per User (ARPU)**.
-
-**Key Features:**
-*   Statistical Hypothesis Testing to validate profitability.
-*   User behavior profiling for retention strategies.
+**Business Context:**
+Comparative revenue analysis of mobile plans to identify user behaviors, inform marketing budget allocation, and maximize ARPU. Statistical hypothesis testing to validate profitability strategies.
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/megaline_revenue_analysis_story">
-    <img src="https://img.shields.io/badge/View_Repo-28a745?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://eduardocornelsen.github.io/megaline_revenue_analysis_story/">
-    <img src="https://img.shields.io/badge/View_Story_(Page)-gray?style=for-the-badge&logo=githubpages&logoColor=white">
-  </a>
-</div>
 
+[![View Repo](https://img.shields.io/badge/View_Repo-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/megaline_revenue_analysis_story)
+[![View Story](https://img.shields.io/badge/View_Story_(Page)-gray?style=for-the-badge&logo=githubpages&logoColor=white)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+
+</div>
 ***
 
-<!-- PROJECT 2: COIN TOSS -->
-<div align="center" id="p2">
-<img src="https://img.shields.io/badge/🔢%20Academic%20Project-Statistics-blue?style=for-the-badge">
+<!-- PROJECT 5: VIDEOGAMES -->
+<div align="center" id="p5">
+<img src="https://img.shields.io/badge/🎮%20Gaming%20Strategy-Deep%20Technical%20Analysis-7289da?style=for-the-badge">
 
-<h2 style="margin-top: 10px;">🔢 Law of Large Numbers Simulation</h2>
+<h2 style="margin-top: 10px;">🎮 Global Gaming Market Strategy</h2>
+<h3><i>Predicting Sales Success to Mitigate Launch Risks</i></h3>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8991EC?style=for-the-badge&logo=scipy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Stats](https://img.shields.io/badge/Hypothesis_Testing-003366?style=for-the-badge)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-gold?style=for-the-badge)
 
 </div>
 
-**Description:** An interactive app demonstrating statistical convergence concepts, essential for A/B testing validity.
+**Business Context:**
+Identifies success drivers in the console/PC gaming industry by analyzing global historical sales data. Builds a predictive framework to support Go-To-Market strategies and mitigate launch risks.
+
+> 📓 **Available as a deep-dive technical notebook** — extensive EDA, hypothesis testing, and strategic analysis. Portuguese only.
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/coin-toss-simulator">
-    <img src="https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+
+[![View Technical Notebook](https://img.shields.io/badge/View_Technical_Notebook-7289da?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/eduardocornelsen/videogames-revenue-analysis)
+
 </div>
-
----
-
-## 🧪 **Labs & Research (Active Development)**
-
-*Strategic projects currently in the Prototyping / Research phase:*
-
-### 🪙 **Crypto Price & Sentiment Forecast** (Web3)
-> **Goal:** Using FinBERT (NLP) for sentiment analysis combined with technical indicators to forecast crypto asset trends.
-> <br>![Tech](https://img.shields.io/badge/Stack-Python_|_FinBERT_|_Sklearn-blue?style=flat-square)
-
-### 🤖 **"Meu Conselheiro" GenAI Chatbot** (RAG)
-> **Goal:** A Financial Literacy RAG App using **LangChain & Gemini** to answer questions based on trusted Central Bank data.
-> <br>![Tech](https://img.shields.io/badge/Stack-LangChain_|_Gemini_|_FAISS-6C43E0?style=flat-square)
-
-### 🕵️ **End-to-End MLOps: Fraud Detection API**
-> **Goal:** A production-ready API for real-time fraud detection demonstrating the full lifecycle (MLFlow, Docker, Pytest).
-> <br>![Tech](https://img.shields.io/badge/Stack-FastAPI_|_Docker_|_MLFlow-009688?style=flat-square)
-
-### 🔎 **B2B Sales Intelligence Tool** (Lead Gen)
-> **Goal:** A web scraping tool to build qualified lead databases from public directories, filtering by industry and location.
-> <br>![Tech](https://img.shields.io/badge/Stack-Python_|_Soup_|_Streamlit-E97627?style=flat-square)
-
-### 📊 **SaaS Churn & LTV Optimization**
-> **Goal:** Interactive ROI simulation to identify churn drivers and calculate the financial impact of retention strategies.
-> <br>![Tech](https://img.shields.io/badge/Stack-XGBoost_|_Power_BI_|_Streamlit-F2C811?style=flat-square)
-
-### 🛒 **E-commerce Sentiment Analysis** (NLP)
-> **Goal:** Scraping Mercado Livre/Shopee reviews to identify customer pain points using NLTK and TextBlob.
-> <br>![Tech](https://img.shields.io/badge/Stack-NLP_|_NLTK_|_Regex-yellow?style=flat-square)
 
 </details>
 
 ---
 
-<!-- PORTUGUESE VERSION ANCHOR -->
 <a name="pt-version"></a>
 
 <details open>
 <summary><h1>🇧🇷 Versão em Português</h1></summary>
 
-## 👋 **Sobre Mim**
+## 👋 Sobre Mim
 
-> **Data Analyst | Revenue Operations (RevOps) | SQL · Python · Tableau · Looker Studio · Databricks | GenAI & Automação**
+> **Analytics Engineer & Data Analyst | Revenue Operations (RevOps) · AI & Agentic BI | SQL · Python · dbt · BigQuery · MCP**
 
-**Data Analyst com 10+ anos em Operações de Vendas, Consultoria e Analytics.** Identifico vazamentos de receita e retenção com SQL/Python e construo os sistemas de RevOps e Product Analytics para corrigi-los — de fechar negócios na **Omie** (líder em ERP cloud no Brasil) a consultoria na **Mandalah** e **Insper** até construir infraestrutura de dados que captura receita perdida para empresas SaaS, Ecommerce e Fintech.
+**Analytics Engineer & Data Analyst com mais de 10 anos entre vendas consultivas de ERP (Omie — maior ERP cloud do Brasil), consultoria de negócios e analytics.** Eu identifico onde empresas de SaaS, E-commerce e Fintech perdem receita e construo os pipelines de IA governados para capturá-la.
 
-Já estive nas reuniões de receita. Sei o que o VP de Vendas precisa até segunda de manhã, e construo o analytics para responder antes que perguntem.
+Já estive nas reuniões de receita. Sei o que o VP de Vendas precisa na segunda de manhã — e construo a analytics para responder antes de ser perguntado.
 
-- **Tech Stack:** Python (Polars, Pandas, Scikit-Learn, FastAPI) · SQL · ETL Pipelines · Databricks · Looker Studio · Tableau · Streamlit
-- **Business Stack:** Revenue Operations (RevOps), Product Analytics, Arquitetura de BI, Sales Ops, Métricas SaaS (CAC, LTV, MRR, Churn)
+### 🛠️ Stack Técnica
+`Python` `SQL` `dbt` `Pipelines ELT` `BigQuery` `Databricks` `MCP Servers` `LangChain` `Claude/Gemini APIs` `FastAPI` `Looker Studio` `Streamlit` `React/NextJS`
 
-Como residente técnico em **Ciência de Dados pela TripleTen (700h+)** e certificado **Six Sigma Green Belt**, eu traduzo dados brutos em decisões que geram receita.
+### 🧠 IA & Agentic BI
+Construindo sistemas de analytics com IA governada — onde consultas em linguagem natural retornam insights determinísticos, governados pelo dbt, em 15 segundos. Sem alucinações. Sem metric drift.
+
+### 📊 Stack de Negócios
+Arquitetura de BI · Revenue Analytics · Analytics de Marketing & Funil · Unit Economics SaaS (CAC, LTV, MRR, Churn, ROAS) · Modelagem Financeira · Arquitetura ELT
+
+🎓 Residente em Data Science na TripleTen (700h+) · Green Belt Lean Six Sigma · Finalista — Epic Games 2026
 
 ---
 
-## 🚀 **Projetos em Destaque (Portfólio)**
+## 🚀 Projetos em Destaque
 
-|           Categoria            | Nome do Projeto                                                              | Stack Tecnológico                   |
-| :----------------------------: | :--------------------------------------------------------------------------- | :---------------------------------- |
-|        **RevOps / IA**         | [**RevOps Lead Engine: Central de Comando B2B com IA**](#prevops-pt)         | Python, Streamlit, Plotly, Pydantic |
-| **Estratégia de Produto /UXR** | [**Epic Games Store: Auditoria de Inteligência de Ecossistema (2026)**](#p0) | Python, Streamlit, GenAI            |
-|         **GenAI / BI**         | [**BI Conversacional & Analytics Generativo (Music Trends)**](#p3)           | Streamlit, LLMs, LangChain          |
-|         **Auto / IA**          | [**Inteligência de Mercado Automotivo & Agente de IA**](#p4)                 | Python, Gemini AI, Plotly           |
-|    **Gaming / Estratégia**     | [**Estratégia de Mercado Global de Jogos & Previsão de Vendas**](#p5)        | Python, Stats, EDA                  |
-|    **Vendas / Estratégia**     | [**Análise Estratégica de Receita & Churn (Telecom)**](#p1)                  | Python, Stats, Lógica de Negócios   |
-|        **Stats / Edu**         | [**Simulação de Moeda (Lei dos Grandes Números)**](#p2)                      | Streamlit, SciPy                    |
+|           Categoria            | Projeto                                                                              | Stack                                           |
+| :----------------------------: | :----------------------------------------------------------------------------------- | :---------------------------------------------- |
+|   **🏆 IA / Analytics Eng**    | [**Full-Funnel AI Analytics Platform**](#p-fullfunnel-pt)                            | dbt · MCP · BigQuery · XGBoost · Claude/Gemini  |
+|        **RevOps / IA**         | [**RevOps Lead Engine: Central de Comando B2B**](#prevops-pt)                        | Python · Streamlit · Plotly · XAI               |
+| **Estratégia de Produto / UXR**| [**Epic Games Store: Auditoria de Inteligência (2026)**](#p0-pt)                     | Python · Streamlit · Random Forest · NLP        |
+|         **GenAI / BI**         | [**BI Conversacional & Analytics Generativo**](#p3-pt)                               | Streamlit · LLMs · LangChain                    |
+|         **Auto / IA**          | [**Inteligência de Mercado Automotivo & Agente IA**](#p4-pt)                         | Python · Gemini AI · Plotly                     |
+|    **Vendas / Estratégia**     | [**Otimização de Receita & Churn (Telecom)**](#p1-pt)                                | Python · Stats · Lógica de Negócios             |
+|    **Gaming / Estratégia**     | [**Estratégia Global de Mercado de Games**](#p5-pt)                                  | Python · Stats · EDA                            |
+|        **Edu / SQL**           | [**PunkSQL — Plataforma de Aprendizado de SQL**](#p-punksql-pt)                      | Next.js · SQLite/WASM · Vercel · Google OAuth   |
 
 ---
 
 <br>
 
-<!-- PROJECT REVOPS PT: B2B LEAD ENGINE -->
+<!-- PROJECT: FULL-FUNNEL PT -->
+<div align="center" id="p-fullfunnel-pt">
+<img src="https://img.shields.io/badge/🏆%20FLAGSHIP-Full--Funnel%20AI%20Analytics%20Platform-1a2441?style=for-the-badge">
+
+<h2 style="margin-top: 10px;">🏆 Full-Funnel AI Marketing Analytics Platform</h2>
+
+<h3><i>Consultas em linguagem natural · dbt Semantic Layer · 7 MCP Servers · ML Lead Scoring · $0/mês</i></h3>
+
+</div>
+
+<a href="https://github.com/eduardocornelsen/full-funnel-ai-analytics">
+  <img src="https://github.com/eduardocornelsen/full-funnel-ai-analytics/raw/main/demo/videos/open-query.gif" width="100%" alt="Full-Funnel AI Analytics — demo de consulta em linguagem natural">
+</a>
+<br><br>
+
+**Contexto de Negócio:**
+Empresas rodam anúncios no Google, Meta e canais orgânicos. Marketing reivindica os leads. Vendas diz que a qualidade é baixa. O CEO pergunta: *"Onde devemos investir no próximo trimestre?"*
+
+Responder isso exige unir dados de 5+ plataformas, construir modelos de atribuição, pontuar leads e tornar tudo acessível para stakeholders não-técnicos. Este projeto constrói o sistema de produção — com custo base de $0/mês.
+
+**Números-chave:**
+- **29 modelos dbt** — Arquitetura Medallion completa (Bronze → Silver → Gold)
+- **2,2M+ linhas** de dados reais Olist + dados sintéticos de marketing
+- **7 MCP Servers** — Google Ads, Meta Ads, GA4, HubSpot, Salesforce, BigQuery, dbt Semantic Layer
+- **4 modelos de atribuição** — First-Touch, Last-Touch, Linear, Time-Decay
+- **5 warehouses** — BigQuery, DuckDB, Snowflake, Databricks, Supabase
+- **$0/mês** de custo base de infraestrutura
+
+<div align='center'>
+
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/full-funnel-ai-analytics)
+[![Demo Arquitetura](https://img.shields.io/badge/Demo_Arquitetura-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cAWI6h1_6L0)
+[![Demo ao Vivo](https://img.shields.io/badge/Demo_ao_Vivo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=d29Lf2hdUkw&list=PLhSiQdI2GrpaJ2QW9k4M3lW7sS1LYNmUw)
+
+</div>
+
+***
+
+<br>
+
+<!-- PROJECT REVOPS PT -->
 <div align="center" id="prevops-pt">
-<img src="https://img.shields.io/badge/🚀%20NOVO%20Flagship-RevOps%20%26%20IA-1e3a8a?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀%20RevOps%20%26%20IA-Central%20de%20Comando%20B2B-1e3a8a?style=for-the-badge">
 
 <h2 style="margin-top: 10px;">🚀 RevOps Lead Engine: Central de Comando B2B com IA</h2>
-
-<h3><i>Geração autônoma de leads · Modelagem preditiva de receita · Análise de retenção pós-venda</i></h3>
 
 <a href="https://revops-lead-engine.streamlit.app/">
   <img src="https://raw.githubusercontent.com/eduardocornelsen/revops_lead_engine/main/docs/images/cover-small.jpg" width="100%" alt="RevOps Lead Engine Dashboard" style="border-radius: 8px;">
 </a>
-<br><br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 </div>
 
-**Contexto de Negócio:**  
-A maioria das equipes de vendas B2B gasta 60–70% do tempo de SDR em prospecção manual. Este projeto constrói uma **plataforma RevOps totalmente autônoma** — desde a descoberta de leads orientada por ICP até scoring com IA, modelagem preditiva de receita e rastreamento de retenção pós-venda.
-
-**Principais Funcionalidades:**
-*   **Copilot RevOps com IA:** Interface de chat em linguagem natural para análise de risco de pipeline e acompanhamento de quota.
-*   **Modelador de Cenários de Receita:** Ajuste 4 alavancas (Volume, Win Rate, ACV, Ciclo) para projetar trajetórias de receita em curva S de 90 dias com insights de IA.
-*   **Módulo Post-Sales (NDR):** Rastreamento de Retenção Líquida, Health Score de contas e gráficos Waterfall de ARR.
-*   **IA Explicável (XAI):** Cada score de lead inclui raciocínio transparente — sem modelos caixa-preta.
-*   **10 Módulos Integrados:** Dashboard de Receita, Inteligência de Leads, Sales Navigator, Analytics de Pipeline, Outreach, CRM e mais.
+**Contexto:** Plataforma RevOps totalmente autônoma — da descoberta de leads por ICP ao scoring com IA, modelagem preditiva de receita e rastreamento de retenção pós-venda. IA Explicável (XAI) em cada score.
 
 <div align='center'>
 
-[ ![Demo ao Vivo](https://img.shields.io/badge/🚀_DEMO_AO_VIVO-Acessar_Agora-ff4b4b?style=for-the-badge&logoColor=white) ](https://revops-lead-engine.streamlit.app/)
-
-[ ![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/eduardocornelsen/revops_lead_engine)
+[![Demo ao Vivo](https://img.shields.io/badge/🚀_DEMO_AO_VIVO-ff4b4b?style=for-the-badge&logoColor=white)](https://revops-lead-engine.streamlit.app/)
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/revops_lead_engine)
 
 </div>
 
@@ -432,204 +492,131 @@ A maioria das equipes de vendas B2B gasta 60–70% do tempo de SDR em prospecç�
 
 <br>
 
-<!-- PROJECT 0: EPIC GAMES (NEW FLAGSHIP) -->
-<div align="center" id="p0">
-<img src="https://img.shields.io/badge/⚡%20Projeto%20Flagship-Estratégia%20de%20Produto%20%26%20UXR-ff00ff?style=for-the-badge">
+<!-- PROJECT 0 PT -->
+<div align="center" id="p0-pt">
+<img src="https://img.shields.io/badge/⚡%20Estratégia%20de%20Produto%20%26%20UXR-Epic%20Games-ff00ff?style=for-the-badge">
 
-<h2 style="margin-top: 10px;">⚡ Epic Games Store Ecosystem Intelligence: Auditoria Estratégica (2026)</h2>
-<h3><i>Conectando Metadados Brutos, Experiência do Usuário (UX) e Estratégia de Negócios.</i></h3>
+<h2 style="margin-top: 10px;">⚡ Epic Games Store: Auditoria Estratégica de Ecossistema (2026)</h2>
 
-<!-- COVER IMAGE -->
 <a href="https://github.com/eduardocornelsen/epic-store-analysis">
-  <img src="https://raw.githubusercontent.com/eduardocornelsen/epic-store-analysis/main/images/cover/Cover-H-16-9-EpicGames-UXResearch-low.jpg" width="100%" alt="Epic Games Store Strategic Audit Cover" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/epic-store-analysis/main/images/cover/Cover-H-16-9-EpicGames-UXResearch-low.jpg" width="100%" style="border-radius: 8px;">
 </a>
-<br><br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
-![GenAI](https://img.shields.io/badge/NotebookLM-Briefing_de_Áudio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
-**Contexto de Negócio:**  
-Uma auditoria estratégica para transformar a Epic Games Store de uma vitrine digital em um "Ecossistema de Inteligência". Utilizamos **Regressão Random Forest ($R^2=0.39$)** e **K-Means Clustering** para decodificar o "UX Alpha"—provando que 60% da satisfação do jogador é impulsionada por fatores intangíveis, além de preço e especificações técnicas.
-
-**Principais Descobertas:**
-*   **O "Hardware Wall":** Identificamos uma zona crítica de churn onde requisitos de sistema elevados correlacionam negativamente (-0.13) com a avaliação do usuário.
-*   **Segmentação Comportamental:** Mapeamos 4 "Personas de Produto" para identificar o risco de "Atrito Premium" em títulos Indie de alto custo.
-*   **Entrega Multi-Modal:** Inclui um **Dashboard Interativo (Streamlit)** e **Briefings de Áudio (IA)** gerados via NotebookLM para stakeholders.
+**Descobertas principais:** Hardware Wall (-0.133 correlação), 4 Personas de Produto, 60% da satisfação do jogador impulsionada por fatores intangíveis. **Finalista para a vaga de Data Analyst na Epic Games (2026).**
 
 <div align='center'>
-  
-[ ![Ver Slides](https://img.shields.io/badge/Ver_Apresentação_UXR-ff00ff?style=for-the-badge&logo=googledrive&logoColor=white) ](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
 
-[ ![Ver Dashboard](https://img.shields.io/badge/Acessar_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ](https://epic-store-analysis.streamlit.app/)
-
-[ ![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/eduardocornelsen/epic-store-analysis)
-
-[ ![Ver Notebook](https://img.shields.io/badge/Ver_Notebook_Técnico-159279?style=for-the-badge&logo=googlecolab&logoColor=white) ](https://colab.research.google.com/github/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb)
+[![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_UXR-ff00ff?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
+[![Acessar Dashboard](https://img.shields.io/badge/Acessar_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://epic-store-analysis.streamlit.app/)
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/epic-store-analysis)
 
 </div>
 
 ***
 
 <br>
+
+<!-- PUNKSQL PT -->
+<div align="center" id="p-punksql-pt">
+<img src="https://img.shields.io/badge/🎮%20Aprendizado%20SQL-PunkSQL%20Platform-00F0FF?style=for-the-badge">
+
+<h2 style="margin-top: 10px;">>_ PunkSQL — Plataforma de Aprendizado de SQL</h2>
+
+</div>
+
+**Plataforma mobile-first** para aprender SQL com estética cyberpunk. 80 desafios, 8 módulos (SELECT → CTEs), execução real de SQL no browser via SQLite/WASM, gamificação completa, Google OAuth, bilíngue EN/PT-BR.
+
+<div align='center'>
+
+[![Jogar Agora](https://img.shields.io/badge/▶_Jogar_Agora-00F0FF?style=for-the-badge)](https://punksql.vercel.app)
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/punksql)
+
+</div>
+
+***
 
 <!-- PROJECT 3 PT -->
 <div align="center" id="p3-pt">
-<img src="https://img.shields.io/badge/🔥%20Star%20Project-GenAI%20&%20BI-6C43E0?style=for-the-badge">
 
-<h2 style="margin-top: 10px;">🎵 Conversational BI & Generative Analytics</h2>
-<h3><i>"Chat with Data" Agent aplicado a 100 Anos de História Musical</i></h3>
+<h2>🎵 Conversational BI & Generative Analytics</h2>
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spotify-music-insights-ai.streamlit.app/)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
 </div>
 
-**Contexto de Negócio:**  
-Dashboard interativo analisando 100 anos de música. A grande inovação é o **Consultor IA**, que permite que gestores façam perguntas em português ("Qual gênero foi mais popular nos anos 90?") e recebam respostas baseadas nos dados, democratizando o acesso à informação.
+Dashboard interativo com **Consultor IA** — gestores perguntam em português e recebem respostas baseadas em 100 anos de dados musicais (170k+ tracks).
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/spotify-music-insights-ai">
-    <img src="https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://spotify-music-insights-ai.streamlit.app/">
-    <img src="https://img.shields.io/badge/Acessar_App-6C43E0?style=for-the-badge&logo=streamlit&logoColor=white">
-  </a>
+
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/spotify-music-insights-ai)
+[![Acessar App](https://img.shields.io/badge/Acessar_App-6C43E0?style=for-the-badge&logo=streamlit&logoColor=white)](https://spotify-music-insights-ai.streamlit.app/)
+
 </div>
 
 ***
 
 <!-- PROJECT 4 PT -->
 <div align="center" id="p4-pt">
-<img src="https://img.shields.io/badge/🚗%20Strategic%20Project-Automotive%20Market-E97627?style=for-the-badge">
 
-<h2 style="margin-top: 10px;">🚗 Inteligência de Mercado Automotivo & AI Agent</h2>
-<h3><i>Análise Exploratória Avançada com Agente de IA (Tool-Calling)</i></h3>
+<h2>🚗 Inteligência de Mercado Automotivo & AI Agent</h2>
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://car-sales-analyst-ai.streamlit.app/)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
 </div>
 
-**Contexto de Negócio:**  
-Focado no setor **Automotivo e Sales Ops** (Relevante para ExitLag/Monks). Ferramenta para análise de depreciação veicular e tendências de mercado. Utiliza um **Agente de IA (Gemini)** que escreve e executa código Python em tempo real para responder perguntas complexas de negócio.
+Agente de IA (Gemini 2.5 Flash) com Tool-Calling que escreve e executa código Python em tempo real para responder perguntas sobre depreciação, saturação de mercado e tendências de preço.
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/car-sales-analyst-ai">
-    <img src="https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://car-sales-analyst-ai.streamlit.app/">
-    <img src="https://img.shields.io/badge/Acessar_App-E97627?style=for-the-badge&logo=streamlit&logoColor=white">
-  </a>
-</div>
 
-***
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/car-sales-analyst-ai)
+[![Acessar App](https://img.shields.io/badge/Acessar_App-E97627?style=for-the-badge&logo=streamlit&logoColor=white)](https://car-sales-analyst-ai.streamlit.app/)
 
-<!-- PROJECT 5 PT -->
-<div align="center" id="p5-pt">
-<img src="https://img.shields.io/badge/🎮%20ExitLag%20Focus-Gaming%20Strategy-7289da?style=for-the-badge">
-
-<h2 style="margin-top: 10px;">🎮 Estratégia Global de Mercado de Games</h2>
-<h3><i>Predição de Sucesso de Vendas para Mitigação de Riscos</i></h3>
-
-![Status Badge: Em Análise](https://img.shields.io/badge/Status-Análise_Técnica_(Em_Andamento)-orange?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Stats](https://img.shields.io/badge/Hypothesis_Testing-003366?style=for-the-badge) ![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-gold?style=for-the-badge)
-
-</div>
-
-**Contexto de Negócio:**  
-Desenvolvimento de framework preditivo para identificar drivers de sucesso comercial na indústria de videogames. Análise de dados históricos globais para mitigar riscos de novos lançamentos (Go-To-Market).
-
-> **⚠️ Nota:** Este projeto contém uma **análise técnica profunda**. O link abaixo leva ao **Notebook (Código/Gráficos)** bruto enquanto o Relatório Executivo (PDF) está sendo estruturado.
-
-<div align='center'>
-  <a href="https://github.com/eduardocornelsen/videogames-revenue-analysis">
-    <img src="https://img.shields.io/badge/Ver_Notebook_Técnico-7289da?style=for-the-badge&logo=jupyter&logoColor=white">
-  </a>
 </div>
 
 ***
 
 <!-- PROJECT 1 PT -->
 <div align="center" id="p1-pt">
-<img src="https://img.shields.io/badge/📈%20Strategy%20Project-Revenue%20%26%20Churn-28a745?style=for-the-badge">
 
-<h2 style="margin-top: 10px;">📈 Otimização de Receita e Estratégia de Churn</h2>
-<h3><i>Análise Estatística para Rentabilidade e Retenção</i></h3>
-
-![Status Badge: Concluído](https://img.shields.io/badge/Status-Concluído-28a745?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Stats](https://img.shields.io/badge/Hypothesis_Testing-003366?style=for-the-badge) ![Business Logic](https://img.shields.io/badge/Business_Logic-gold?style=for-the-badge)
+<h2>📈 Otimização de Receita e Estratégia de Churn (Telecom)</h2>
 
 </div>
 
-**Contexto de Negócio:**  
-Análise comparativa de planos móveis para maximizar o **ARPU (Receita Média por Usuário)** e identificar padrões de comportamento. Utiliza testes de hipóteses estatísticos para validar estratégias de precificação.
+Análise comparativa de planos móveis para maximizar ARPU e identificar padrões de comportamento. Testes de hipóteses para validar estratégias de precificação e retenção.
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/megaline_revenue_analysis_story">
-    <img src="https://img.shields.io/badge/Ver_Repo-28a745?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://eduardocornelsen.github.io/megaline_revenue_analysis_story/">
-    <img src="https://img.shields.io/badge/Ver_Story_(Page)-gray?style=for-the-badge&logo=githubpages&logoColor=white">
-  </a>
-</div>
 
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/megaline_revenue_analysis_story)
+[![Ver Story](https://img.shields.io/badge/Ver_Story-gray?style=for-the-badge&logo=githubpages&logoColor=white)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+
+</div>
 ***
 
-<!-- PROJECT 2 PT -->
-<div align="center" id="p2-pt">
-<img src="https://img.shields.io/badge/🔢%20Academic%20Project-Statistics-blue?style=for-the-badge">
+<!-- PROJECT 5 PT -->
+<div align="center" id="p5-pt">
+<img src="https://img.shields.io/badge/🎮%20Estratégia%20de%20Games-Análise%20Técnica%20Profunda-7289da?style=for-the-badge">
 
-<h2 style="margin-top: 10px;">🔢 Simulação da Lei dos Grandes Números</h2>
+<h2>🎮 Estratégia Global de Mercado de Games</h2>
+<h3><i>Predição de Sucesso de Vendas para Mitigação de Riscos</i></h3>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8991EC?style=for-the-badge&logo=scipy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Stats](https://img.shields.io/badge/Hypothesis_Testing-003366?style=for-the-badge)
 
 </div>
 
-**Descrição:** App interativo demonstrando conceitos de convergência estatística, essencial para validação de Testes A/B.
+**Contexto de Negócio:**
+Identifica drivers de sucesso na indústria de games analisando dados históricos globais de vendas. Framework preditivo para suportar estratégias Go-To-Market e mitigar riscos de lançamento.
+
+> 📓 **Disponível como notebook técnico** — EDA extensivo, testes de hipóteses e análise estratégica. Somente em português.
 
 <div align='center'>
-  <a href="https://github.com/eduardocornelsen/coin-toss-simulator">
-    <img src="https://img.shields.io/badge/Ver_Repo-blue?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+
+[![Ver Notebook Técnico](https://img.shields.io/badge/Ver_Notebook_Técnico-7289da?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/eduardocornelsen/videogames-revenue-analysis)
+
 </div>
 
----
-
-## 🧪 **Laboratório & Pesquisa (Em Desenvolvimento)**
-
-*Projetos estratégicos em fase de Prototipagem / Pesquisa:*
-
-### 🪙 **Previsão de Criptoativos & Sentimento** (Web3)
-> **Objetivo:** Uso de FinBERT (NLP) para análise de sentimento de mercado combinada com indicadores técnicos para prever tendências de ativos.
-> <br>![Tech](https://img.shields.io/badge/Stack-Python_|_FinBERT_|_Sklearn-blue?style=flat-square)
-
-### 🤖 **"Meu Conselheiro" Chatbot Financeiro** (RAG)
-> **Objetivo:** App de Educação Financeira usando **LangChain & Gemini** para responder dúvidas com base em dados oficiais do Banco Central.
-> <br>![Tech](https://img.shields.io/badge/Stack-LangChain_|_Gemini_|_FAISS-6C43E0?style=flat-square)
-
-### 🕵️ **End-to-End MLOps: Detecção de Fraude**
-> **Objetivo:** API para detecção de fraude em tempo real, demonstrando o ciclo completo de MLOps (MLFlow, Docker, Pytest).
-> <br>![Tech](https://img.shields.io/badge/Stack-FastAPI_|_Docker_|_MLFlow-009688?style=flat-square)
-
-### 🔎 **Ferramenta de Inteligência de Vendas B2B** (Lead Gen)
-> **Objetivo:** Web scraper para construir bases de leads qualificados a partir de diretórios públicos, com filtros por setor e região.
-> <br>![Tech](https://img.shields.io/badge/Stack-Python_|_Soup_|_Streamlit-E97627?style=flat-square)
-
-### 📊 **Otimização de Churn & LTV para SaaS**
-> **Objetivo:** Simulação interativa de ROI para identificar drivers de cancelamento e calcular o impacto financeiro de estratégias de retenção.
-> <br>![Tech](https://img.shields.io/badge/Stack-XGBoost_|_Power_BI_|_Streamlit-F2C811?style=flat-square)
-
-### 🛒 **Análise de Sentimento em E-commerce** (NLP)
-> **Objetivo:** Scraping de reviews do Mercado Livre/Shopee para identificar dores do cliente usando NLTK e TextBlob.
-> <br>![Tech](https://img.shields.io/badge/Stack-NLP_|_NLTK_|_Regex-yellow?style=flat-square)
 
 </details>
 
@@ -637,15 +624,15 @@ Análise comparativa de planos móveis para maximizar o **ARPU (Receita Média p
 
 <div align='center'>
 
-## 🏆 **Certificações & Educação**
+## 🏆 Certifications & Education
 
 [![Data Scientist - TripleTen](https://img.shields.io/badge/DATA%20SCIENTIST-TRIPLETEN-0077B5?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_TRIPLETEN_LINK)
 [![Business Administration - Insper](https://img.shields.io/badge/BUSINESS%20ADMIN-INSPER-CC0000?style=for-the-badge&logo=googleforms&logoColor=white)](YOUR_INSPER_LINK)
-[![Green Belt Falconi](https://img.shields.io/badge/GREEN%20BELT-FALCONI-7b7423?style=for-the-badge&logo=lean-six-sigma&logoColor=white)](YOUR_LSS_LINK)
+[![Green Belt Falconi](https://img.shields.io/badge/GREEN%20BELT-FALCONI-7b7423?style=for-the-badge)](YOUR_LSS_LINK)
 
 <br>
 
-***
+---
 
 ## ⚡ Neural Link Activity
 
@@ -685,6 +672,8 @@ Other                      5 hrs 33 mins         ▒░░░░░░░░░�
 
 ---
 
-*&copy; 2026 Eduardo Cornelsen. Driving Business Growth with Data.*
+*© 2026 Eduardo Cornelsen — Analytics Engineer & Data Analyst*
+
+*Diagnosing revenue leakage. Building governed AI pipelines to capture it.*
 
 </div>
