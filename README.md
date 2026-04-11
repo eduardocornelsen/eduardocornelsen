@@ -1,10 +1,14 @@
 <div align='center'>
   
-![Data Science Cover](https://github.com/user-attachments/assets/360ce14c-4591-4825-a7b8-7af4c7e8f515)
+<a href="https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=portfolio_cover">
+  <img src="https://github.com/user-attachments/assets/360ce14c-4591-4825-a7b8-7af4c7e8f515" alt="Data Science Cover">
+</a>
 
 # Eduardo Cornelsen's Applied Data Portfolio
 
 <a href="https://www.linkedin.com/in/eduardo-cornelsen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
+&nbsp;
+<a href="https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=portfolio_badge"><img src="https://img.shields.io/badge/Live_Portfolio-673086.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=30></a>
 &nbsp;
 <a href="mailto:eduardo.cornelsen@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 
