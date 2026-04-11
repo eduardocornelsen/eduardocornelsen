@@ -99,6 +99,7 @@ BI Architecture · Revenue Analytics · Marketing & Funnel Analytics · SaaS Uni
 |    **Sales / Strategy**    | [**Strategic Revenue & Churn Analysis (Telecom)**](#p1)                             | Python · Stats · Business Logic                 |
 |    **Gaming / Strategy**   | [**Global Gaming Market Strategy**](#p5)                                            | Python · Stats · EDA                            |
 |      **Stats / Edu**       | [**PunkSQL — Mobile SQL Learning Platform**](#p-punksql)                            | Next.js · SQLite/WASM · Vercel · Google OAuth   |
+|   **Infra / AI Chatbot**   | [**Portfolio Website + AI Chatbot Infrastructure**](#p-portfolio-infra)             | React · Gemini · Cloud Run · LangFuse · Docker  |
 
 ---
 
@@ -256,6 +257,10 @@ A strategic audit transitioning the Epic Games Store from a digital storefront t
 
 </div>
 
+<a href="https://punksql.vercel.app">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/punksql/demo-iphone-converted.gif" width="100%" alt="PunkSQL — Mobile SQL Learning Platform Demo">
+</a>
+
 **What it is:**
 A mobile-first SQL learning platform with a cyberpunk terminal aesthetic. Write real SQL queries that execute in your browser using SQLite compiled to WebAssembly. No backend, no signup required to play.
 
@@ -278,6 +283,59 @@ A mobile-first SQL learning platform with a cyberpunk terminal aesthetic. Write 
 
 <br>
 
+<!-- PROJECT: PORTFOLIO INFRASTRUCTURE & AI CHATBOT -->
+<div align="center" id="p-portfolio-infra">
+<img src="https://img.shields.io/badge/⚙️%20Infra%20%2F%20AI%20Chatbot-Portfolio%20Website%20%2B%20AI%20Chatbot-334155?style=for-the-badge">
+
+<h2 style="margin-top: 10px;">⚙️ Portfolio Website + AI Chatbot Infrastructure</h2>
+
+<h3><i>Streaming AI chatbot · Google Cloud Run · GitHub Actions CI/CD · LangFuse LLMOps · 4-layer security · $0/month</i></h3>
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=for-the-badge&logoColor=white)
+
+</div>
+
+<a href="https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=infra_project">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/portfolio-infra/lp.webp" width="100%" alt="Eduardo Cornelsen Portfolio — Live Site">
+</a>
+<br><br>
+
+**What it is:**
+The production infrastructure powering this portfolio — not a side project, but the live system you're looking at right now. Built to be a proof of work in itself: a streaming AI chatbot, containerized via multi-stage Docker, deployed on Google Cloud Run through a zero-touch GitHub Actions pipeline, with every conversation traced in LangFuse for cost, latency, and security analysis.
+
+**Architecture:**
+```
+GitHub push → Actions: Docker build → Artifact Registry → Cloud Run deploy
+Browser → React 19 + Vite (SSE streaming) → Express proxy → Gemini 2.5 Flash
+                                                           → LangFuse (trace every token)
+```
+
+**Key Features:**
+- **Streaming AI chatbot** — Server-Sent Events deliver token-by-token responses; no waiting for the full reply
+- **4-layer security model** — client sanitization, IP rate-limiting, canary token injection, intent classification (jailbreak detection)
+- **LLMOps with LangFuse** — every conversation traced with cost ($0.15/1M input), latency, and safety flag
+- **Zero-touch CI/CD** — push to `main`, site is live in ~3 minutes via OIDC-authenticated GitHub Actions
+- **$0/month at rest** — Cloud Run scales to zero when idle
+
+**Open source — replicate it yourself:**
+
+<div align='center'>
+
+[![Live Site](https://img.shields.io/badge/Live_Site-eduardocornelsen.com-673086?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=infra_badge)
+[![View Repo](https://img.shields.io/badge/View_Repo_(cv--educornelsen)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/cv-educornelsen)
+
+</div>
+
+***
+
+<br>
+
 <!-- PROJECT 3: SPOTIFY GENAI -->
 <div align="center" id="p3">
 <img src="https://img.shields.io/badge/🔥%20GenAI%20&%20BI-Conversational%20Analytics-6C43E0?style=for-the-badge">
@@ -286,6 +344,14 @@ A mobile-first SQL learning platform with a cyberpunk terminal aesthetic. Write 
 <h3><i>"Chat with Data" Agent — 100 Years of Music History</i></h3>
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spotify-music-insights-ai.streamlit.app/)
+
+</div>
+
+<a href="https://spotify-music-insights-ai.streamlit.app/">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/spotify-project/insights.webp" width="100%" alt="MusicInsights AI — Conversational BI Dashboard">
+</a>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black)
@@ -422,6 +488,7 @@ Arquitetura de BI · Revenue Analytics · Analytics de Marketing & Funil · Unit
 |    **Vendas / Estratégia**     | [**Otimização de Receita & Churn (Telecom)**](#p1-pt)                                | Python · Stats · Lógica de Negócios             |
 |    **Gaming / Estratégia**     | [**Estratégia Global de Mercado de Games**](#p5-pt)                                  | Python · Stats · EDA                            |
 |        **Edu / SQL**           | [**PunkSQL — Plataforma de Aprendizado de SQL**](#p-punksql-pt)                      | Next.js · SQLite/WASM · Vercel · Google OAuth   |
+|   **Infra / AI Chatbot**       | [**Infraestrutura Portfolio Website + AI Chatbot**](#p-portfolio-infra-pt)           | React · Gemini · Cloud Run · LangFuse · Docker  |
 
 ---
 
@@ -526,12 +593,62 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 
 </div>
 
+<a href="https://punksql.vercel.app">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/punksql/demo-iphone-converted.gif" width="100%" alt="PunkSQL — Demo Plataforma de Aprendizado de SQL">
+</a>
+
 **Plataforma mobile-first** para aprender SQL com estética cyberpunk. 80 desafios, 8 módulos (SELECT → CTEs), execução real de SQL no browser via SQLite/WASM, gamificação completa, Google OAuth, bilíngue EN/PT-BR.
 
 <div align='center'>
 
 [![Jogar Agora](https://img.shields.io/badge/▶_Jogar_Agora-00F0FF?style=for-the-badge)](https://punksql.vercel.app)
 [![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/punksql)
+
+</div>
+
+***
+
+<br>
+
+<!-- PROJECT: PORTFOLIO INFRA PT -->
+<div align="center" id="p-portfolio-infra-pt">
+<img src="https://img.shields.io/badge/⚙️%20Infra%20%2F%20AI%20Chatbot-Portfolio%20Website%20%2B%20AI%20Chatbot-334155?style=for-the-badge">
+
+<h2 style="margin-top: 10px;">⚙️ Infraestrutura Portfolio Website + AI Chatbot</h2>
+
+<h3><i>AI chatbot com streaming · Google Cloud Run · CI/CD GitHub Actions · LLMOps com LangFuse · segurança 4 camadas · $0/mês</i></h3>
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=for-the-badge&logoColor=white)
+
+</div>
+
+<a href="https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=infra_project_pt">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/portfolio-infra/lp.webp" width="100%" alt="Eduardo Cornelsen Portfolio — Site ao Vivo">
+</a>
+<br><br>
+
+**O que é:**
+A infraestrutura de produção que roda este portfólio — não um projeto paralelo, mas o sistema ao vivo que você está vendo agora. Construído para ser prova de trabalho em si mesmo: chatbot de IA com streaming, containerizado via Docker multi-stage, implantado no Google Cloud Run via pipeline GitHub Actions zero-touch, com cada conversa rastreada no LangFuse para custo, latência e segurança.
+
+**Destaques:**
+- **Chatbot com streaming** — Server-Sent Events entregam respostas token a token, sem espera
+- **Segurança em 4 camadas** — sanitização no cliente, rate-limit por IP, canary token, classificação de intenção (detecção de jailbreak)
+- **LLMOps com LangFuse** — cada conversa rastreada com custo estimado, latência e flag de segurança
+- **CI/CD zero-touch** — push para `main`, site no ar em ~3 minutos via GitHub Actions com OIDC
+- **$0/mês em repouso** — Cloud Run escala para zero quando ocioso
+
+**Open source — replique você mesmo:**
+
+<div align='center'>
+
+[![Site ao Vivo](https://img.shields.io/badge/Site_ao_Vivo-eduardocornelsen.com-673086?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=infra_badge_pt)
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo_(cv--educornelsen)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/cv-educornelsen)
 
 </div>
 
@@ -545,6 +662,10 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spotify-music-insights-ai.streamlit.app/)
 
 </div>
+
+<a href="https://spotify-music-insights-ai.streamlit.app/">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/spotify-project/insights.webp" width="100%" alt="MusicInsights AI — Dashboard de BI Conversacional">
+</a>
 
 Dashboard interativo com **Consultor IA** — gestores perguntam em português e recebem respostas baseadas em 100 anos de dados musicais (170k+ tracks).
 
