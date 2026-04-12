@@ -1,16 +1,16 @@
 <div align='center'>
   
 <a href="https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=portfolio_cover">
-  <img src="https://github.com/user-attachments/assets/360ce14c-4591-4825-a7b8-7af4c7e8f515" alt="Data Science Cover">
+  <img src="https://github.com/user-attachments/assets/6a51d162-a94f-4e56-a219-cefade860447" alt="Data Science Cover">
 </a>
 
 # Eduardo Cornelsen's Applied Data Portfolio
 
-<a href="https://www.linkedin.com/in/eduardo-cornelsen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
+<a href="https://www.linkedin.com/in/eduardo-cornelsen/"><img src="https://img.shields.io/badge/linkedin-673086.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
 &nbsp;
 <a href="https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=portfolio_badge"><img src="https://img.shields.io/badge/Live_Portfolio-673086.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=30></a>
 &nbsp;
-<a href="mailto:eduardo.cornelsen@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
+<a href="mailto:eduardo.cornelsen@gmail.com"><img src="https://img.shields.io/badge/gmail-673086.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 
 <a href="https://wakatime.com/@4eb9be1d-cffd-4db6-a3b4-a831bb910af1">
   <img src="https://wakatime.com/badge/user/4eb9be1d-cffd-4db6-a3b4-a831bb910af1.svg" alt="Total Time Coded" />
@@ -18,9 +18,9 @@
 
 ---
 
-<a href="#en-version"><img src="https://img.shields.io/badge/🇺🇸_ENGLISH_VERSION-003366?style=for-the-badge" height=30></a>
+<a href="#en-version"><img src="https://img.shields.io/badge/🇺🇸_ENGLISH_VERSION-24292e?style=for-the-badge" height=30></a>
 &nbsp;
-<a href="#pt-version"><img src="https://img.shields.io/badge/🇧🇷_VERSÃO_EM_PORTUGUÊS-009c3b?style=for-the-badge" height=30></a>
+<a href="#pt-version"><img src="https://img.shields.io/badge/🇧🇷_VERSÃO_EM_PORTUGUÊS-24292e?style=for-the-badge" height=30></a>
 
 </div>
 
