@@ -107,26 +107,26 @@ BI Architecture · Revenue Analytics · Marketing & Funnel Analytics · SaaS Uni
 
 <!-- PROJECT: FULL-FUNNEL AI ANALYTICS PLATFORM -->
 <div align="center" id="p-fullfunnel">
-<img src="https://img.shields.io/badge/🏆%20FLAGSHIP-Full--Funnel%20AI%20Analytics%20Platform-1a2441?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/🏆%20FLAGSHIP-Full--Funnel%20AI%20Analytics%20Platform-673086?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">🏆 Full-Funnel AI Marketing Analytics Platform</h2>
 
 <h3><i>Natural language queries · dbt Semantic Layer · 7 MCP Servers · ML Lead Scoring · $0/month base cost</i></h3>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-</div>
 
 <a href="https://github.com/eduardocornelsen/full-funnel-ai-analytics">
   <img src="https://github.com/eduardocornelsen/full-funnel-ai-analytics/raw/main/demo/videos/open-query.gif" width="100%" alt="Full-Funnel AI Analytics — /marketing command live demo">
 </a>
 <br><br>
+
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-673086?style=for-the-badge&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-24292e?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-673086?style=for-the-badge&logo=anthropic&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-24292e?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-24292e?style=for-the-badge&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-24292e?style=for-the-badge&logo=mlflow&logoColor=white)
+
+</div>
 
 **Business Context:**
 Companies run ads across Google, Meta, and organic channels. Marketing claims leads. Sales says they're low quality. The CEO asks: *"Where should we spend next quarter?"*
@@ -153,8 +153,8 @@ Most AI-to-SQL tools fail because they lack a source of truth. This project solv
 <div align='center'>
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/full-funnel-ai-analytics)
-[![Architecture Demo](https://img.shields.io/badge/Architecture_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cAWI6h1_6L0)
-[![Live Demo](https://img.shields.io/badge/Live_Demo_/_marketing_command-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=d29Lf2hdUkw&list=PLhSiQdI2GrpaJ2QW9k4M3lW7sS1LYNmUw)
+[![Architecture Demo](https://img.shields.io/badge/Architecture_Demo-673086?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cAWI6h1_6L0)
+[![Live Demo](https://img.shields.io/badge/Live_Demo_/_marketing_command-673086?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=d29Lf2hdUkw&list=PLhSiQdI2GrpaJ2QW9k4M3lW7sS1LYNmUw)
 
 </div>
 
@@ -164,8 +164,8 @@ Most AI-to-SQL tools fail because they lack a source of truth. This project solv
 
 <!-- PROJECT REVOPS: B2B LEAD ENGINE -->
 <div align="center" id="prevops">
-<img src="https://img.shields.io/badge/🚀%20RevOps%20%26%20AI-B2B%20Command%20Center-1e3a8a?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/🚀%20RevOps%20%26%20AI-B2B%20Command%20Center-673086?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">🚀 RevOps Lead Engine: AI-Powered B2B Command Center</h2>
 
 <h3><i>Full-cycle autonomous lead generation · Predictive scenario modeling · Post-sales retention analytics</i></h3>
@@ -175,10 +175,10 @@ Most AI-to-SQL tools fail because they lack a source of truth. This project solv
 </a>
 <br><br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-24292e?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-24292e?style=for-the-badge&logo=plotly&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-24292e?style=for-the-badge&logo=pydantic&logoColor=white)
 
 </div>
 
@@ -194,7 +194,7 @@ Most B2B sales teams burn 60–70% of SDR time on manual prospecting. This proje
 
 <div align='center'>
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Click_to_Launch-ff4b4b?style=for-the-badge&logoColor=white)](https://revops-lead-engine.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-673086?style=for-the-badge&logoColor=white)](https://revops-lead-engine.streamlit.app/)
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/revops_lead_engine)
 
 </div>
@@ -205,8 +205,8 @@ Most B2B sales teams burn 60–70% of SDR time on manual prospecting. This proje
 
 <!-- PROJECT 0: EPIC GAMES -->
 <div align="center" id="p0">
-<img src="https://img.shields.io/badge/⚡%20Product%20Strategy%20%26%20UXR-Epic%20Games%20Ecosystem-ff00ff?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/⚡%20Product%20Strategy%20%26%20UXR-Epic%20Games%20Ecosystem-24292e?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">⚡ Epic Games Store Ecosystem Intelligence: Strategic Audit (2026)</h2>
 
 <a href="https://github.com/eduardocornelsen/epic-store-analysis">
@@ -214,10 +214,10 @@ Most B2B sales teams burn 60–70% of SDR time on manual prospecting. This proje
 </a>
 <br><br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![GenAI](https://img.shields.io/badge/NotebookLM-Audio_Briefing-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-24292e?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-24292e?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![GenAI](https://img.shields.io/badge/NotebookLM-24292e?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -231,10 +231,10 @@ A strategic audit transitioning the Epic Games Store from a digital storefront t
 
 <div align='center'>
 
-[![View UXR Slides](https://img.shields.io/badge/View_UXR_Presentation-ff00ff?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
-[![View Dashboard](https://img.shields.io/badge/View_Interactive_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://epic-store-analysis.streamlit.app/)
+[![View UXR Slides](https://img.shields.io/badge/View_UXR_Presentation-673086?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
+[![View Dashboard](https://img.shields.io/badge/View_Interactive_Dashboard-24292e?style=for-the-badge&logo=streamlit&logoColor=white)](https://epic-store-analysis.streamlit.app/)
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/epic-store-analysis)
-[![View Notebook](https://img.shields.io/badge/View_Technical_Notebook-159279?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb)
+[![View Notebook](https://img.shields.io/badge/View_Technical_Notebook-24292e?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb)
 
 </div>
 
@@ -244,22 +244,23 @@ A strategic audit transitioning the Epic Games Store from a digital storefront t
 
 <!-- PROJECT: PUNKSQL -->
 <div align="center" id="p-punksql">
-<img src="https://img.shields.io/badge/🎮%20SQL%20Learning-PunkSQL%20Platform-00F0FF?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/🎮%20SQL%20Learning-PunkSQL%20Platform-24292e?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">>_ PunkSQL — Mobile SQL Learning Platform</h2>
 
 <h3><i>Duolingo meets LeetCode · 80 challenges · Real in-browser SQL execution · Cyberpunk CLI aesthetic</i></h3>
 
-![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
-![SQLite](https://img.shields.io/badge/SQLite-WASM-003B57?style=for-the-badge&logo=sqlite)
-![Supabase](https://img.shields.io/badge/Supabase-Google_OAuth-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)
-
-</div>
-
 <a href="https://punksql.vercel.app">
   <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/punksql/demo-iphone-converted.gif" width="100%" alt="PunkSQL — Mobile SQL Learning Platform Demo">
 </a>
+<br><br>
+
+![Next.js](https://img.shields.io/badge/Next.js-24292e?style=for-the-badge&logo=next.js)
+![SQLite](https://img.shields.io/badge/SQLite-24292e?style=for-the-badge&logo=sqlite)
+![Supabase](https://img.shields.io/badge/Supabase-24292e?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-24292e?style=for-the-badge&logo=vercel)
+
+</div>
 
 **What it is:**
 A mobile-first SQL learning platform with a cyberpunk terminal aesthetic. Write real SQL queries that execute in your browser using SQLite compiled to WebAssembly. No backend, no signup required to play.
@@ -273,8 +274,8 @@ A mobile-first SQL learning platform with a cyberpunk terminal aesthetic. Write 
 - **$0/month** infrastructure — fully client-side
 
 <div align='center'>
-
-[![Play Now](https://img.shields.io/badge/▶_Play_Now-00F0FF?style=for-the-badge)](https://punksql.vercel.app)
+  
+[![Play Now](https://img.shields.io/badge/▶_Play_Now-673086?style=for-the-badge)](https://punksql.vercel.app)
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/punksql)
 
 </div>
@@ -285,26 +286,26 @@ A mobile-first SQL learning platform with a cyberpunk terminal aesthetic. Write 
 
 <!-- PROJECT: PORTFOLIO INFRASTRUCTURE & AI CHATBOT -->
 <div align="center" id="p-portfolio-infra">
-<img src="https://img.shields.io/badge/⚙️%20Infra%20%2F%20AI%20Chatbot-Portfolio%20Website%20%2B%20AI%20Chatbot-334155?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/⚙️%20Infra%20%2F%20AI%20Chatbot-Portfolio%20System-673086?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">⚙️ Portfolio Website + AI Chatbot Infrastructure</h2>
 
 <h3><i>Streaming AI chatbot · Google Cloud Run · GitHub Actions CI/CD · LangFuse LLMOps · 4-layer security · $0/month</i></h3>
-
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=for-the-badge&logoColor=white)
-
-</div>
 
 <a href="https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=infra_project">
   <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/portfolio-infra/lp.webp" width="100%" alt="Eduardo Cornelsen Portfolio — Live Site">
 </a>
 <br><br>
+
+![React](https://img.shields.io/badge/React_19-24292e?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292e?style=for-the-badge&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-673086?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292e?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-24292e?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292e?style=for-the-badge&logo=githubactions&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-24292e?style=for-the-badge&logoColor=white)
+
+</div>
 
 **What it is:**
 The production infrastructure powering this portfolio — not a side project, but the live system you're looking at right now. Built to be a proof of work in itself: a streaming AI chatbot, containerized via multi-stage Docker, deployed on Google Cloud Run through a zero-touch GitHub Actions pipeline, with every conversation traced in LangFuse for cost, latency, and security analysis.
@@ -328,7 +329,8 @@ Browser → React 19 + Vite (SSE streaming) → Express proxy → Gemini 2.5 Fla
 <div align='center'>
 
 [![Live Site](https://img.shields.io/badge/Live_Site-eduardocornelsen.com-673086?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=infra_badge)
-[![View Repo](https://img.shields.io/badge/View_Repo_(cv--educornelsen)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/cv-educornelsen)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/cv-educornelsen)
+
 
 </div>
 
@@ -338,8 +340,8 @@ Browser → React 19 + Vite (SSE streaming) → Express proxy → Gemini 2.5 Fla
 
 <!-- PROJECT 3: SPOTIFY GENAI -->
 <div align="center" id="p3">
-<img src="https://img.shields.io/badge/🔥%20GenAI%20&%20BI-Conversational%20Analytics-6C43E0?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/🔥%20GenAI%20&%20BI-Conversational%20Analytics-673086?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">🎵 Conversational BI & Generative Analytics</h2>
 <h3><i>"Chat with Data" Agent — 100 Years of Music History</i></h3>
 
@@ -353,10 +355,12 @@ Browser → React 19 + Vite (SSE streaming) → Express proxy → Gemini 2.5 Fla
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<br>
+
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-673086?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-673086?style=for-the-badge&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-24292e?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -366,7 +370,7 @@ Stakeholders need quick answers but lack SQL skills. This solves that by integra
 <div align='center'>
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/spotify-music-insights-ai)
-[![Launch App](https://img.shields.io/badge/Launch_App-6C43E0?style=for-the-badge&logo=streamlit&logoColor=white)](https://spotify-music-insights-ai.streamlit.app/)
+[![Launch App](https://img.shields.io/badge/Launch_App-673086?style=for-the-badge&logo=streamlit&logoColor=white)](https://spotify-music-insights-ai.streamlit.app/)
 
 </div>
 
@@ -374,16 +378,16 @@ Stakeholders need quick answers but lack SQL skills. This solves that by integra
 
 <!-- PROJECT 4: CAR SALES AI -->
 <div align="center" id="p4">
-<img src="https://img.shields.io/badge/🚗%20Automotive%20Market-AI%20Agent-E97627?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/🚗%20Automotive%20Market-AI%20Agent-24292e?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">🚗 Automotive Market Intelligence & AI Agent</h2>
 <h3><i>Advanced EDA with Tool-Calling AI for Market Trends</i></h3>
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://car-sales-analyst-ai.streamlit.app/)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-673086?style=for-the-badge&logo=google&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-24292e?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
 
@@ -393,7 +397,7 @@ Tool-Calling AI Agent using Gemini 2.5 Flash that writes and executes Python cod
 <div align='center'>
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/car-sales-analyst-ai)
-[![Launch App](https://img.shields.io/badge/Launch_App-E97627?style=for-the-badge&logo=streamlit&logoColor=white)](https://car-sales-analyst-ai.streamlit.app/)
+[![Launch App](https://img.shields.io/badge/Launch_App-24292e?style=for-the-badge&logo=streamlit&logoColor=white)](https://car-sales-analyst-ai.streamlit.app/)
 
 </div>
 
@@ -401,13 +405,13 @@ Tool-Calling AI Agent using Gemini 2.5 Flash that writes and executes Python cod
 
 <!-- PROJECT 1: MEGALINE -->
 <div align="center" id="p1">
-<img src="https://img.shields.io/badge/📈%20Revenue%20%26%20Churn-Telecom%20Analytics-28a745?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/📈%20Revenue%20%26%20Churn-Telecom%20Analytics-24292e?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">📈 Strategic Revenue Optimization (Telecom)</h2>
 <h3><i>Statistical Analysis for Plan Profitability & Churn</i></h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Stats](https://img.shields.io/badge/Hypothesis_Testing-003366?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![Stats](https://img.shields.io/badge/Hypothesis_Testing-24292e?style=for-the-badge)
 
 </div>
 
@@ -416,22 +420,21 @@ Comparative revenue analysis of mobile plans to identify user behaviors, inform 
 
 <div align='center'>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/megaline_revenue_analysis_story)
-[![View Story](https://img.shields.io/badge/View_Story_(Page)-gray?style=for-the-badge&logo=githubpages&logoColor=white)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/megaline_revenue_analysis_story)
+[![View Story](https://img.shields.io/badge/View_Story-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
 
 </div>
 ***
 
 <!-- PROJECT 5: VIDEOGAMES -->
 <div align="center" id="p5">
-<img src="https://img.shields.io/badge/🎮%20Gaming%20Strategy-Deep%20Technical%20Analysis-7289da?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/🎮%20Gaming%20Strategy-Technical%20Analysis-24292e?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">🎮 Global Gaming Market Strategy</h2>
 <h3><i>Predicting Sales Success to Mitigate Launch Risks</i></h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Stats](https://img.shields.io/badge/Hypothesis_Testing-003366?style=for-the-badge)
-![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-gold?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![Stats](https://img.shields.io/badge/Hypothesis_Testing-24292e?style=for-the-badge)
 
 </div>
 
@@ -442,7 +445,7 @@ Identifies success drivers in the console/PC gaming industry by analyzing global
 
 <div align='center'>
 
-[![View Technical Notebook](https://img.shields.io/badge/View_Technical_Notebook-7289da?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/eduardocornelsen/videogames-revenue-analysis)
+[![View Technical Notebook](https://img.shields.io/badge/View_Technical_Notebook-24292e?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/eduardocornelsen/videogames-revenue-analysis)
 
 </div>
 
@@ -496,8 +499,8 @@ Arquitetura de BI · Revenue Analytics · Analytics de Marketing & Funil · Unit
 
 <!-- PROJECT: FULL-FUNNEL PT -->
 <div align="center" id="p-fullfunnel-pt">
-<img src="https://img.shields.io/badge/🏆%20FLAGSHIP-Full--Funnel%20AI%20Analytics%20Platform-1a2441?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/🏆%20FLAGSHIP-Full--Funnel%20AI%20Analytics%20Platform-673086?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">🏆 Full-Funnel AI Marketing Analytics Platform</h2>
 
 <h3><i>Consultas em linguagem natural · dbt Semantic Layer · 7 MCP Servers · ML Lead Scoring · $0/mês</i></h3>
@@ -525,8 +528,8 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 <div align='center'>
 
 [![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/full-funnel-ai-analytics)
-[![Demo Arquitetura](https://img.shields.io/badge/Demo_Arquitetura-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cAWI6h1_6L0)
-[![Demo ao Vivo](https://img.shields.io/badge/Demo_ao_Vivo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=d29Lf2hdUkw&list=PLhSiQdI2GrpaJ2QW9k4M3lW7sS1LYNmUw)
+[![Demo Arquitetura](https://img.shields.io/badge/Demo_Arquitetura-673086?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cAWI6h1_6L0)
+[![Demo ao Vivo](https://img.shields.io/badge/Demo_ao_Vivo-673086?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=d29Lf2hdUkw&list=PLhSiQdI2GrpaJ2QW9k4M3lW7sS1LYNmUw)
 
 </div>
 
@@ -536,8 +539,8 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 
 <!-- PROJECT REVOPS PT -->
 <div align="center" id="prevops-pt">
-<img src="https://img.shields.io/badge/🚀%20RevOps%20%26%20IA-Central%20de%20Comando%20B2B-1e3a8a?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/🚀%20RevOps%20%26%20IA-Central%20de%20Comando%20B2B-673086?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">🚀 RevOps Lead Engine: Central de Comando B2B com IA</h2>
 
 <a href="https://revops-lead-engine.streamlit.app/">
@@ -550,7 +553,7 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 
 <div align='center'>
 
-[![Demo ao Vivo](https://img.shields.io/badge/🚀_DEMO_AO_VIVO-ff4b4b?style=for-the-badge&logoColor=white)](https://revops-lead-engine.streamlit.app/)
+[![Demo ao Vivo](https://img.shields.io/badge/🚀_DEMO_AO_VIVO-673086?style=for-the-badge&logoColor=white)](https://revops-lead-engine.streamlit.app/)
 [![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/revops_lead_engine)
 
 </div>
@@ -561,8 +564,8 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 
 <!-- PROJECT 0 PT -->
 <div align="center" id="p0-pt">
-<img src="https://img.shields.io/badge/⚡%20Estratégia%20de%20Produto%20%26%20UXR-Epic%20Games-ff00ff?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/⚡%20Estratégia%20de%20Produto%20%26%20UXR-Epic%20Games-24292e?style=for-the-badge">
+  
 <h2 style="margin-top: 10px;">⚡ Epic Games Store: Auditoria Estratégica de Ecossistema (2026)</h2>
 
 <a href="https://github.com/eduardocornelsen/epic-store-analysis">
@@ -575,9 +578,10 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 
 <div align='center'>
 
-[![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_UXR-ff00ff?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
-[![Acessar Dashboard](https://img.shields.io/badge/Acessar_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://epic-store-analysis.streamlit.app/)
+[![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_UXR-673086?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
+[![Acessar Dashboard](https://img.shields.io/badge/Acessar_Dashboard-24292e?style=for-the-badge&logo=streamlit&logoColor=white)](https://epic-store-analysis.streamlit.app/)
 [![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/epic-store-analysis)
+
 
 </div>
 
@@ -587,7 +591,7 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 
 <!-- PUNKSQL PT -->
 <div align="center" id="p-punksql-pt">
-<img src="https://img.shields.io/badge/🎮%20Aprendizado%20SQL-PunkSQL%20Platform-00F0FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🎮%20Aprendizado%20SQL-PunkSQL%20Platform-24292e?style=for-the-badge">
 
 <h2 style="margin-top: 10px;">>_ PunkSQL — Plataforma de Aprendizado de SQL</h2>
 
@@ -601,7 +605,7 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 
 <div align='center'>
 
-[![Jogar Agora](https://img.shields.io/badge/▶_Jogar_Agora-00F0FF?style=for-the-badge)](https://punksql.vercel.app)
+[![Jogar Agora](https://img.shields.io/badge/▶_Jogar_Agora-673086?style=for-the-badge)](https://punksql.vercel.app)
 [![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/punksql)
 
 </div>
@@ -612,19 +616,19 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 
 <!-- PROJECT: PORTFOLIO INFRA PT -->
 <div align="center" id="p-portfolio-infra-pt">
-<img src="https://img.shields.io/badge/⚙️%20Infra%20%2F%20AI%20Chatbot-Portfolio%20Website%20%2B%20AI%20Chatbot-334155?style=for-the-badge">
+<img src="https://img.shields.io/badge/⚙️%20Infra%20%2F%20AI%20Chatbot-Portfolio%20System-673086?style=for-the-badge">
 
 <h2 style="margin-top: 10px;">⚙️ Infraestrutura Portfolio Website + AI Chatbot</h2>
 
 <h3><i>AI chatbot com streaming · Google Cloud Run · CI/CD GitHub Actions · LLMOps com LangFuse · segurança 4 camadas · $0/mês</i></h3>
 
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React_19-24292e?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292e?style=for-the-badge&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-673086?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292e?style=for-the-badge&logo=docker&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-24292e?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292e?style=for-the-badge&logo=githubactions&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-24292e?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -646,9 +650,9 @@ A infraestrutura de produção que roda este portfólio — não um projeto para
 **Open source — replique você mesmo:**
 
 <div align='center'>
-
-[![Site ao Vivo](https://img.shields.io/badge/Site_ao_Vivo-eduardocornelsen.com-673086?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=infra_badge_pt)
-[![Ver Repo](https://img.shields.io/badge/Ver_Repo_(cv--educornelsen)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/cv-educornelsen)
+  
+[![Site ao Vivo](https://img.shields.io/badge/Site_ao_Vivo-673086?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=infra_badge_pt)
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/cv-educornelsen)
 
 </div>
 
@@ -656,6 +660,7 @@ A infraestrutura de produção que roda este portfólio — não um projeto para
 
 <!-- PROJECT 3 PT -->
 <div align="center" id="p3-pt">
+<img src="https://img.shields.io/badge/🔥%20GenAI%20&%20BI-Conversational%20Analytics-673086?style=for-the-badge">
 
 <h2>🎵 Conversational BI & Generative Analytics</h2>
 
@@ -672,7 +677,7 @@ Dashboard interativo com **Consultor IA** — gestores perguntam em português e
 <div align='center'>
 
 [![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/spotify-music-insights-ai)
-[![Acessar App](https://img.shields.io/badge/Acessar_App-6C43E0?style=for-the-badge&logo=streamlit&logoColor=white)](https://spotify-music-insights-ai.streamlit.app/)
+[![Acessar App](https://img.shields.io/badge/Acessar_App-673086?style=for-the-badge&logo=streamlit&logoColor=white)](https://spotify-music-insights-ai.streamlit.app/)
 
 </div>
 
@@ -680,6 +685,7 @@ Dashboard interativo com **Consultor IA** — gestores perguntam em português e
 
 <!-- PROJECT 4 PT -->
 <div align="center" id="p4-pt">
+<img src="https://img.shields.io/badge/🚗%20Mercado%20Automobilístico-AI%20Agent-24292e?style=for-the-badge">
 
 <h2>🚗 Inteligência de Mercado Automotivo & AI Agent</h2>
 
@@ -692,7 +698,7 @@ Agente de IA (Gemini 2.5 Flash) com Tool-Calling que escreve e executa código P
 <div align='center'>
 
 [![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/car-sales-analyst-ai)
-[![Acessar App](https://img.shields.io/badge/Acessar_App-E97627?style=for-the-badge&logo=streamlit&logoColor=white)](https://car-sales-analyst-ai.streamlit.app/)
+[![Acessar App](https://img.shields.io/badge/Acessar_App-24292e?style=for-the-badge&logo=streamlit&logoColor=white)](https://car-sales-analyst-ai.streamlit.app/)
 
 </div>
 
@@ -700,8 +706,12 @@ Agente de IA (Gemini 2.5 Flash) com Tool-Calling que escreve e executa código P
 
 <!-- PROJECT 1 PT -->
 <div align="center" id="p1-pt">
-
+<img src="https://img.shields.io/badge/📈%20Revenue%20%26%20Churn-Telecom%20Analytics-24292e?style=for-the-badge">
+  
 <h2>📈 Otimização de Receita e Estratégia de Churn (Telecom)</h2>
+
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![Stats](https://img.shields.io/badge/Teste_de_Hipóteses-24292e?style=for-the-badge)
 
 </div>
 
@@ -709,21 +719,22 @@ Análise comparativa de planos móveis para maximizar ARPU e identificar padrõe
 
 <div align='center'>
 
-[![Ver Repo](https://img.shields.io/badge/Ver_Repo-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/megaline_revenue_analysis_story)
-[![Ver Story](https://img.shields.io/badge/Ver_Story-gray?style=for-the-badge&logo=githubpages&logoColor=white)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/megaline_revenue_analysis_story)
+[![Ver Story](https://img.shields.io/badge/Ver_Story-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
 
 </div>
+
 ***
 
 <!-- PROJECT 5 PT -->
 <div align="center" id="p5-pt">
-<img src="https://img.shields.io/badge/🎮%20Estratégia%20de%20Games-Análise%20Técnica%20Profunda-7289da?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/🎮%20Estratégia%20de%20Games-Análise%20Técnica%20Profunda-24292e?style=for-the-badge">
+  
 <h2>🎮 Estratégia Global de Mercado de Games</h2>
 <h3><i>Predição de Sucesso de Vendas para Mitigação de Riscos</i></h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Stats](https://img.shields.io/badge/Hypothesis_Testing-003366?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![Stats](https://img.shields.io/badge/Teste_de_Hipóteses-24292e?style=for-the-badge)
 
 </div>
 
@@ -734,7 +745,7 @@ Identifica drivers de sucesso na indústria de games analisando dados histórico
 
 <div align='center'>
 
-[![Ver Notebook Técnico](https://img.shields.io/badge/Ver_Notebook_Técnico-7289da?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/eduardocornelsen/videogames-revenue-analysis)
+[![Ver Notebook Técnico](https://img.shields.io/badge/Ver_Notebook_Técnico-24292e?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/eduardocornelsen/videogames-revenue-analysis)
 
 </div>
 
