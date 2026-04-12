@@ -56,32 +56,32 @@ BI Architecture · Revenue Analytics · Marketing & Funnel Analytics · SaaS Uni
 <div align='center'>
 
 ### 🧠 AI & Agentic BI
-![MCP](https://img.shields.io/badge/MCP_Servers-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black)
-![Generative AI](https://img.shields.io/badge/Generative_AI-6C43E0?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-673086?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-673086?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-673086?style=for-the-badge&logo=langchain&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-673086?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-673086?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-673086?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 💻 Data Engineering & Analytics Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Advanced-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![ELT Pipelines](https://img.shields.io/badge/ELT_Pipelines-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292e?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Advanced-24292e?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-24292e?style=for-the-badge&logo=dbt&logoColor=white)
+![ELT Pipelines](https://img.shields.io/badge/ELT_Pipelines-24292e?style=for-the-badge&logo=apachespark&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-24292e?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-24292e?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-24292e?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### 📊 BI & Visualization
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4a2b6d?style=for-the-badge&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-4a2b6d?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-4a2b6d?style=for-the-badge&logo=powerbi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-4a2b6d?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🏢 Business Stack
-![RevOps](https://img.shields.io/badge/Revenue_Operations-1e3a8a?style=for-the-badge&logo=salesforce&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Product Analytics](https://img.shields.io/badge/Product_Analytics-FF0055?style=for-the-badge&logo=mixpanel&logoColor=white)
+![RevOps](https://img.shields.io/badge/Revenue_Operations-333333?style=for-the-badge&logo=salesforce&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-333333?style=for-the-badge&logo=chartmogul&logoColor=white)
+![Product Analytics](https://img.shields.io/badge/Product_Analytics-333333?style=for-the-badge&logo=mixpanel&logoColor=white)
 
 </div>
 
