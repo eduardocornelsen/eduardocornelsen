@@ -113,6 +113,9 @@ BI Architecture · Revenue Analytics · Marketing & Funnel Analytics · SaaS Uni
 
 <h3><i>Natural language queries · dbt Semantic Layer · 7 MCP Servers · ML Lead Scoring · $0/month base cost</i></h3>
 
+Ask in natural language:
+> "Show me the complete marketing funnel for Q1 2025: ad spend across Google and Meta, website sessions by channel, lead conversion rates, and final revenue. Calculate blended CAC and ROAS."
+
 <a href="https://github.com/eduardocornelsen/full-funnel-ai-analytics">
   <img src="https://github.com/eduardocornelsen/full-funnel-ai-analytics/raw/main/demo/videos/open-query.gif" width="100%" alt="Full-Funnel AI Analytics — /marketing command live demo">
 </a>
