@@ -455,7 +455,7 @@ Identifies success drivers in the console/PC gaming industry by analyzing global
 
 <a name="pt-version"></a>
 
-<details open>
+<details>
 <summary><h1>🇧🇷 Versão em Português</h1></summary>
 
 ## 👋 Sobre Mim
