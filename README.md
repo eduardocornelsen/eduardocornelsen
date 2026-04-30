@@ -774,15 +774,15 @@ Identifica drivers de sucesso na indústria de games analisando dados histórico
 <!--START_SECTION:wakatime-->
 
 ```python
-From: 24 October 2025 - To: 28 April 2026
+From: 24 October 2025 - To: 29 April 2026
 
-Total Time: 327 hrs 57 mins
+Total Time: 330 hrs 16 mins
 
-Python                     248 hrs 11 mins       ██████████████████▓░░░░░░   74.13 %
-Markdown                   38 hrs 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-HTML                       10 hrs 43 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-TypeScript                 10 hrs 8 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Other                      6 hrs 50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Python                     248 hrs 11 mins       ██████████████████▒░░░░░░   73.48 %
+Markdown                   39 hrs 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+TypeScript                 10 hrs 53 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+HTML                       10 hrs 43 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Other                      7 hrs 29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:wakatime-->
