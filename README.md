@@ -34,7 +34,7 @@
 
 > **Senior Data Analyst & Analytics Engineer | Revenue Operations (RevOps) · AI & Agentic BI | SQL · Python · dbt · BigQuery · MCP**
 
-**Senior Data Analyst & Analytics Engineer with 10+ years across consultative ERP sales (Omie — Brazil's leading cloud ERP), business consulting, and analytics.** I diagnose where SaaS, DTC, and Ecommerce companies lose revenue and build the governed AI pipelines to capture it.
+**Senior Data Analyst & Analytics Engineer with 10+ years across consultative ERP sales (Omie — Brazil's leading cloud ERP), business consulting, and analytics.** I diagnose where SaaS, DTC, and E-Commerce companies lose revenue and build the governed Agentic BI systems to capture it.
 
 I've sat in the revenue meetings. I know what the VP of Sales needs by Monday morning — and I build the analytics to answer it before they ask.
 
@@ -89,17 +89,15 @@ BI Architecture · Revenue Analytics · Marketing & Funnel Analytics · SaaS Uni
 
 ## 🚀 Featured Projects
 
-|          Category          | Project                                                                             | Stack                                           |
-| :------------------------: | :---------------------------------------------------------------------------------- | :---------------------------------------------- |
-|   **🏆 AI / Analytics Eng** | [**Full-Funnel AI Analytics Platform**](#p-fullfunnel)                              | dbt · MCP · BigQuery · XGBoost · Claude/Gemini  |
-|      **RevOps / AI**       | [**RevOps Lead Engine: AI-Powered B2B Command Center**](#prevops)                   | Python · Streamlit · Plotly · XAI               |
-| **Product Strategy / UXR** | [**Epic Games Store: 2026 Ecosystem Intelligence Audit**](#p0)                      | Python · Streamlit · Random Forest · NLP        |
-|       **GenAI / BI**       | [**Conversational BI & Generative Analytics (Music Trends)**](#p3)                  | Streamlit · LLMs · LangChain                    |
-|     **Auto / Market**      | [**Automotive Market Intelligence & AI Agent**](#p4)                                | Python · Gemini AI · Plotly                     |
-|    **Sales / Strategy**    | [**Strategic Revenue & Churn Analysis (Telecom)**](#p1)                             | Python · Stats · Business Logic                 |
-|    **Gaming / Strategy**   | [**Global Gaming Market Strategy**](#p5)                                            | Python · Stats · EDA                            |
-|      **Stats / Edu**       | [**PunkSQL — Mobile SQL Learning Platform**](#p-punksql)                            | Next.js · SQLite/WASM · Vercel · Google OAuth   |
-|   **Infra / AI Chatbot**   | [**Portfolio Website + AI Chatbot Infrastructure**](#p-portfolio-infra)             | React · Gemini · Cloud Run · LangFuse · Docker  |
+|          Category           | Project                                                                              | Stack                                            |
+| :-------------------------: | :----------------------------------------------------------------------------------- | :----------------------------------------------- |
+|  **🏆 AI / Analytics Eng**  | [**Full-Funnel AI Analytics Platform**](#p-fullfunnel)                               | dbt · MCP · BigQuery · XGBoost · Claude/Gemini   |
+|   **🧠 AI Tooling / OSS**   | [**Unified AI Data Framework**](#p-unified)                                          | Claude Code · 12 Playbooks · 33 Skills · 9 Personas |
+|      **RevOps / AI**        | [**RevOps Lead Engine: AI-Powered B2B Command Center**](#prevops)                    | Python · Streamlit · Plotly · XAI                |
+| **Product Strategy / UXR**  | [**Epic Games Store: 2026 Ecosystem Intelligence Audit**](#p0)                       | Python · Streamlit · Random Forest · NLP         |
+|      **Stats / Edu**        | [**PunkSQL — Mobile SQL Learning Platform**](#p-punksql)                             | Next.js · SQLite/WASM · Vercel · Google OAuth    |
+|   **Infra / AI Chatbot**    | [**Portfolio Website + AI Chatbot Infrastructure**](#p-portfolio-infra)              | React · Gemini · Cloud Run · LangFuse · Docker   |
+|      **GenAI / BI**         | [**Conversational BI & Generative Analytics (Music Trends)**](#p3)                   | Streamlit · LLMs · LangChain                     |
 
 ---
 
@@ -165,6 +163,85 @@ Most AI-to-SQL tools fail because they lack a source of truth. This project solv
 
 <br>
 
+<!-- PROJECT: UNIFIED AI DATA FRAMEWORK -->
+<div align="center" id="p-unified">
+<img src="https://img.shields.io/badge/🧠%20AI%20Tooling-Unified%20AI%20Data%20Framework-673086?style=for-the-badge">
+  
+<h2 style="margin-top: 10px;">🧠 Unified AI Data Framework</h2>
+
+<h3><i>Turn Claude Code into a senior data science team — 12 playbooks · 33 skill templates · 9 LLM personas · $0/month</i></h3>
+
+<a href="https://github.com/eduardocornelsen/unified-ai-data-framework">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/unified-ai-data-framework/main/assets/logo_final.png" width="180" alt="Unified AI Data Framework">
+</a>
+<br><br>
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-673086?style=for-the-badge&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292e?style=for-the-badge&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-24292e?style=for-the-badge&logo=dbt&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-24292e?style=for-the-badge&logo=mlflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-24292e?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
+
+**The Problem:**
+You ask Claude to analyze a dataset. It writes a notebook — with no assumption checks, no baseline comparison, no experiment tracking, inconsistent structure every time. Not because Claude is bad. Because Claude has no structure to follow.
+
+**The Solution:**
+This framework installs a library of playbooks, personas, skills, and guardrails directly into Claude Code. Claude reads them. Claude follows them. You get senior-quality output — every time.
+
+<div align='center'>
+
+| Without this framework | With this framework |
+|---|---|
+| Hallucinated analytical structures | 33 vetted skill templates with scripts |
+| No assumption checks | Full statistical diagnostics before every test |
+| Inconsistent quality across projects | Same playbook, every time |
+| No stakeholder communication plan | Executive summaries + impact quantification |
+| Data leakage goes undetected | DS Reviewer persona audits the full pipeline |
+
+</div>
+
+**Key Numbers:**
+- **12 analytical playbooks** — full DS lifecycle: Problem Framing → EDA → Feature Engineering → Model Training → Stakeholder Communication
+- **33 skill templates** — cohort analysis, A/B testing, funnel analysis, metric reconciliation, root cause investigation, and more
+- **9 LLM personas** — Data Analyst, Analytics Engineer, ML Engineer, DS Reviewer, Product Manager, UX Researcher — deployed as Claude Code `/slash` commands
+- **$0/month** — pure markdown, zero runtime dependencies
+- **Reference implementation included** — fully executed end-to-end pipeline on 10K ad-click records (EDA → Feature Engineering → Model Training → Inferencing)
+
+<div align="center">
+
+**Preview: Databricks Serverless — Live Run Output**
+
+<a href="https://github.com/eduardocornelsen/unified-ai-data-framework">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/unified-ai-data-framework/refs/heads/main/assets/example_output.png" width="100%" alt="Live run output from the framework's EDA playbook on Databricks Serverless — bivariate analysis, multivariate scatter matrix, and temporal click-rate patterns.">
+</a>
+
+<sub>Live run output from the framework's EDA playbook on Databricks Serverless — bivariate analysis, multivariate scatter matrix, and temporal click-rate patterns. Status: Succeeded in 2m 29s. One of 10+ notebooks in the reference implementation pipeline.</sub>
+
+</div>
+
+<br>
+
+**Architecture:**
+```
+Hub (this repo) — Pure markdown. Playbooks, personas, skills, templates.
+ ├── Engine (ai-analyst) — Python execution backend
+ └── full-funnel-ai-analytics — Production deployment using this framework
+```
+
+> This is the methodology layer behind the Full-Funnel AI Analytics Platform above.
+
+<div align='center'>
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/unified-ai-data-framework)
+
+</div>
+
+***
+
+<br>
+
 <!-- PROJECT REVOPS: B2B LEAD ENGINE -->
 <div align="center" id="prevops">
 <img src="https://img.shields.io/badge/🚀%20RevOps%20%26%20AI-B2B%20Command%20Center-673086?style=for-the-badge">
@@ -220,16 +297,17 @@ Most B2B sales teams burn 60–70% of SDR time on manual prospecting. This proje
 ![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-24292e?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-24292e?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![GenAI](https://img.shields.io/badge/NotebookLM-24292e?style=for-the-badge&logo=google&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-24292e?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
 **Business Context:**
-A strategic audit transitioning the Epic Games Store from a digital storefront to an "Ecosystem of Intelligence." **Random Forest Regression (R²=0.39)** and **K-Means Clustering** decode the "UX Alpha" — proving 60% of player satisfaction is driven by intangible factors beyond price and specs.
+A strategic audit transitioning the Epic Games Store from a digital storefront to an "Ecosystem of Intelligence." **Random Forest Regression (R²=0.392)** and **K-Means Clustering** decode the "UX Alpha" — proving 60% of player satisfaction is driven by intangible factors beyond price and specs.
 
 **Key Findings:**
 - **The "Hardware Wall":** High system requirements correlate negatively (-0.133) with user ratings — a critical churn zone
 - **Behavioral Segmentation:** 4 Product Personas mapping the "Premium Friction" risk in high-cost Indie titles
+- **SHAP values** revealing that review velocity outweighs review volume in driving satisfaction scores
 - **Final-round candidate for Epic Games Data Analyst role (2026)**
 
 <div align='center'>
@@ -323,17 +401,14 @@ Browser → React 19 + Vite (SSE streaming) → Express proxy → Gemini 2.5 Fla
 **Key Features:**
 - **Streaming AI chatbot** — Server-Sent Events deliver token-by-token responses; no waiting for the full reply
 - **4-layer security model** — client sanitization, IP rate-limiting, canary token injection, intent classification (jailbreak detection)
-- **LLMOps with LangFuse** — every conversation traced with cost ($0.15/1M input), latency, and safety flag
+- **LLMOps with LangFuse** — every conversation traced with cost, latency, and safety flag
 - **Zero-touch CI/CD** — push to `main`, site is live in ~3 minutes via OIDC-authenticated GitHub Actions
 - **$0/month at rest** — Cloud Run scales to zero when idle
-
-**Open source — replicate it yourself:**
 
 <div align='center'>
 
 [![Live Site](https://img.shields.io/badge/Live_Site-eduardocornelsen.com-673086?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=infra_badge)
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/cv-educornelsen)
-
 
 </div>
 
@@ -362,93 +437,18 @@ Browser → React 19 + Vite (SSE streaming) → Express proxy → Gemini 2.5 Fla
 
 ![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-673086?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-673086?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_Flash-673086?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-24292e?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
 **Business Context:**
-Stakeholders need quick answers but lack SQL skills. This solves that by integrating an **LLM directly into the dashboard** — ask *"What was the most popular genre in the 80s?"* and get an instant data-backed answer. Analysis of 170k+ tracks spanning 100 years.
+Stakeholders need quick answers but lack SQL skills. This solves that by integrating an **LLM directly into the dashboard** — ask *"What was the most popular genre in the 80s?"* and get an instant data-backed answer. Analysis of 160k+ tracks spanning 100 years.
 
 <div align='center'>
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/spotify-music-insights-ai)
 [![Launch App](https://img.shields.io/badge/Launch_App-673086?style=for-the-badge&logo=streamlit&logoColor=white)](https://spotify-music-insights-ai.streamlit.app/)
-
-</div>
-
-***
-
-<!-- PROJECT 4: CAR SALES AI -->
-<div align="center" id="p4">
-<img src="https://img.shields.io/badge/🚗%20Automotive%20Market-AI%20Agent-24292e?style=for-the-badge">
-  
-<h2 style="margin-top: 10px;">🚗 Automotive Market Intelligence & AI Agent</h2>
-<h3><i>Advanced EDA with Tool-Calling AI for Market Trends</i></h3>
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://car-sales-analyst-ai.streamlit.app/)
-
-![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-673086?style=for-the-badge&logo=google&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-24292e?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
-
-**Business Context:**
-Tool-Calling AI Agent using Gemini 2.5 Flash that writes and executes Python code in real-time to answer complex questions about vehicle depreciation, market saturation, and pricing trends.
-
-<div align='center'>
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/car-sales-analyst-ai)
-[![Launch App](https://img.shields.io/badge/Launch_App-24292e?style=for-the-badge&logo=streamlit&logoColor=white)](https://car-sales-analyst-ai.streamlit.app/)
-
-</div>
-
-***
-
-<!-- PROJECT 1: MEGALINE -->
-<div align="center" id="p1">
-<img src="https://img.shields.io/badge/📈%20Revenue%20%26%20Churn-Telecom%20Analytics-24292e?style=for-the-badge">
-  
-<h2 style="margin-top: 10px;">📈 Strategic Revenue Optimization (Telecom)</h2>
-<h3><i>Statistical Analysis for Plan Profitability & Churn</i></h3>
-
-![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
-![Stats](https://img.shields.io/badge/Hypothesis_Testing-24292e?style=for-the-badge)
-
-</div>
-
-**Business Context:**
-Comparative revenue analysis of mobile plans to identify user behaviors, inform marketing budget allocation, and maximize ARPU. Statistical hypothesis testing to validate profitability strategies.
-
-<div align='center'>
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/megaline_revenue_analysis_story)
-[![View Story](https://img.shields.io/badge/View_Story-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
-
-</div>
-***
-
-<!-- PROJECT 5: VIDEOGAMES -->
-<div align="center" id="p5">
-<img src="https://img.shields.io/badge/🎮%20Gaming%20Strategy-Technical%20Analysis-24292e?style=for-the-badge">
-  
-<h2 style="margin-top: 10px;">🎮 Global Gaming Market Strategy</h2>
-<h3><i>Predicting Sales Success to Mitigate Launch Risks</i></h3>
-
-![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
-![Stats](https://img.shields.io/badge/Hypothesis_Testing-24292e?style=for-the-badge)
-
-</div>
-
-**Business Context:**
-Identifies success drivers in the console/PC gaming industry by analyzing global historical sales data. Builds a predictive framework to support Go-To-Market strategies and mitigate launch risks.
-
-> 📓 **Available as a deep-dive technical notebook** — extensive EDA, hypothesis testing, and strategic analysis. Portuguese only.
-
-<div align='center'>
-
-[![View Technical Notebook](https://img.shields.io/badge/View_Technical_Notebook-24292e?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/eduardocornelsen/videogames-revenue-analysis)
 
 </div>
 
@@ -465,7 +465,7 @@ Identifies success drivers in the console/PC gaming industry by analyzing global
 
 > **Senior Data Analyst & Analytics Engineer | Revenue Operations (RevOps) · AI & Agentic BI | SQL · Python · dbt · BigQuery · MCP**
 
-**Senior Data Analyst & Analytics Engineer com mais de 10 anos entre vendas consultivas de ERP (Omie — maior ERP cloud do Brasil), consultoria de negócios e analytics.** Eu identifico onde empresas de SaaS, DTC e E-commerce perdem receita e construo os pipelines de IA governados para capturá-la.
+**Senior Data Analyst & Analytics Engineer com mais de 10 anos entre vendas consultivas de ERP (Omie — maior ERP cloud do Brasil), consultoria de negócios e analytics.** Eu identifico onde empresas de SaaS, DTC e E-Commerce perdem receita e construo os sistemas de Agentic BI governados para capturá-la.
 
 Já estive nas reuniões de receita. Sei o que o VP de Vendas precisa na segunda de manhã — e construo a analytics para responder antes de ser perguntado.
 
@@ -484,17 +484,15 @@ Arquitetura de BI · Revenue Analytics · Analytics de Marketing & Funil · Unit
 
 ## 🚀 Projetos em Destaque
 
-|           Categoria            | Projeto                                                                              | Stack                                           |
-| :----------------------------: | :----------------------------------------------------------------------------------- | :---------------------------------------------- |
-|   **🏆 IA / Analytics Eng**    | [**Full-Funnel AI Analytics Platform**](#p-fullfunnel-pt)                            | dbt · MCP · BigQuery · XGBoost · Claude/Gemini  |
-|        **RevOps / IA**         | [**RevOps Lead Engine: Central de Comando B2B**](#prevops-pt)                        | Python · Streamlit · Plotly · XAI               |
-| **Estratégia de Produto / UXR**| [**Epic Games Store: Auditoria de Inteligência (2026)**](#p0-pt)                     | Python · Streamlit · Random Forest · NLP        |
-|         **GenAI / BI**         | [**BI Conversacional & Analytics Generativo**](#p3-pt)                               | Streamlit · LLMs · LangChain                    |
-|         **Auto / IA**          | [**Inteligência de Mercado Automotivo & Agente IA**](#p4-pt)                         | Python · Gemini AI · Plotly                     |
-|    **Vendas / Estratégia**     | [**Otimização de Receita & Churn (Telecom)**](#p1-pt)                                | Python · Stats · Lógica de Negócios             |
-|    **Gaming / Estratégia**     | [**Estratégia Global de Mercado de Games**](#p5-pt)                                  | Python · Stats · EDA                            |
-|        **Edu / SQL**           | [**PunkSQL — Plataforma de Aprendizado de SQL**](#p-punksql-pt)                      | Next.js · SQLite/WASM · Vercel · Google OAuth   |
-|   **Infra / AI Chatbot**       | [**Infraestrutura Portfolio Website + AI Chatbot**](#p-portfolio-infra-pt)           | React · Gemini · Cloud Run · LangFuse · Docker  |
+|           Categoria            | Projeto                                                                              | Stack                                            |
+| :----------------------------: | :----------------------------------------------------------------------------------- | :----------------------------------------------- |
+|   **🏆 IA / Analytics Eng**    | [**Full-Funnel AI Analytics Platform**](#p-fullfunnel-pt)                            | dbt · MCP · BigQuery · XGBoost · Claude/Gemini   |
+|   **🧠 AI Tooling / OSS**      | [**Unified AI Data Framework**](#p-unified-pt)                                       | Claude Code · 12 Playbooks · 33 Skills · 9 Personas |
+|        **RevOps / IA**         | [**RevOps Lead Engine: Central de Comando B2B**](#prevops-pt)                        | Python · Streamlit · Plotly · XAI                |
+| **Estratégia de Produto / UXR**| [**Epic Games Store: Auditoria de Inteligência (2026)**](#p0-pt)                     | Python · Streamlit · Random Forest · NLP         |
+|        **Edu / SQL**           | [**PunkSQL — Plataforma de Aprendizado de SQL**](#p-punksql-pt)                      | Next.js · SQLite/WASM · Vercel · Google OAuth    |
+|   **Infra / AI Chatbot**       | [**Infraestrutura Portfolio Website + AI Chatbot**](#p-portfolio-infra-pt)           | React · Gemini · Cloud Run · LangFuse · Docker   |
+|         **GenAI / BI**         | [**BI Conversacional & Analytics Generativo**](#p3-pt)                               | Streamlit · LLMs · LangChain                     |
 
 ---
 
@@ -540,19 +538,91 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 
 <br>
 
+<!-- PROJECT: UNIFIED AI DATA FRAMEWORK PT -->
+<div align="center" id="p-unified-pt">
+<img src="https://img.shields.io/badge/🧠%20AI%20Tooling-Unified%20AI%20Data%20Framework-673086?style=for-the-badge">
+  
+<h2 style="margin-top: 10px;">🧠 Unified AI Data Framework</h2>
+
+<h3><i>Transforme Claude Code em um time sênior de data science — 12 playbooks · 33 templates · 9 personas · $0/mês</i></h3>
+
+<a href="https://github.com/eduardocornelsen/unified-ai-data-framework">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/unified-ai-data-framework/main/assets/logo_final.png" width="180" alt="Unified AI Data Framework">
+</a>
+<br><br>
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-673086?style=for-the-badge&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292e?style=for-the-badge&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-24292e?style=for-the-badge&logo=dbt&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-24292e?style=for-the-badge&logo=mlflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-24292e?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
+
+**O Problema:**
+Você pede ao Claude para analisar um dataset. Ele escreve um notebook — sem verificações de premissas, sem baseline de comparação, sem rastreamento de experimentos, estrutura inconsistente a cada vez. Não porque o Claude é ruim. Porque o Claude não tem estrutura para seguir.
+
+**A Solução:**
+Este framework instala uma biblioteca de playbooks, personas, skills e guardrails diretamente no Claude Code. O Claude lê. O Claude segue. Você recebe output de qualidade sênior — sempre.
+
+**Números-chave:**
+- **12 playbooks analíticos** — ciclo completo de DS: Problem Framing → EDA → Feature Engineering → Model Training → Stakeholder Communication
+- **33 skill templates** — cohort analysis, A/B testing, funnel analysis, metric reconciliation e mais
+- **9 personas LLM** — Data Analyst, Analytics Engineer, ML Engineer, DS Reviewer, Product Manager — como comandos `/slash` no Claude Code
+- **$0/mês** — markdown puro, zero dependências de runtime
+- **Implementação de referência inclusa** — pipeline end-to-end executado em 10K registros de ad-click
+
+<div align="center">
+
+**Preview: Databricks Serverless — Live Run Output**
+
+<a href="https://github.com/eduardocornelsen/unified-ai-data-framework">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/unified-ai-data-framework/refs/heads/main/assets/example_output.png" width="100%" alt="Output ao vivo do playbook de EDA no Databricks Serverless — análise bivariada, scatter matrix multivariada e padrões temporais de click-rate.">
+</a>
+
+<sub>Output ao vivo do playbook de EDA no Databricks Serverless — análise bivariada, scatter matrix multivariada e padrões temporais de click-rate. Status: Succeeded em 2m 29s. Um dos 10+ notebooks no pipeline da implementação de referência.</sub>
+
+</div>
+
+<br>
+
+<div align='center'>
+
+[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/unified-ai-data-framework)
+
+</div>
+
+***
+
+<br>
+
 <!-- PROJECT REVOPS PT -->
 <div align="center" id="prevops-pt">
 <img src="https://img.shields.io/badge/🚀%20RevOps%20%26%20IA-Central%20de%20Comando%20B2B-673086?style=for-the-badge">
   
 <h2 style="margin-top: 10px;">🚀 RevOps Lead Engine: Central de Comando B2B com IA</h2>
 
+<h3><i>Geração autônoma de leads · Modelagem preditiva de receita · Analytics de retenção pós-venda</i></h3>
+
 <a href="https://revops-lead-engine.streamlit.app/">
   <img src="https://raw.githubusercontent.com/eduardocornelsen/revops_lead_engine/main/docs/images/cover-small.jpg" width="100%" alt="RevOps Lead Engine Dashboard" style="border-radius: 8px;">
 </a>
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-24292e?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-24292e?style=for-the-badge&logo=plotly&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-24292e?style=for-the-badge&logo=pydantic&logoColor=white)
 
 </div>
 
-**Contexto:** Plataforma RevOps totalmente autônoma — da descoberta de leads por ICP ao scoring com IA, modelagem preditiva de receita e rastreamento de retenção pós-venda. IA Explicável (XAI) em cada score.
+**Contexto:** Plataforma RevOps totalmente autônoma — da descoberta de leads por ICP ao scoring com IA, modelagem preditiva de receita e rastreamento de retenção pós-venda. IA Explicável (XAI) em cada score de lead.
+
+**Destaques:**
+- **AI RevOps Copilot:** Chat em linguagem natural para análise de risco de pipeline e ritmo de quota
+- **Revenue Scenario Modeler:** 4 alavancas (Volume, Win Rate, ACV, Cycle Time) → projeções de receita em curva-S de 90 dias
+- **Módulo NDR Pós-Venda:** Net Dollar Retention, Account Health scoring, ARR Waterfall charts
+- **XAI:** Cada score de lead inclui raciocínio transparente — sem modelos black-box
 
 <div align='center'>
 
@@ -574,17 +644,25 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 <a href="https://github.com/eduardocornelsen/epic-store-analysis">
   <img src="https://raw.githubusercontent.com/eduardocornelsen/epic-store-analysis/main/images/cover/Cover-H-16-9-EpicGames-UXResearch-low.jpg" width="100%" style="border-radius: 8px;">
 </a>
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-24292e?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-24292e?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-24292e?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
-**Descobertas principais:** Hardware Wall (-0.133 correlação), 4 Personas de Produto, 60% da satisfação do jogador impulsionada por fatores intangíveis. **Finalista para a vaga de Data Analyst na Epic Games (2026).**
+**Descobertas principais:** Hardware Wall (-0.133 correlação com satisfação), 4 Personas de Produto, 60% da satisfação do jogador impulsionada por fatores intangíveis de UX. SHAP values revelando que velocidade de reviews supera volume na predição de satisfação.
+
+**Finalista para a vaga de Data Analyst na Epic Games (2026).**
 
 <div align='center'>
 
 [![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_UXR-673086?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-bqd7O1e-ZP4aW_Bcv4mSAc0QmXR0cmB/view?usp=drive_link)
 [![Acessar Dashboard](https://img.shields.io/badge/Acessar_Dashboard-24292e?style=for-the-badge&logo=streamlit&logoColor=white)](https://epic-store-analysis.streamlit.app/)
 [![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/epic-store-analysis)
-
+[![Ver Notebook](https://img.shields.io/badge/Ver_Notebook_Técnico-24292e?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/eduardocornelsen/epic-store-analysis/blob/main/notebooks/epic_notebook.ipynb)
 
 </div>
 
@@ -598,13 +676,21 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 
 <h2 style="margin-top: 10px;">>_ PunkSQL — Plataforma de Aprendizado de SQL</h2>
 
+<h3><i>Duolingo meets LeetCode · 80 desafios · Execução real de SQL no browser · Estética cyberpunk</i></h3>
+
 </div>
 
 <a href="https://punksql.vercel.app">
   <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/punksql/demo-iphone-converted.gif" width="100%" alt="PunkSQL — Demo Plataforma de Aprendizado de SQL">
 </a>
+<br><br>
 
-**Plataforma mobile-first** para aprender SQL com estética cyberpunk. 80 desafios, 8 módulos (SELECT → CTEs), execução real de SQL no browser via SQLite/WASM, gamificação completa, Google OAuth, bilíngue EN/PT-BR.
+![Next.js](https://img.shields.io/badge/Next.js-24292e?style=for-the-badge&logo=next.js)
+![SQLite](https://img.shields.io/badge/SQLite-24292e?style=for-the-badge&logo=sqlite)
+![Supabase](https://img.shields.io/badge/Supabase-24292e?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-24292e?style=for-the-badge&logo=vercel)
+
+**Plataforma mobile-first** para aprender SQL com estética cyberpunk. 80 desafios, 8 módulos (SELECT → CTEs), execução real de SQL no browser via SQLite/WASM, gamificação completa (20 níveis, XP, conquistas), Google OAuth, bilíngue EN/PT-BR. $0/mês de infraestrutura.
 
 <div align='center'>
 
@@ -625,6 +711,13 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 
 <h3><i>AI chatbot com streaming · Google Cloud Run · CI/CD GitHub Actions · LLMOps com LangFuse · segurança 4 camadas · $0/mês</i></h3>
 
+</div>
+
+<a href="https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=infra_project_pt">
+  <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/portfolio-infra/lp.webp" width="100%" alt="Eduardo Cornelsen Portfolio — Site ao Vivo">
+</a>
+<br><br>
+
 ![React](https://img.shields.io/badge/React_19-24292e?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-24292e?style=for-the-badge&logo=typescript&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-673086?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -633,24 +726,21 @@ Responder isso exige unir dados de 5+ plataformas, construir modelos de atribui�
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292e?style=for-the-badge&logo=githubactions&logoColor=white)
 ![LangFuse](https://img.shields.io/badge/LangFuse-24292e?style=for-the-badge&logoColor=white)
 
-</div>
-
-<a href="https://eduardocornelsen.com/?utm_source=github&utm_medium=referral&utm_campaign=infra_project_pt">
-  <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/portfolio-infra/lp.webp" width="100%" alt="Eduardo Cornelsen Portfolio — Site ao Vivo">
-</a>
-<br><br>
-
 **O que é:**
-A infraestrutura de produção que roda este portfólio — não um projeto paralelo, mas o sistema ao vivo que você está vendo agora. Construído para ser prova de trabalho em si mesmo: chatbot de IA com streaming, containerizado via Docker multi-stage, implantado no Google Cloud Run via pipeline GitHub Actions zero-touch, com cada conversa rastreada no LangFuse para custo, latência e segurança.
+A infraestrutura de produção que roda este portfólio. Chatbot de IA com streaming, containerizado via Docker multi-stage, implantado no Google Cloud Run via GitHub Actions zero-touch, com cada conversa rastreada no LangFuse para custo, latência e segurança.
+
+**Arquitetura:**
+```
+GitHub push → Actions: Docker build → Artifact Registry → Cloud Run deploy
+Browser → React 19 + Vite (SSE streaming) → Express proxy → Gemini 2.5 Flash
+                                                           → LangFuse (trace every token)
+```
 
 **Destaques:**
-- **Chatbot com streaming** — Server-Sent Events entregam respostas token a token, sem espera
 - **Segurança em 4 camadas** — sanitização no cliente, rate-limit por IP, canary token, classificação de intenção (detecção de jailbreak)
-- **LLMOps com LangFuse** — cada conversa rastreada com custo estimado, latência e flag de segurança
+- **LLMOps com LangFuse** — cada conversa rastreada com custo, latência e flag de segurança
 - **CI/CD zero-touch** — push para `main`, site no ar em ~3 minutos via GitHub Actions com OIDC
 - **$0/mês em repouso** — Cloud Run escala para zero quando ocioso
-
-**Open source — replique você mesmo:**
 
 <div align='center'>
   
@@ -666,6 +756,7 @@ A infraestrutura de produção que roda este portfólio — não um projeto para
 <img src="https://img.shields.io/badge/🔥%20GenAI%20&%20BI-Conversational%20Analytics-673086?style=for-the-badge">
 
 <h2>🎵 Conversational BI & Generative Analytics</h2>
+<h3><i>"Chat with Data" Agent — 100 Anos de História Musical</i></h3>
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spotify-music-insights-ai.streamlit.app/)
 
@@ -674,8 +765,14 @@ A infraestrutura de produção que roda este portfólio — não um projeto para
 <a href="https://spotify-music-insights-ai.streamlit.app/">
   <img src="https://raw.githubusercontent.com/eduardocornelsen/cv-educornelsen/main/src/assets/projects/spotify-project/insights.webp" width="100%" alt="MusicInsights AI — Dashboard de BI Conversacional">
 </a>
+<br><br>
 
-Dashboard interativo com **Consultor IA** — gestores perguntam em português e recebem respostas baseadas em 100 anos de dados musicais (170k+ tracks).
+![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-673086?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_Flash-673086?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-24292e?style=for-the-badge&logo=streamlit&logoColor=white)
+
+Dashboard interativo com **Consultor IA** — gestores perguntam em linguagem natural e recebem respostas baseadas em dados de 160k+ tracks cobrindo 100 anos de evolução musical.
 
 <div align='center'>
 
@@ -683,75 +780,6 @@ Dashboard interativo com **Consultor IA** — gestores perguntam em português e
 [![Acessar App](https://img.shields.io/badge/Acessar_App-673086?style=for-the-badge&logo=streamlit&logoColor=white)](https://spotify-music-insights-ai.streamlit.app/)
 
 </div>
-
-***
-
-<!-- PROJECT 4 PT -->
-<div align="center" id="p4-pt">
-<img src="https://img.shields.io/badge/🚗%20Mercado%20Automobilístico-AI%20Agent-24292e?style=for-the-badge">
-
-<h2>🚗 Inteligência de Mercado Automotivo & AI Agent</h2>
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://car-sales-analyst-ai.streamlit.app/)
-
-</div>
-
-Agente de IA (Gemini 2.5 Flash) com Tool-Calling que escreve e executa código Python em tempo real para responder perguntas sobre depreciação, saturação de mercado e tendências de preço.
-
-<div align='center'>
-
-[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/car-sales-analyst-ai)
-[![Acessar App](https://img.shields.io/badge/Acessar_App-24292e?style=for-the-badge&logo=streamlit&logoColor=white)](https://car-sales-analyst-ai.streamlit.app/)
-
-</div>
-
-***
-
-<!-- PROJECT 1 PT -->
-<div align="center" id="p1-pt">
-<img src="https://img.shields.io/badge/📈%20Revenue%20%26%20Churn-Telecom%20Analytics-24292e?style=for-the-badge">
-  
-<h2>📈 Otimização de Receita e Estratégia de Churn (Telecom)</h2>
-
-![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
-![Stats](https://img.shields.io/badge/Teste_de_Hipóteses-24292e?style=for-the-badge)
-
-</div>
-
-Análise comparativa de planos móveis para maximizar ARPU e identificar padrões de comportamento. Testes de hipóteses para validar estratégias de precificação e retenção.
-
-<div align='center'>
-
-[![Ver Repo](https://img.shields.io/badge/Ver_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardocornelsen/megaline_revenue_analysis_story)
-[![Ver Story](https://img.shields.io/badge/Ver_Story-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://eduardocornelsen.github.io/megaline_revenue_analysis_story/)
-
-</div>
-
-***
-
-<!-- PROJECT 5 PT -->
-<div align="center" id="p5-pt">
-<img src="https://img.shields.io/badge/🎮%20Estratégia%20de%20Games-Análise%20Técnica%20Profunda-24292e?style=for-the-badge">
-  
-<h2>🎮 Estratégia Global de Mercado de Games</h2>
-<h3><i>Predição de Sucesso de Vendas para Mitigação de Riscos</i></h3>
-
-![Python](https://img.shields.io/badge/Python-673086?style=for-the-badge&logo=python&logoColor=white)
-![Stats](https://img.shields.io/badge/Teste_de_Hipóteses-24292e?style=for-the-badge)
-
-</div>
-
-**Contexto de Negócio:**
-Identifica drivers de sucesso na indústria de games analisando dados históricos globais de vendas. Framework preditivo para suportar estratégias Go-To-Market e mitigar riscos de lançamento.
-
-> 📓 **Disponível como notebook técnico** — EDA extensivo, testes de hipóteses e análise estratégica. Somente em português.
-
-<div align='center'>
-
-[![Ver Notebook Técnico](https://img.shields.io/badge/Ver_Notebook_Técnico-24292e?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/eduardocornelsen/videogames-revenue-analysis)
-
-</div>
-
 
 </details>
 
@@ -761,9 +789,10 @@ Identifica drivers de sucesso na indústria de games analisando dados histórico
 
 ## 🏆 Certifications & Education
 
-[![Data Scientist - TripleTen](https://img.shields.io/badge/DATA%20SCIENTIST-TRIPLETEN-0077B5?style=for-the-badge&logo=googleanalytics&logoColor=white)](YOUR_TRIPLETEN_LINK)
-[![Business Administration - Insper](https://img.shields.io/badge/BUSINESS%20ADMIN-INSPER-CC0000?style=for-the-badge&logo=googleforms&logoColor=white)](YOUR_INSPER_LINK)
-[![Green Belt Falconi](https://img.shields.io/badge/GREEN%20BELT-FALCONI-7b7423?style=for-the-badge)](YOUR_LSS_LINK)
+[![Data Science - TripleTen](https://img.shields.io/badge/DATA%20SCIENCE-TRIPLETEN-0077B5?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://tripleten.com)
+[![Databricks Certified](https://img.shields.io/badge/CERTIFIED-DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/learn/certification)
+[![Business Administration - Insper](https://img.shields.io/badge/BUSINESS%20ADMIN-INSPER-CC0000?style=for-the-badge&logo=googleforms&logoColor=white)](https://www.insper.edu.br/en/home)
+[![Green Belt Falconi](https://img.shields.io/badge/GREEN%20BELT-FALCONI-7b7423?style=for-the-badge)](https://falconi.com)
 
 <br>
 
@@ -794,13 +823,10 @@ Other                      9 hrs 14 mins         ▓░░░░░░░░░�
 <br>
 
 <div align="center"> 
-  <!-- General Stats -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=eduardocornelsen&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF" /> 
   
-  <!-- Streak Stats -->
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardocornelsen&theme=taiga&hide_border=true&ring=00EB93" /> 
 
-  <!-- Top Languages -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocornelsen&layout=compact&hide=html,css&show_icons=true&hide_border=true&bg_color=031b1b&title_color=01ea94&text_color=1e8f92&icon_color=EFEFEF" /> 
 </div>
 <br>
@@ -809,6 +835,6 @@ Other                      9 hrs 14 mins         ▓░░░░░░░░░�
 
 *© 2026 Eduardo Cornelsen — Senior Data Analyst & Analytics Engineer*
 
-*Diagnosing revenue leakage. Building governed AI pipelines to capture it.*
+*Diagnosing revenue leakage. Building governed Agentic BI systems to capture it.*
 
 </div>
