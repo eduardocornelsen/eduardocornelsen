@@ -32,9 +32,9 @@
 
 ## 👋 About Me
 
-> **Analytics Engineer & Data Analyst | Revenue Operations (RevOps) · AI & Agentic BI | SQL · Python · dbt · BigQuery · MCP**
+> **Senior Data Analyst & Analytics Engineer | Revenue Operations (RevOps) · AI & Agentic BI | SQL · Python · dbt · BigQuery · MCP**
 
-**Analytics Engineer & Data Analyst with 10+ years across consultative ERP sales (Omie — Brazil's leading cloud ERP), business consulting, and analytics.** I diagnose where SaaS, Ecommerce, and Fintech companies lose revenue and build the governed AI pipelines to capture it.
+**Senior Data Analyst & Analytics Engineer with 10+ years across consultative ERP sales (Omie — Brazil's leading cloud ERP), business consulting, and analytics.** I diagnose where SaaS, DTC, and Ecommerce companies lose revenue and build the governed AI pipelines to capture it.
 
 I've sat in the revenue meetings. I know what the VP of Sales needs by Monday morning — and I build the analytics to answer it before they ask.
 
@@ -47,7 +47,7 @@ Building governed AI analytics systems where natural language queries return det
 ### 📊 Business Stack
 BI Architecture · Revenue Analytics · Marketing & Funnel Analytics · SaaS Unit Economics (CAC, LTV, MRR, Churn, ROAS) · Financial Modeling · ELT Architecture
 
-🎓 TripleTen Data Science Resident (700h+) · Six Sigma Green Belt · Final-round candidate — Epic Games 2026
+🎓 TripleTen Data Science Program (700h+) · Databricks Certified · Six Sigma Green Belt · Final-round candidate — Epic Games 2026
 
 ---
 
@@ -463,9 +463,9 @@ Identifies success drivers in the console/PC gaming industry by analyzing global
 
 ## 👋 Sobre Mim
 
-> **Analytics Engineer & Data Analyst | Revenue Operations (RevOps) · AI & Agentic BI | SQL · Python · dbt · BigQuery · MCP**
+> **Senior Data Analyst & Analytics Engineer | Revenue Operations (RevOps) · AI & Agentic BI | SQL · Python · dbt · BigQuery · MCP**
 
-**Analytics Engineer & Data Analyst com mais de 10 anos entre vendas consultivas de ERP (Omie — maior ERP cloud do Brasil), consultoria de negócios e analytics.** Eu identifico onde empresas de SaaS, E-commerce e Fintech perdem receita e construo os pipelines de IA governados para capturá-la.
+**Senior Data Analyst & Analytics Engineer com mais de 10 anos entre vendas consultivas de ERP (Omie — maior ERP cloud do Brasil), consultoria de negócios e analytics.** Eu identifico onde empresas de SaaS, DTC e E-commerce perdem receita e construo os pipelines de IA governados para capturá-la.
 
 Já estive nas reuniões de receita. Sei o que o VP de Vendas precisa na segunda de manhã — e construo a analytics para responder antes de ser perguntado.
 
@@ -478,7 +478,7 @@ Construindo sistemas de analytics com IA governada — onde consultas em linguag
 ### 📊 Stack de Negócios
 Arquitetura de BI · Revenue Analytics · Analytics de Marketing & Funil · Unit Economics SaaS (CAC, LTV, MRR, Churn, ROAS) · Modelagem Financeira · Arquitetura ELT
 
-🎓 Residente em Data Science na TripleTen (700h+) · Green Belt Lean Six Sigma · Finalista — Epic Games 2026
+🎓 Programa de Data Science — TripleTen (700h+) · Certificado Databricks · Green Belt Lean Six Sigma · Finalista — Epic Games 2026
 
 ---
 
@@ -807,7 +807,7 @@ Other                      9 hrs 14 mins         ▓░░░░░░░░░�
 
 ---
 
-*© 2026 Eduardo Cornelsen — Analytics Engineer & Data Analyst*
+*© 2026 Eduardo Cornelsen — Senior Data Analyst & Analytics Engineer*
 
 *Diagnosing revenue leakage. Building governed AI pipelines to capture it.*
 
