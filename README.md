@@ -47,7 +47,7 @@ Building governed AI analytics systems where natural language queries return det
 ### 📊 Business Stack
 BI Architecture · Revenue Analytics · Marketing & Funnel Analytics · SaaS Unit Economics (CAC, LTV, MRR, Churn, ROAS) · Financial Modeling · ELT Architecture
 
-🎓 TripleTen Data Science Program (700h+) · Databricks Certified · Six Sigma Green Belt · Final-round candidate — Epic Games 2026
+🎓 TripleTen Data Science Residency (700h+) · Databricks Certified · Six Sigma Green Belt · Final-round candidate — Epic Games 2026
 
 ---
 
@@ -478,7 +478,7 @@ Construindo sistemas de analytics com IA governada — onde consultas em linguag
 ### 📊 Stack de Negócios
 Arquitetura de BI · Revenue Analytics · Analytics de Marketing & Funil · Unit Economics SaaS (CAC, LTV, MRR, Churn, ROAS) · Modelagem Financeira · Arquitetura ELT
 
-🎓 Programa de Data Science — TripleTen (700h+) · Certificado Databricks · Green Belt Lean Six Sigma · Finalista — Epic Games 2026
+🎓 Residência em Data Science — TripleTen (700h+) · Certificado Databricks · Green Belt Lean Six Sigma · Finalista — Epic Games 2026
 
 ---
 
