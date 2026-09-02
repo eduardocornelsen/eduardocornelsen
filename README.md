@@ -803,15 +803,15 @@ Dashboard interativo com **Consultor IA** — gestores perguntam em linguagem na
 <!--START_SECTION:wakatime-->
 
 ```python
-From: 24 October 2025 - To: 31 August 2026
+From: 24 October 2025 - To: 01 September 2026
 
-Total Time: 454 hrs 42 mins
+Total Time: 458 hrs 31 mins
 
-Python                     250 hrs 17 mins       █████████████░░░░░░░░░░░░   52.42 %
-TypeScript                 85 hrs 56 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-Markdown                   71 hrs 8 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-Other                      22 hrs 45 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-HTML                       11 hrs 2 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Python                     250 hrs 17 mins       █████████████░░░░░░░░░░░░   52.01 %
+TypeScript                 86 hrs 45 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
+Markdown                   72 hrs 39 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+Other                      22 hrs 45 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+HTML                       11 hrs 39 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:wakatime-->
