@@ -125,7 +125,7 @@ Ask an AI assistant for "blended ROAS last quarter" twice and you can get two di
 - **Golden metrics layer:** marts are exported to a versioned JSON that dashboards and AI clients read verbatim; a validation script re-queries the warehouse and fails CI on drift or stale data.
 - **4 rule-based attribution models** — first-touch, last-touch, linear, time-decay.
 - **MCP servers** for Google Ads, Meta Ads, GA4, HubSpot and Salesforce (mock APIs) plus an analytics server over the golden layer, used from Claude Desktop and other AI clients.
-- **Runs on DuckDB; tested parity on BigQuery and Snowflake** in CI, plus a 50-case benchmark of how accurately the AI reproduces the canonical numbers.
+- **Runs on DuckDB in CI** (dbt profiles for BigQuery and Snowflake), plus a 50-case benchmark of how accurately the AI reproduces the canonical numbers.
 - **Lead-scoring pipeline demo:** XGBoost → MLflow → FastAPI `/score` → n8n routing. It shows the plumbing; the features are synthetic, so it makes no predictive claim.
 
 **Data:** real Olist e-commerce orders (public Kaggle dataset) + synthetic ad, web-analytics and CRM data generated around them.
@@ -427,7 +427,7 @@ Pergunte duas vezes a um assistente de IA o "ROAS blended do último trimestre" 
 - **Camada de golden metrics:** os marts são exportados para um JSON versionado que dashboards e clientes de IA leem sem recalcular; um script de validação reconsulta o warehouse e falha o CI se houver divergência ou dado desatualizado.
 - **4 modelos de atribuição baseados em regras** — first-touch, last-touch, linear, time-decay.
 - **Servidores MCP** para Google Ads, Meta Ads, GA4, HubSpot e Salesforce (APIs simuladas) e um servidor de analytics sobre a camada golden, usados no Claude Desktop e em outros clientes de IA.
-- **Roda em DuckDB; paridade testada em BigQuery e Snowflake** no CI, mais um benchmark de 50 casos sobre a precisão com que a IA reproduz os números canônicos.
+- **Roda em DuckDB no CI** (com perfis dbt para BigQuery e Snowflake), mais um benchmark de 50 casos sobre a precisão com que a IA reproduz os números canônicos.
 - **Demo de pipeline de lead scoring:** XGBoost → MLflow → FastAPI `/score` → roteamento no n8n. Mostra o encanamento; as features são sintéticas, então não há alegação preditiva.
 
 **Dados:** pedidos reais de e-commerce da Olist (dataset público do Kaggle) + dados sintéticos de anúncios, web analytics e CRM gerados em torno deles.
